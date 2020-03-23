@@ -1,4 +1,4 @@
-
+.DS_Store
 *.csv
 
 #jupyter notebook checkpoints
