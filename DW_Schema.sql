@@ -1,7 +1,7 @@
 -- Create DW
 
-DROP DATABASE IF EXISTS Airbnb;
-CREATE DATABASE Airbnb;
+-- DROP DATABASE IF EXISTS Airbnb;
+-- CREATE DATABASE Airbnb;
 
 -- Create Dimensions (Change Database at this point)
 
@@ -41,9 +41,12 @@ CREATE TABLE Date (
     WEEK INT NOT NULL,
     MONTH INT NOT NULL,
     YEAR INT NOT NULL,
-    SEASON VARCHAR(20) CHECK(SEASON in ('Spring', 'Summer', 'Autumn', 'Winter')) NOT NULL,
-    HOLIDAY VARCHAR(10) CHECK (HOLIDAY in ('Holiday', 'Not Holiday')) NOT NULL,
-    WEEKEND VARCHAR(10) CHECK (WEEKEND in ('Weekend', 'Not Weekend')) NOT NULL
+    SEASON VARCHAR(10) CHECK(SEASON in ('Spring', 'Summer', 'Autumn', 'Winter')) NOT NULL,
+    -- HOLIDAY VARCHAR(11) CHECK (HOLIDAY in ('Holiday', 'Not Holiday')) NOT NULL,
+    WEEKEND VARCHAR(11) CHECK (WEEKEND in ('Weekend', 'Work Day')) NOT NULL,
+	WEEKDAY VARCHAR(10) CHECK (WEEKDAY IN ('Monday','Tuesday','Wednesday','Thursday','Friday')) NOT NULL,
+	QUARTER VARCHAR(2) CHECK(QUARTER IN ('Q1','Q2','Q3','Q4')) NOT NULL,
+	SEMESTER VARCHAR(2) CHECK(SEMESTER IN ('S1','S2')) NOT NULL
 );
 
 CREATE TABLE Property (
