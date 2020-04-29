@@ -12,6 +12,7 @@ CREATE TABLE Location (
     COUNTY VARCHAR(20) NOT NULL,
     ZIP_CODE VARCHAR(8) NOT NULL,
     COASTAL_AREA VARCHAR(20) CHECK (COASTAL_AREA in ('Coastal Area', 'Not Coastal Area'))
+    -- PRICE_M2 VARCHAR(20) 
 );
 
 CREATE TABLE Host (
@@ -51,14 +52,14 @@ CREATE TABLE Date (
 
 CREATE TABLE Property (
     PROPERTY_ID SERIAL PRIMARY KEY NOT NULL,
-    PROPERTY_TYPE VARCHAR(30) CHECK (PROPERTY_TYPE in ('Apartment', 'GuestHouse', 'House', 'Hostel', 'Room')) NOT NULL,
+    PROPERTY_TYPE_CATEGORY VARCHAR(30) CHECK (PROPERTY_TYPE in ('Apartment', 'Guesthouse', 'House', 'Hotel/Hostel')) NOT NULL,
+    PROPERTY_TYPE VARCHAR(30) CHECK (PROPERTY_TYPE in ('Apartment','Serviced apartment','Aparthotel','Loft','House','Townhouse','Villa','Dome house','Vacation home','Lighthouse','Casa particular (Cuba)','Tiny house','Farm stay','Cottage','Guesthouse','Guest suite','Hostel','Bed and breakfast','Boutique hotel','Hotel')) NOT NULL,
     ROOM_TYPE VARCHAR(30) CHECK (ROOM_TYPE in ('Entire Property', 'Private Room', 'Hotel Room', 'Shared Room')) NOT NULL,
-    ACCOMMODATES VARCHAR(10) CHECK (ACCOMMODATES in ('0-2','2-4','4-6','>6')) NOT NULL,
-    BATHROOMS VARCHAR(10) CHECK (BATHROOMS in ('0','1','2','3','>=4')) NOT NULL,
-    BEDROOMS VARCHAR(10) CHECK (BEDROOMS in ('T0','T1','T2','T3','T>=4')) NOT NULL,
-    BEDS VARCHAR(10) CHECK (BATHROOMS in ('0','1','2','3','>=4')) NOT NULL,
-    BED_TYPE VARCHAR(30) CHECK (BED_TYPE in ('Real Bed', 'Pull-out Sofa', 'Futton', 'Couch', 'Airbed')) NOT NULL,
-    PRICE_SRQT VARCHAR(10) CHECK (PRICE_SRQT in ('Expensive', 'Medium', 'Cheap')) NOT NULL
+    ACCOMMODATES VARCHAR(30) CHECK (ACCOMMODATES in ('Up to 2 guests','Up to 4 guests','Up to 6 guests','Up to 7 guests or more')) NOT NULL,
+    BATHROOMS VARCHAR(30) CHECK (BATHROOMS in ('No bathrooms','1 bathroom','2 bathrooms','3 bathrooms','4+ bathrooms')) NOT NULL,
+    BEDROOMS VARCHAR(10) CHECK (BEDROOMS in ('T0','T1','T2','T3','T4+')) NOT NULL,
+    BEDS VARCHAR(10) CHECK (BATHROOMS in ('No beds','1 bed','2 beds','3 beds','4+ beds')) NOT NULL,
+    BED_TYPE VARCHAR(30) CHECK (BED_TYPE in ('Real Bed', 'Pull-out Sofa', 'Futton', 'Couch', 'Airbed')) NOT NULL
 );
 
 -- Create Facts Tables
