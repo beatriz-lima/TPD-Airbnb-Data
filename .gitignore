@@ -1,5 +1,5 @@
 .DS_Store
-*.csv
-
 #jupyter notebook checkpoints
 .ipynb_checkpoints
+data
+docker
