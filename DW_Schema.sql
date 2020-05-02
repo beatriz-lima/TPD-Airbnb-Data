@@ -18,24 +18,24 @@ CREATE TABLE IF NOT EXISTS Location (
 
 CREATE TABLE Host (
     HOST_ID SERIAL PRIMARY KEY NOT NULL,
-    HOST_NAME VARCHAR(40) NOT NULL ,
-    HOST_SINCE date,
-    HOST_COUNTRY VARCHAR(10),
-    HOST_CONTINENT VARCHAR(20) CHECK (HOST_CONTINENT in ('Asia', 'Africa', 'Europe', 'North America', 'South America', 'Oceania', 'Antarctica')) NOT NULL,
-    HOST_COUNTRY_GDP VARCHAR(20) CHECK (HOST_COUNTRY_GDP in ('Poor', 'Medium', 'Rich')) NOT NULL,
-    HOST_RESPONSE_TIME VARCHAR(20) CHECK (HOST_RESPONSE_TIME in ('a few days or more', 'within a day', 'within a few hours', 'within an hour')) NOT NULL,
-    HOST_IS_SUPERHOST VARCHAR(20) CHECK (HOST_IS_SUPERHOST in ('Superhost', 'Not Superhost')) NOT NULL,
-    HOST_IDENTITY_VERIFIED VARCHAR(20) CHECK (HOST_IDENTITY_VERIFIED in ('Weekend', 'Not Weekend')) NOT NULL
-);
+    HOST_NAME VARCHAR(40) NOT NULL,
+    MEMBERSHIP_DURATION VARCHAR(40) CHECK (MEMBERSHIP_DURATION in ('Member for more than 10 years','Member for more than 5 years','Member for more than 2 years','Member for more than 1 year','Member for less than 1 year', 'Unknown')) NOT NULL,
+    HOST_COUNTRY VARCHAR(20) NOT NULL,
+    HOST_CONTINENT VARCHAR(20) CHECK (HOST_CONTINENT in ('Europe','North America','South America','Asia','Australia','Africa')) NOT NULL,
+    HOST_COUNTRY_GDP VARCHAR(20) CHECK (HOST_COUNTRY_GDP in ('Below 20k','20k - 35k','35k - 50k','Above 50k')) NOT NULL,
+    HOST_RESPONSE_TIME VARCHAR(20) CHECK (HOST_RESPONSE_TIME in ('within an hour','within a few hours','within a day','a few days or more','Unknown')) NOT NULL,
+    HOST_IS_SUPERHOST VARCHAR(20) CHECK (HOST_IS_SUPERHOST in ('Superhost','Not Superhost')) NOT NULL,
+    HOST_IS_VERIFIED VARCHAR(20) CHECK (HOST_IS_VERIFIED in ('Verified','Unverified')) NOT NULL
+    );
 
 CREATE TABLE Review (
     REVIEW_ID SERIAL PRIMARY KEY NOT NULL,
-    RATING VARCHAR(15) CHECK (RATING in ('Very Good', 'Good', 'OK', 'Bad', 'Very Bad')) NOT NULL,
-    ACCURACY VARCHAR(15) CHECK (ACCURACY in ('Accurate', 'Not Accurate')) NOT NULL,
-    CLEANLINESS VARCHAR(15) CHECK (CLEANLINESS in ('Clean', 'Not Clean')) NOT NULL,
-    COMMUNICATION VARCHAR(25) CHECK (COMMUNICATION in ('Good Communication', 'Average Communication', 'Bad Communication')) NOT NULL,
-    LOCATION VARCHAR(20) CHECK (LOCATION in ('Good Location', 'Bad Location')) NOT NULL
-);
+    RATING VARCHAR(30) CHECK (RATING in ('Bellow average','Average','Good','Very good','Excelent')) NOT NULL, 
+    ACCURACY VARCHAR(30) CHECK (ACCURACY in ('Accurate description','Description is not accurate')) NOT NULL,
+    CLEANLINESS VARCHAR(30) CHECK (CLEANLINESS in ('Clean','Not clean')) NOT NULL,
+    COMMUNICATION VARCHAR(30) CHECK (COMMUNICATION in ('Good communication','Bad communication')) NOT NULL,
+    LOCATION VARCHAR(30) CHECK (LOCATION in ('Good location','Bad location')) NOT NULL
+    );
 
 CREATE TABLE Date (
     DATE_ID INT PRIMARY KEY NOT NULL,
