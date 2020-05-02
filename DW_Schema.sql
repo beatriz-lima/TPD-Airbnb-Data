@@ -60,7 +60,7 @@ CREATE TABLE Property (
     BATHROOMS VARCHAR(30) CHECK (BATHROOMS in ('No bathrooms','1 bathroom','2 bathrooms','3 bathrooms','4+ bathrooms')) NOT NULL,
     BEDROOMS VARCHAR(10) CHECK (BEDROOMS in ('T0','T1','T2','T3','T4+')) NOT NULL,
     BEDS VARCHAR(10) CHECK (BEDS in ('No beds','1 bed','2 beds','3 beds','4+ beds')) NOT NULL,
-    BED_TYPE VARCHAR(30) CHECK (BED_TYPE in ('Real Bed', 'Pull-out Sofa', 'Futton', 'Couch', 'Airbed')) NOT NULL
+    BED_TYPE VARCHAR(30) CHECK (BED_TYPE in ('Real Bed', 'Pull-out Sofa', 'Futon', 'Couch', 'Airbed')) NOT NULL
 );
 
 -- Create Facts Tables

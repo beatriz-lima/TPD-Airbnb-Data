@@ -5,5 +5,5 @@ data
 docker
 
 .idea/
-
+Notebooks/__pycache__
 db_connection.py
