@@ -1,7 +1,7 @@
 -- Create DW
 
--- DROP DATABASE IF EXISTS Airbnb;
--- CREATE DATABASE Airbnb;
+DROP DATABASE IF EXISTS Airbnb;
+CREATE DATABASE Airbnb;
 
 -- Create Dimensions (Change Database at this point)
 
