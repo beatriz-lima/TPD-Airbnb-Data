@@ -1,7 +1,7 @@
 -- Create DW
 
--- DROP DATABASE IF EXISTS Airbnb;
--- CREATE DATABASE Airbnb;
+DROP DATABASE IF EXISTS Airbnb;
+CREATE DATABASE Airbnb;
 
 -- Create Dimensions (Change Database at this point)
 
@@ -66,7 +66,7 @@ CREATE TABLE Property (
 -- Create Facts Tables
 
 CREATE TABLE Listings (
-    NRNAL INT PRIMARY KEY NOT NULL,
+    LISTING_ID INT PRIMARY KEY NOT NULL,
     HOST_ID INT REFERENCES Host(HOST_ID),
     DATE_ID INT REFERENCES Date(DATE_ID),
     LOCATION_ID INT REFERENCES Location(LOCATION_ID),
