@@ -5,3 +5,5 @@ data
 docker
 
 .idea/
+
+db_connection.py
