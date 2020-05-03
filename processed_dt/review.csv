@@ -1,0 +1,48 @@
+,review_id,rating,accuracy,cleanliness,communication,location
+1,1,Very good,Description is not accurate,Clean,Good communication,Good location
+2,2,Average,Description is not accurate,Clean,Good communication,Good location
+3,3,Good,Description is not accurate,Clean,Good communication,Good location
+4,4,Bellow average,Description is not accurate,Clean,Good communication,Good location
+5,5,Average,Description is not accurate,Clean,Bad communication,Good location
+6,6,Excelent,Description is not accurate,Clean,Good communication,Good location
+7,7,Average,Description is not accurate,Not clean,Good communication,Good location
+8,8,Bellow average,Accurate description,Not clean,Good communication,Good location
+9,9,Bellow average,Accurate description,Not clean,Bad communication,Bad location
+10,10,Bellow average,Description is not accurate,Not clean,Good communication,Good location
+11,11,Bellow average,Description is not accurate,Clean,Good communication,Bad location
+12,12,Bellow average,Description is not accurate,Clean,Bad communication,Good location
+13,13,Bellow average,Accurate description,Clean,Good communication,Bad location
+14,14,Bellow average,Accurate description,Clean,Good communication,Good location
+15,15,Bellow average,Accurate description,Not clean,Bad communication,Good location
+16,16,Bellow average,Accurate description,Clean,Bad communication,Bad location
+17,17,Average,Accurate description,Not clean,Bad communication,Good location
+18,18,Average,Description is not accurate,Clean,Good communication,Bad location
+19,19,Bellow average,Description is not accurate,Not clean,Good communication,Bad location
+20,20,Bellow average,Accurate description,Clean,Bad communication,Good location
+21,21,Average,Accurate description,Not clean,Good communication,Good location
+22,22,Average,Accurate description,Clean,Good communication,Bad location
+23,23,Good,Description is not accurate,Not clean,Good communication,Good location
+24,24,Average,Accurate description,Clean,Good communication,Good location
+25,25,Bellow average,Description is not accurate,Not clean,Bad communication,Good location
+26,26,Good,Accurate description,Clean,Bad communication,Good location
+27,27,Bellow average,Description is not accurate,Clean,Bad communication,Bad location
+28,28,Very good,Description is not accurate,Clean,Good communication,Bad location
+29,29,Good,Description is not accurate,Clean,Bad communication,Good location
+30,30,Good,Description is not accurate,Clean,Good communication,Bad location
+31,31,Bellow average,Accurate description,Not clean,Good communication,Bad location
+32,32,Bellow average,Description is not accurate,Not clean,Bad communication,Bad location
+33,33,Average,Description is not accurate,Not clean,Bad communication,Good location
+34,34,Good,Accurate description,Clean,Good communication,Good location
+35,35,Average,Accurate description,Not clean,Bad communication,Bad location
+36,36,Average,Description is not accurate,Not clean,Good communication,Bad location
+37,37,Very good,Description is not accurate,Clean,Bad communication,Good location
+38,38,Average,Accurate description,Clean,Bad communication,Good location
+39,39,Very good,Description is not accurate,Not clean,Good communication,Good location
+40,40,Excelent,Description is not accurate,Clean,Good communication,Bad location
+41,41,Average,Accurate description,Not clean,Good communication,Bad location
+42,42,Very good,Accurate description,Clean,Good communication,Good location
+43,43,Good,Description is not accurate,Not clean,Bad communication,Good location
+44,44,Average,Accurate description,Clean,Bad communication,Bad location
+45,45,Good,Description is not accurate,Not clean,Good communication,Bad location
+46,46,Good,Accurate description,Clean,Good communication,Bad location
+47,47,Average,Description is not accurate,Clean,Bad communication,Bad location
