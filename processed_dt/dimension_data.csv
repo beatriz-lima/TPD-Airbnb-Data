@@ -1,0 +1,2199 @@
+,date_id,day,week,month,year,season,weekend,weekday,quarter,semester,holiday
+0,28012020,28,5,1,2020,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+1,29012020,29,5,1,2020,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+2,30012020,30,5,1,2020,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+3,31012020,31,5,1,2020,Winter,Work Day,Friday,Q1,S1,Not Holiday
+4,1022020,1,1,2,2020,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+5,2022020,2,1,2,2020,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+6,3022020,3,2,2,2020,Winter,Work Day,Monday,Q1,S1,Not Holiday
+7,4022020,4,2,2,2020,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+8,5022020,5,2,2,2020,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+9,6022020,6,2,2,2020,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+10,7022020,7,2,2,2020,Winter,Work Day,Friday,Q1,S1,Not Holiday
+11,8022020,8,2,2,2020,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+12,9022020,9,2,2,2020,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+13,10022020,10,3,2,2020,Winter,Work Day,Monday,Q1,S1,Not Holiday
+14,11022020,11,3,2,2020,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+15,12022020,12,3,2,2020,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+16,13022020,13,3,2,2020,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+17,14022020,14,3,2,2020,Winter,Work Day,Friday,Q1,S1,Not Holiday
+18,15022020,15,3,2,2020,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+19,16022020,16,3,2,2020,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+20,17022020,17,4,2,2020,Winter,Work Day,Monday,Q1,S1,Not Holiday
+21,18022020,18,4,2,2020,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+22,19022020,19,4,2,2020,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+23,20022020,20,4,2,2020,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+24,21022020,21,4,2,2020,Winter,Work Day,Friday,Q1,S1,Not Holiday
+25,22022020,22,4,2,2020,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+26,23022020,23,4,2,2020,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+27,24022020,24,5,2,2020,Winter,Work Day,Monday,Q1,S1,Holiday
+28,25022020,25,5,2,2020,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+29,26022020,26,5,2,2020,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+30,27022020,27,5,2,2020,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+31,28022020,28,5,2,2020,Winter,Work Day,Friday,Q1,S1,Not Holiday
+32,29022020,29,5,2,2020,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+33,1032020,1,1,3,2020,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+34,2032020,2,2,3,2020,Spring,Work Day,Monday,Q1,S1,Not Holiday
+35,3032020,3,2,3,2020,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+36,4032020,4,2,3,2020,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+37,5032020,5,2,3,2020,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+38,6032020,6,2,3,2020,Spring,Work Day,Friday,Q1,S1,Not Holiday
+39,7032020,7,2,3,2020,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+40,8032020,8,2,3,2020,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+41,9032020,9,3,3,2020,Spring,Work Day,Monday,Q1,S1,Not Holiday
+42,10032020,10,3,3,2020,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+43,11032020,11,3,3,2020,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+44,12032020,12,3,3,2020,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+45,13032020,13,3,3,2020,Spring,Work Day,Friday,Q1,S1,Not Holiday
+46,14032020,14,3,3,2020,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+47,15032020,15,3,3,2020,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+48,16032020,16,4,3,2020,Spring,Work Day,Monday,Q1,S1,Not Holiday
+49,17032020,17,4,3,2020,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+50,18032020,18,4,3,2020,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+51,19032020,19,4,3,2020,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+52,20032020,20,4,3,2020,Spring,Work Day,Friday,Q1,S1,Not Holiday
+53,21032020,21,4,3,2020,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+54,22032020,22,4,3,2020,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+55,23032020,23,5,3,2020,Spring,Work Day,Monday,Q1,S1,Not Holiday
+56,24032020,24,5,3,2020,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+57,25032020,25,5,3,2020,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+58,26032020,26,5,3,2020,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+59,27032020,27,5,3,2020,Spring,Work Day,Friday,Q1,S1,Not Holiday
+60,28032020,28,5,3,2020,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+61,29032020,29,5,3,2020,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+62,30032020,30,6,3,2020,Spring,Work Day,Monday,Q1,S1,Not Holiday
+63,31032020,31,6,3,2020,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+64,1042020,1,1,4,2020,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+65,2042020,2,1,4,2020,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+66,3042020,3,1,4,2020,Spring,Work Day,Friday,Q2,S1,Not Holiday
+67,4042020,4,1,4,2020,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+68,5042020,5,1,4,2020,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+69,6042020,6,2,4,2020,Spring,Work Day,Monday,Q2,S1,Not Holiday
+70,7042020,7,2,4,2020,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+71,8042020,8,2,4,2020,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+72,9042020,9,2,4,2020,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+73,10042020,10,2,4,2020,Spring,Work Day,Friday,Q2,S1,Holiday
+74,11042020,11,2,4,2020,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+75,12042020,12,2,4,2020,Spring,Weekend,Sunday,Q2,S1,Holiday
+76,13042020,13,3,4,2020,Spring,Work Day,Monday,Q2,S1,Holiday
+77,14042020,14,3,4,2020,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+78,15042020,15,3,4,2020,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+79,16042020,16,3,4,2020,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+80,17042020,17,3,4,2020,Spring,Work Day,Friday,Q2,S1,Not Holiday
+81,18042020,18,3,4,2020,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+82,19042020,19,3,4,2020,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+83,20042020,20,4,4,2020,Spring,Work Day,Monday,Q2,S1,Not Holiday
+84,21042020,21,4,4,2020,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+85,22042020,22,4,4,2020,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+86,23042020,23,4,4,2020,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+87,24042020,24,4,4,2020,Spring,Work Day,Friday,Q2,S1,Not Holiday
+88,25042020,25,4,4,2020,Spring,Weekend,Saturday,Q2,S1,Holiday
+89,26042020,26,4,4,2020,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+90,27042020,27,5,4,2020,Spring,Work Day,Monday,Q2,S1,Not Holiday
+91,28042020,28,5,4,2020,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+92,29042020,29,5,4,2020,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+93,30042020,30,5,4,2020,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+94,1052020,1,1,5,2020,Spring,Work Day,Friday,Q2,S1,Holiday
+95,2052020,2,1,5,2020,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+96,3052020,3,1,5,2020,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+97,4052020,4,2,5,2020,Spring,Work Day,Monday,Q2,S1,Not Holiday
+98,5052020,5,2,5,2020,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+99,6052020,6,2,5,2020,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+100,7052020,7,2,5,2020,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+101,8052020,8,2,5,2020,Spring,Work Day,Friday,Q2,S1,Not Holiday
+102,9052020,9,2,5,2020,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+103,10052020,10,2,5,2020,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+104,11052020,11,3,5,2020,Spring,Work Day,Monday,Q2,S1,Not Holiday
+105,12052020,12,3,5,2020,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+106,13052020,13,3,5,2020,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+107,14052020,14,3,5,2020,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+108,15052020,15,3,5,2020,Spring,Work Day,Friday,Q2,S1,Not Holiday
+109,16052020,16,3,5,2020,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+110,17052020,17,3,5,2020,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+111,18052020,18,4,5,2020,Spring,Work Day,Monday,Q2,S1,Not Holiday
+112,19052020,19,4,5,2020,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+113,20052020,20,4,5,2020,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+114,21052020,21,4,5,2020,Spring,Work Day,Thursday,Q2,S1,Holiday
+115,22052020,22,4,5,2020,Spring,Work Day,Friday,Q2,S1,Not Holiday
+116,23052020,23,4,5,2020,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+117,24052020,24,4,5,2020,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+118,25052020,25,5,5,2020,Spring,Work Day,Monday,Q2,S1,Not Holiday
+119,26052020,26,5,5,2020,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+120,27052020,27,5,5,2020,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+121,28052020,28,5,5,2020,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+122,29052020,29,5,5,2020,Spring,Work Day,Friday,Q2,S1,Not Holiday
+123,30052020,30,5,5,2020,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+124,31052020,31,5,5,2020,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+125,1062020,1,1,6,2020,Summer,Work Day,Monday,Q2,S1,Not Holiday
+126,2062020,2,1,6,2020,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+127,3062020,3,1,6,2020,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+128,4062020,4,1,6,2020,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+129,5062020,5,1,6,2020,Summer,Work Day,Friday,Q2,S1,Not Holiday
+130,6062020,6,1,6,2020,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+131,7062020,7,1,6,2020,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+132,8062020,8,2,6,2020,Summer,Work Day,Monday,Q2,S1,Not Holiday
+133,9062020,9,2,6,2020,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+134,10062020,10,2,6,2020,Summer,Work Day,Wednesday,Q2,S1,Holiday
+135,11062020,11,2,6,2020,Summer,Work Day,Thursday,Q2,S1,Holiday
+136,12062020,12,2,6,2020,Summer,Work Day,Friday,Q2,S1,Not Holiday
+137,13062020,13,2,6,2020,Summer,Weekend,Saturday,Q2,S1,Holiday
+138,14062020,14,2,6,2020,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+139,15062020,15,3,6,2020,Summer,Work Day,Monday,Q2,S1,Not Holiday
+140,16062020,16,3,6,2020,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+141,17062020,17,3,6,2020,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+142,18062020,18,3,6,2020,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+143,19062020,19,3,6,2020,Summer,Work Day,Friday,Q2,S1,Not Holiday
+144,20062020,20,3,6,2020,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+145,21062020,21,3,6,2020,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+146,22062020,22,4,6,2020,Summer,Work Day,Monday,Q2,S1,Not Holiday
+147,23062020,23,4,6,2020,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+148,24062020,24,4,6,2020,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+149,25062020,25,4,6,2020,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+150,26062020,26,4,6,2020,Summer,Work Day,Friday,Q2,S1,Not Holiday
+151,27062020,27,4,6,2020,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+152,28062020,28,4,6,2020,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+153,29062020,29,5,6,2020,Summer,Work Day,Monday,Q2,S1,Not Holiday
+154,30062020,30,5,6,2020,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+155,1072020,1,1,7,2020,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+156,2072020,2,1,7,2020,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+157,3072020,3,1,7,2020,Summer,Work Day,Friday,Q3,S2,Not Holiday
+158,4072020,4,1,7,2020,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+159,5072020,5,1,7,2020,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+160,6072020,6,2,7,2020,Summer,Work Day,Monday,Q3,S2,Not Holiday
+161,7072020,7,2,7,2020,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+162,8072020,8,2,7,2020,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+163,9072020,9,2,7,2020,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+164,10072020,10,2,7,2020,Summer,Work Day,Friday,Q3,S2,Not Holiday
+165,11072020,11,2,7,2020,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+166,12072020,12,2,7,2020,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+167,13072020,13,3,7,2020,Summer,Work Day,Monday,Q3,S2,Not Holiday
+168,14072020,14,3,7,2020,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+169,15072020,15,3,7,2020,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+170,16072020,16,3,7,2020,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+171,17072020,17,3,7,2020,Summer,Work Day,Friday,Q3,S2,Not Holiday
+172,18072020,18,3,7,2020,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+173,19072020,19,3,7,2020,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+174,20072020,20,4,7,2020,Summer,Work Day,Monday,Q3,S2,Not Holiday
+175,21072020,21,4,7,2020,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+176,22072020,22,4,7,2020,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+177,23072020,23,4,7,2020,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+178,24072020,24,4,7,2020,Summer,Work Day,Friday,Q3,S2,Not Holiday
+179,25072020,25,4,7,2020,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+180,26072020,26,4,7,2020,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+181,27072020,27,5,7,2020,Summer,Work Day,Monday,Q3,S2,Not Holiday
+182,28072020,28,5,7,2020,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+183,29072020,29,5,7,2020,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+184,30072020,30,5,7,2020,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+185,31072020,31,5,7,2020,Summer,Work Day,Friday,Q3,S2,Not Holiday
+186,1082020,1,1,8,2020,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+187,2082020,2,1,8,2020,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+188,3082020,3,2,8,2020,Summer,Work Day,Monday,Q3,S2,Not Holiday
+189,4082020,4,2,8,2020,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+190,5082020,5,2,8,2020,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+191,6082020,6,2,8,2020,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+192,7082020,7,2,8,2020,Summer,Work Day,Friday,Q3,S2,Not Holiday
+193,8082020,8,2,8,2020,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+194,9082020,9,2,8,2020,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+195,10082020,10,3,8,2020,Summer,Work Day,Monday,Q3,S2,Not Holiday
+196,11082020,11,3,8,2020,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+197,12082020,12,3,8,2020,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+198,13082020,13,3,8,2020,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+199,14082020,14,3,8,2020,Summer,Work Day,Friday,Q3,S2,Not Holiday
+200,15082020,15,3,8,2020,Summer,Weekend,Saturday,Q3,S2,Holiday
+201,16082020,16,3,8,2020,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+202,17082020,17,4,8,2020,Summer,Work Day,Monday,Q3,S2,Not Holiday
+203,18082020,18,4,8,2020,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+204,19082020,19,4,8,2020,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+205,20082020,20,4,8,2020,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+206,21082020,21,4,8,2020,Summer,Work Day,Friday,Q3,S2,Not Holiday
+207,22082020,22,4,8,2020,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+208,23082020,23,4,8,2020,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+209,24082020,24,5,8,2020,Summer,Work Day,Monday,Q3,S2,Not Holiday
+210,25082020,25,5,8,2020,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+211,26082020,26,5,8,2020,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+212,27082020,27,5,8,2020,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+213,28082020,28,5,8,2020,Summer,Work Day,Friday,Q3,S2,Not Holiday
+214,29082020,29,5,8,2020,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+215,30082020,30,5,8,2020,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+216,31082020,31,6,8,2020,Summer,Work Day,Monday,Q3,S2,Not Holiday
+217,1092020,1,1,9,2020,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+218,2092020,2,1,9,2020,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+219,3092020,3,1,9,2020,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+220,4092020,4,1,9,2020,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+221,5092020,5,1,9,2020,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+222,6092020,6,1,9,2020,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+223,7092020,7,2,9,2020,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+224,8092020,8,2,9,2020,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+225,9092020,9,2,9,2020,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+226,10092020,10,2,9,2020,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+227,11092020,11,2,9,2020,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+228,12092020,12,2,9,2020,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+229,13092020,13,2,9,2020,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+230,14092020,14,3,9,2020,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+231,15092020,15,3,9,2020,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+232,16092020,16,3,9,2020,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+233,17092020,17,3,9,2020,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+234,18092020,18,3,9,2020,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+235,19092020,19,3,9,2020,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+236,20092020,20,3,9,2020,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+237,21092020,21,4,9,2020,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+238,22092020,22,4,9,2020,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+239,23092020,23,4,9,2020,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+240,24092020,24,4,9,2020,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+241,25092020,25,4,9,2020,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+242,26092020,26,4,9,2020,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+243,27092020,27,4,9,2020,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+244,28092020,28,5,9,2020,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+245,29092020,29,5,9,2020,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+246,30092020,30,5,9,2020,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+247,1102020,1,1,10,2020,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+248,2102020,2,1,10,2020,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+249,3102020,3,1,10,2020,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+250,4102020,4,1,10,2020,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+251,5102020,5,2,10,2020,Autumn,Work Day,Monday,Q4,S2,Holiday
+252,6102020,6,2,10,2020,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+253,7102020,7,2,10,2020,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+254,8102020,8,2,10,2020,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+255,9102020,9,2,10,2020,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+256,10102020,10,2,10,2020,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+257,11102020,11,2,10,2020,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+258,12102020,12,3,10,2020,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+259,13102020,13,3,10,2020,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+260,14102020,14,3,10,2020,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+261,15102020,15,3,10,2020,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+262,16102020,16,3,10,2020,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+263,17102020,17,3,10,2020,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+264,18102020,18,3,10,2020,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+265,19102020,19,4,10,2020,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+266,20102020,20,4,10,2020,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+267,21102020,21,4,10,2020,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+268,22102020,22,4,10,2020,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+269,23102020,23,4,10,2020,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+270,24102020,24,4,10,2020,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+271,25102020,25,4,10,2020,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+272,26102020,26,5,10,2020,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+273,27102020,27,5,10,2020,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+274,28102020,28,5,10,2020,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+275,29102020,29,5,10,2020,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+276,30102020,30,5,10,2020,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+277,31102020,31,5,10,2020,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+278,1112020,1,1,11,2020,Autumn,Weekend,Sunday,Q4,S2,Holiday
+279,2112020,2,2,11,2020,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+280,3112020,3,2,11,2020,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+281,4112020,4,2,11,2020,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+282,5112020,5,2,11,2020,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+283,6112020,6,2,11,2020,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+284,7112020,7,2,11,2020,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+285,8112020,8,2,11,2020,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+286,9112020,9,3,11,2020,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+287,10112020,10,3,11,2020,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+288,11112020,11,3,11,2020,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+289,12112020,12,3,11,2020,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+290,13112020,13,3,11,2020,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+291,14112020,14,3,11,2020,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+292,15112020,15,3,11,2020,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+293,16112020,16,4,11,2020,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+294,17112020,17,4,11,2020,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+295,18112020,18,4,11,2020,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+296,19112020,19,4,11,2020,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+297,20112020,20,4,11,2020,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+298,21112020,21,4,11,2020,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+299,22112020,22,4,11,2020,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+300,23112020,23,5,11,2020,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+301,24112020,24,5,11,2020,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+302,25112020,25,5,11,2020,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+303,26112020,26,5,11,2020,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+304,27112020,27,5,11,2020,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+305,28112020,28,5,11,2020,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+306,29112020,29,5,11,2020,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+307,30112020,30,6,11,2020,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+308,1122020,1,1,12,2020,Winter,Work Day,Tuesday,Q4,S2,Holiday
+309,2122020,2,1,12,2020,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+310,3122020,3,1,12,2020,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+311,4122020,4,1,12,2020,Winter,Work Day,Friday,Q4,S2,Not Holiday
+312,5122020,5,1,12,2020,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+313,6122020,6,1,12,2020,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+314,7122020,7,2,12,2020,Winter,Work Day,Monday,Q4,S2,Not Holiday
+315,8122020,8,2,12,2020,Winter,Work Day,Tuesday,Q4,S2,Holiday
+316,9122020,9,2,12,2020,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+317,10122020,10,2,12,2020,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+318,11122020,11,2,12,2020,Winter,Work Day,Friday,Q4,S2,Not Holiday
+319,12122020,12,2,12,2020,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+320,13122020,13,2,12,2020,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+321,14122020,14,3,12,2020,Winter,Work Day,Monday,Q4,S2,Not Holiday
+322,15122020,15,3,12,2020,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+323,16122020,16,3,12,2020,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+324,17122020,17,3,12,2020,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+325,18122020,18,3,12,2020,Winter,Work Day,Friday,Q4,S2,Not Holiday
+326,19122020,19,3,12,2020,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+327,20122020,20,3,12,2020,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+328,21122020,21,4,12,2020,Winter,Work Day,Monday,Q4,S2,Not Holiday
+329,22122020,22,4,12,2020,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+330,23122020,23,4,12,2020,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+331,24122020,24,4,12,2020,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+332,25122020,25,4,12,2020,Winter,Work Day,Friday,Q4,S2,Holiday
+333,26122020,26,4,12,2020,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+334,27122020,27,4,12,2020,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+335,28122020,28,5,12,2020,Winter,Work Day,Monday,Q4,S2,Not Holiday
+336,29122020,29,5,12,2020,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+337,30122020,30,5,12,2020,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+338,31122020,31,5,12,2020,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+339,1012021,1,1,1,2021,Winter,Work Day,Friday,Q1,S1,Holiday
+340,2012021,2,1,1,2021,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+341,3012021,3,1,1,2021,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+342,4012021,4,2,1,2021,Winter,Work Day,Monday,Q1,S1,Not Holiday
+343,5012021,5,2,1,2021,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+344,6012021,6,2,1,2021,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+345,7012021,7,2,1,2021,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+346,8012021,8,2,1,2021,Winter,Work Day,Friday,Q1,S1,Not Holiday
+347,9012021,9,2,1,2021,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+348,10012021,10,2,1,2021,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+349,11012021,11,3,1,2021,Winter,Work Day,Monday,Q1,S1,Not Holiday
+350,12012021,12,3,1,2021,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+351,13012021,13,3,1,2021,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+352,14012021,14,3,1,2021,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+353,15012021,15,3,1,2021,Winter,Work Day,Friday,Q1,S1,Not Holiday
+354,16012021,16,3,1,2021,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+355,17012021,17,3,1,2021,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+356,18012021,18,4,1,2021,Winter,Work Day,Monday,Q1,S1,Not Holiday
+357,19012021,19,4,1,2021,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+358,20012021,20,4,1,2021,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+359,21012021,21,4,1,2021,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+360,22012021,22,4,1,2021,Winter,Work Day,Friday,Q1,S1,Not Holiday
+361,23012021,23,4,1,2021,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+362,24012021,24,4,1,2021,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+363,25012021,25,5,1,2021,Winter,Work Day,Monday,Q1,S1,Not Holiday
+364,26012021,26,5,1,2021,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+365,27012021,27,5,1,2021,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+366,28012021,28,5,1,2021,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+367,29012021,29,5,1,2021,Winter,Work Day,Friday,Q1,S1,Not Holiday
+368,30012021,30,5,1,2021,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+369,31012021,31,5,1,2021,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+370,1022021,1,1,2,2021,Winter,Work Day,Monday,Q1,S1,Not Holiday
+371,2022021,2,1,2,2021,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+0,13092017,13,3,9,2017,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+1,15012016,15,3,1,2016,Winter,Work Day,Friday,Q1,S1,Not Holiday
+2,12052016,12,3,5,2016,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+3,31082017,31,5,8,2017,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+5,16102018,16,3,10,2018,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+6,3072017,3,2,7,2017,Summer,Work Day,Monday,Q3,S2,Not Holiday
+13,28082018,28,5,8,2018,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+15,20032018,20,4,3,2018,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+16,14042009,14,3,4,2009,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+17,15112016,15,3,11,2016,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+18,14012015,14,3,1,2015,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+20,23112015,23,5,11,2015,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+21,15122014,15,3,12,2014,Winter,Work Day,Monday,Q4,S2,Not Holiday
+22,6012015,6,2,1,2015,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+23,7122017,7,2,12,2017,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+24,18112014,18,4,11,2014,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+25,31102014,31,5,10,2014,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+26,23112018,23,4,11,2018,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+27,12122018,12,3,12,2018,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+28,2032017,2,1,3,2017,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+30,10052012,10,2,5,2012,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+31,5022016,5,1,2,2016,Winter,Work Day,Friday,Q1,S1,Not Holiday
+32,3092018,3,2,9,2018,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+33,22052017,22,4,5,2017,Spring,Work Day,Monday,Q2,S1,Not Holiday
+35,13122017,13,3,12,2017,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+36,21092015,21,4,9,2015,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+37,10052016,10,3,5,2016,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+38,10072014,10,2,7,2014,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+40,19062014,19,4,6,2014,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+41,6042015,6,2,4,2015,Spring,Work Day,Monday,Q2,S1,Not Holiday
+42,10042015,10,2,4,2015,Spring,Work Day,Friday,Q2,S1,Holiday
+43,15052017,15,3,5,2017,Spring,Work Day,Monday,Q2,S1,Not Holiday
+44,16052017,16,3,5,2017,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+45,1092016,1,1,9,2016,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+46,7072016,7,2,7,2016,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+47,3102014,3,1,10,2014,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+48,28062016,28,5,6,2016,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+49,9102018,9,2,10,2018,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+50,20062017,20,4,6,2017,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+54,5122014,5,1,12,2014,Winter,Work Day,Friday,Q4,S2,Not Holiday
+55,21122017,21,4,12,2017,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+57,20032015,20,4,3,2015,Spring,Work Day,Friday,Q1,S1,Not Holiday
+59,15112017,15,3,11,2017,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+60,31052017,31,5,5,2017,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+61,21052015,21,4,5,2015,Spring,Work Day,Thursday,Q2,S1,Holiday
+62,22092016,22,4,9,2016,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+65,19102018,19,3,10,2018,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+67,20022015,20,4,2,2015,Winter,Work Day,Friday,Q1,S1,Not Holiday
+68,23042015,23,4,4,2015,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+69,30122017,30,5,12,2017,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+70,18122014,18,3,12,2014,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+72,22082016,22,4,8,2016,Summer,Work Day,Monday,Q3,S2,Not Holiday
+73,11032016,11,2,3,2016,Spring,Work Day,Friday,Q1,S1,Not Holiday
+74,14032014,14,3,3,2014,Spring,Work Day,Friday,Q1,S1,Not Holiday
+77,5022015,5,2,2,2015,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+78,4042014,4,1,4,2014,Spring,Work Day,Friday,Q2,S1,Not Holiday
+79,6032018,6,2,3,2018,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+86,14092016,14,3,9,2016,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+87,11072012,11,3,7,2012,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+88,6102017,6,2,10,2017,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+89,17082018,17,3,8,2018,Summer,Work Day,Friday,Q3,S2,Not Holiday
+91,4072017,4,2,7,2017,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+92,9022010,9,2,2,2010,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+93,19112015,19,4,11,2015,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+94,4102013,4,1,10,2013,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+95,16072018,16,4,7,2018,Summer,Work Day,Monday,Q3,S2,Not Holiday
+96,8052015,8,2,5,2015,Spring,Work Day,Friday,Q2,S1,Not Holiday
+97,7092017,7,2,9,2017,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+98,11052017,11,2,5,2017,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+99,22062016,22,4,6,2016,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+100,21082009,21,4,8,2009,Summer,Work Day,Friday,Q3,S2,Not Holiday
+101,25072012,25,5,7,2012,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+102,11122018,11,3,12,2018,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+103,26082016,26,4,8,2016,Summer,Work Day,Friday,Q3,S2,Not Holiday
+104,7022017,7,2,2,2017,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+106,30052014,30,5,5,2014,Spring,Work Day,Friday,Q2,S1,Not Holiday
+107,10022015,10,3,2,2015,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+108,5062015,5,1,6,2015,Summer,Work Day,Friday,Q2,S1,Not Holiday
+111,19062015,19,3,6,2015,Summer,Work Day,Friday,Q2,S1,Not Holiday
+112,30062017,30,5,6,2017,Summer,Work Day,Friday,Q2,S1,Not Holiday
+113,18022015,18,4,2,2015,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+116,4012018,4,1,1,2018,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+117,11122014,11,2,12,2014,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+118,21092016,21,4,9,2016,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+119,17122014,17,3,12,2014,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+121,28082014,28,5,8,2014,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+122,11122015,11,2,12,2015,Winter,Work Day,Friday,Q4,S2,Not Holiday
+124,20102016,20,4,10,2016,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+127,5042019,5,1,4,2019,Spring,Work Day,Friday,Q2,S1,Not Holiday
+133,27122017,27,5,12,2017,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+135,3102018,3,1,10,2018,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+137,24082016,24,4,8,2016,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+139,15042015,15,3,4,2015,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+140,30052017,30,5,5,2017,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+141,6062013,6,2,6,2013,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+150,12102018,12,2,10,2018,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+151,8082013,8,2,8,2013,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+152,7062016,7,2,6,2016,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+153,16012015,16,3,1,2015,Winter,Work Day,Friday,Q1,S1,Not Holiday
+154,21072017,21,4,7,2017,Summer,Work Day,Friday,Q3,S2,Not Holiday
+155,4072013,4,1,7,2013,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+157,30012017,30,6,1,2017,Winter,Work Day,Monday,Q1,S1,Not Holiday
+158,1122014,1,1,12,2014,Winter,Work Day,Monday,Q4,S2,Holiday
+159,17032015,17,4,3,2015,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+160,14012016,14,3,1,2016,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+161,18102018,18,3,10,2018,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+167,12122014,12,2,12,2014,Winter,Work Day,Friday,Q4,S2,Not Holiday
+168,14112018,14,3,11,2018,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+169,14052012,14,3,5,2012,Spring,Work Day,Monday,Q2,S1,Not Holiday
+170,19042012,19,4,4,2012,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+176,22012018,22,4,1,2018,Winter,Work Day,Monday,Q1,S1,Not Holiday
+178,20092017,20,4,9,2017,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+180,6052016,6,2,5,2016,Spring,Work Day,Friday,Q2,S1,Not Holiday
+184,6062017,6,2,6,2017,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+186,24032017,24,4,3,2017,Spring,Work Day,Friday,Q1,S1,Not Holiday
+187,16022015,16,4,2,2015,Winter,Work Day,Monday,Q1,S1,Not Holiday
+188,6032015,6,2,3,2015,Spring,Work Day,Friday,Q1,S1,Not Holiday
+189,10072015,10,2,7,2015,Summer,Work Day,Friday,Q3,S2,Not Holiday
+193,30102014,30,5,10,2014,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+194,16062017,16,3,6,2017,Summer,Work Day,Friday,Q2,S1,Not Holiday
+195,18072018,18,4,7,2018,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+196,4082015,4,2,8,2015,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+197,15072014,15,3,7,2014,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+198,29042016,29,5,4,2016,Spring,Work Day,Friday,Q2,S1,Not Holiday
+199,8122016,8,2,12,2016,Winter,Work Day,Thursday,Q4,S2,Holiday
+202,22062012,22,4,6,2012,Summer,Work Day,Friday,Q2,S1,Not Holiday
+203,1092015,1,1,9,2015,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+205,2052016,2,2,5,2016,Spring,Work Day,Monday,Q2,S1,Not Holiday
+208,22012016,22,4,1,2016,Winter,Work Day,Friday,Q1,S1,Not Holiday
+211,13022008,13,3,2,2008,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+213,13042019,13,2,4,2019,Spring,Weekend,Saturday,Q2,S1,Holiday
+215,23012015,23,4,1,2015,Winter,Work Day,Friday,Q1,S1,Not Holiday
+216,8082017,8,2,8,2017,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+217,23092016,23,4,9,2016,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+218,29062016,29,5,6,2016,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+219,16042015,16,3,4,2015,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+220,30082016,30,5,8,2016,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+221,26022014,26,5,2,2014,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+222,15102014,15,3,10,2014,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+223,14082012,14,3,8,2012,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+224,26032015,26,5,3,2015,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+225,15022017,15,3,2,2017,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+227,10072017,10,3,7,2017,Summer,Work Day,Monday,Q3,S2,Not Holiday
+228,31082018,31,5,8,2018,Summer,Work Day,Friday,Q3,S2,Not Holiday
+229,2082012,2,1,8,2012,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+232,19082015,19,4,8,2015,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+233,10082018,10,2,8,2018,Summer,Work Day,Friday,Q3,S2,Not Holiday
+234,2022016,2,1,2,2016,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+236,2062016,2,1,6,2016,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+237,3082015,3,2,8,2015,Summer,Work Day,Monday,Q3,S2,Not Holiday
+238,17102018,17,3,10,2018,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+239,17112015,17,4,11,2015,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+240,1032016,1,1,3,2016,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+241,8062017,8,2,6,2017,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+242,29062017,29,5,6,2017,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+243,1102018,1,1,10,2018,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+244,24092018,24,5,9,2018,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+245,22042014,22,4,4,2014,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+250,7012013,7,2,1,2013,Winter,Work Day,Monday,Q1,S1,Not Holiday
+251,27052016,27,5,5,2016,Spring,Work Day,Friday,Q2,S1,Not Holiday
+252,28122017,28,5,12,2017,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+253,12062013,12,3,6,2013,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+259,4122014,4,1,12,2014,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+261,6072018,6,2,7,2018,Summer,Work Day,Friday,Q3,S2,Not Holiday
+265,11072017,11,3,7,2017,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+266,18062013,18,4,6,2013,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+267,4082016,4,1,8,2016,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+268,21062017,21,4,6,2017,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+269,10032015,10,3,3,2015,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+270,11032015,11,3,3,2015,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+271,29012015,29,5,1,2015,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+272,28012015,28,5,1,2015,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+273,1102014,1,1,10,2014,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+274,25052012,25,4,5,2012,Spring,Work Day,Friday,Q2,S1,Not Holiday
+275,9092014,9,2,9,2014,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+277,23062017,23,4,6,2017,Summer,Work Day,Friday,Q2,S1,Not Holiday
+278,16032016,16,3,3,2016,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+279,1022016,1,1,2,2016,Winter,Work Day,Monday,Q1,S1,Not Holiday
+280,11052012,11,2,5,2012,Spring,Work Day,Friday,Q2,S1,Not Holiday
+282,29052015,29,5,5,2015,Spring,Work Day,Friday,Q2,S1,Not Holiday
+283,25062018,25,5,6,2018,Summer,Work Day,Monday,Q2,S1,Not Holiday
+284,13052015,13,3,5,2015,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+285,26032019,26,5,3,2019,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+286,1072014,1,1,7,2014,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+288,15032016,15,3,3,2016,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+291,30072015,30,5,7,2015,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+293,21112019,21,4,11,2019,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+295,4042012,4,2,4,2012,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+297,30082018,30,5,8,2018,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+299,14092017,14,3,9,2017,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+300,6072017,6,2,7,2017,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+302,27092012,27,5,9,2012,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+304,21122015,21,4,12,2015,Winter,Work Day,Monday,Q4,S2,Not Holiday
+306,30072012,30,6,7,2012,Summer,Work Day,Monday,Q3,S2,Not Holiday
+307,13102014,13,3,10,2014,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+311,11022015,11,3,2,2015,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+312,18092019,18,4,9,2019,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+314,6072016,6,2,7,2016,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+316,25052015,25,5,5,2015,Spring,Work Day,Monday,Q2,S1,Not Holiday
+318,12022015,12,3,2,2015,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+319,12022018,12,3,2,2018,Winter,Work Day,Monday,Q1,S1,Not Holiday
+320,13082015,13,3,8,2015,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+321,10012018,10,2,1,2018,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+324,5022017,5,1,2,2017,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+325,20042016,20,4,4,2016,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+326,25052019,25,4,5,2019,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+327,10042018,10,3,4,2018,Spring,Work Day,Tuesday,Q2,S1,Holiday
+328,12022016,12,2,2,2016,Winter,Work Day,Friday,Q1,S1,Not Holiday
+330,19012015,19,4,1,2015,Winter,Work Day,Monday,Q1,S1,Not Holiday
+332,26072013,26,4,7,2013,Summer,Work Day,Friday,Q3,S2,Not Holiday
+333,27092017,27,5,9,2017,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+335,20052015,20,4,5,2015,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+336,19122017,19,4,12,2017,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+337,11052018,11,2,5,2018,Spring,Work Day,Friday,Q2,S1,Not Holiday
+338,22032017,22,4,3,2017,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+340,26112014,26,5,11,2014,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+342,3122014,3,1,12,2014,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+343,22042016,22,4,4,2016,Spring,Work Day,Friday,Q2,S1,Not Holiday
+349,9012015,9,2,1,2015,Winter,Work Day,Friday,Q1,S1,Not Holiday
+350,15012018,15,3,1,2018,Winter,Work Day,Monday,Q1,S1,Not Holiday
+351,14122014,14,2,12,2014,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+354,29042015,29,5,4,2015,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+355,8062016,8,2,6,2016,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+356,18052016,18,4,5,2016,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+360,19122016,19,4,12,2016,Winter,Work Day,Monday,Q4,S2,Not Holiday
+361,19052015,19,4,5,2015,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+362,14062016,14,3,6,2016,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+364,24022016,24,4,2,2016,Winter,Work Day,Wednesday,Q1,S1,Holiday
+365,10012013,10,2,1,2013,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+376,4112014,4,2,11,2014,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+377,27022017,27,5,2,2017,Winter,Work Day,Monday,Q1,S1,Not Holiday
+379,24082017,24,4,8,2017,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+380,27052015,27,5,5,2015,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+381,5052014,5,2,5,2014,Spring,Work Day,Monday,Q2,S1,Not Holiday
+382,17062010,17,3,6,2010,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+383,24052016,24,5,5,2016,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+385,28072016,28,5,7,2016,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+387,19022015,19,4,2,2015,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+388,3062016,3,1,6,2016,Summer,Work Day,Friday,Q2,S1,Not Holiday
+389,6082015,6,2,8,2015,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+390,10032017,10,2,3,2017,Spring,Work Day,Friday,Q1,S1,Not Holiday
+392,24102013,24,4,10,2013,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+393,4052016,4,2,5,2016,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+394,13122016,13,3,12,2016,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+395,26102017,26,5,10,2017,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+396,8102015,8,2,10,2015,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+397,26082017,26,4,8,2017,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+424,4062017,4,1,6,2017,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+426,5092017,5,2,9,2017,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+428,30032016,30,5,3,2016,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+429,2082017,2,1,8,2017,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+430,30102015,30,5,10,2015,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+432,12012015,12,3,1,2015,Winter,Work Day,Monday,Q1,S1,Not Holiday
+434,6122012,6,2,12,2012,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+439,27112017,27,5,11,2017,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+440,6012017,6,2,1,2017,Winter,Work Day,Friday,Q1,S1,Not Holiday
+441,19012018,19,3,1,2018,Winter,Work Day,Friday,Q1,S1,Not Holiday
+443,19042018,19,4,4,2018,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+444,8102013,8,2,10,2013,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+446,11092015,11,2,9,2015,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+447,10022016,10,2,2,2016,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+448,28012013,28,5,1,2013,Winter,Work Day,Monday,Q1,S1,Not Holiday
+457,19062013,19,4,6,2013,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+460,23082019,23,4,8,2019,Summer,Work Day,Friday,Q3,S2,Not Holiday
+461,12072016,12,3,7,2016,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+462,15092017,15,3,9,2017,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+465,8032016,8,2,3,2016,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+466,28112013,28,5,11,2013,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+469,1022018,1,1,2,2018,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+470,20082015,20,4,8,2015,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+471,17062015,17,3,6,2015,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+472,8102003,8,2,10,2003,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+473,8082018,8,2,8,2018,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+477,19032015,19,4,3,2015,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+478,8052018,8,2,5,2018,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+480,18052015,18,4,5,2015,Spring,Work Day,Monday,Q2,S1,Not Holiday
+481,21012015,21,4,1,2015,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+486,5122013,5,2,12,2013,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+488,1012015,1,1,1,2015,Winter,Work Day,Thursday,Q1,S1,Holiday
+496,27062016,27,5,6,2016,Summer,Work Day,Monday,Q2,S1,Not Holiday
+497,21102014,21,4,10,2014,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+501,7012015,7,2,1,2015,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+508,13012015,13,3,1,2015,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+510,24072018,24,5,7,2018,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+512,29102019,29,5,10,2019,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+513,17022016,17,3,2,2016,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+514,12022010,12,2,2,2010,Winter,Work Day,Friday,Q1,S1,Not Holiday
+515,18092018,18,4,9,2018,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+516,12012016,12,3,1,2016,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+518,18062015,18,3,6,2015,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+519,31122017,31,5,12,2017,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+527,4072015,4,1,7,2015,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+532,19022014,19,4,2,2014,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+534,29122017,29,5,12,2017,Winter,Work Day,Friday,Q4,S2,Not Holiday
+536,30032015,30,6,3,2015,Spring,Work Day,Monday,Q1,S1,Not Holiday
+538,27062014,27,5,6,2014,Summer,Work Day,Friday,Q2,S1,Not Holiday
+544,13012017,13,3,1,2017,Winter,Work Day,Friday,Q1,S1,Not Holiday
+545,16062016,16,3,6,2016,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+551,17102017,17,4,10,2017,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+552,12062014,12,3,6,2014,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+553,1072015,1,1,7,2015,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+554,30012015,30,5,1,2015,Winter,Work Day,Friday,Q1,S1,Not Holiday
+555,27032015,27,5,3,2015,Spring,Work Day,Friday,Q1,S1,Not Holiday
+556,7042015,7,2,4,2015,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+557,10122014,10,2,12,2014,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+559,11052016,11,3,5,2016,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+560,2042018,2,2,4,2018,Spring,Work Day,Monday,Q2,S1,Not Holiday
+563,13092013,13,3,9,2013,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+564,20062014,20,4,6,2014,Summer,Work Day,Friday,Q2,S1,Not Holiday
+565,31122014,31,5,12,2014,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+567,8012015,8,2,1,2015,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+570,2022015,2,2,2,2015,Winter,Work Day,Monday,Q1,S1,Not Holiday
+580,27042015,27,5,4,2015,Spring,Work Day,Monday,Q2,S1,Not Holiday
+581,31102017,31,6,10,2017,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+582,16062014,16,4,6,2014,Summer,Work Day,Monday,Q2,S1,Not Holiday
+583,10102018,10,2,10,2018,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+584,19092014,19,3,9,2014,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+586,29062018,29,5,6,2018,Summer,Work Day,Friday,Q2,S1,Not Holiday
+594,22082017,22,4,8,2017,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+596,27022015,27,5,2,2015,Winter,Work Day,Friday,Q1,S1,Not Holiday
+597,14062013,14,3,6,2013,Summer,Work Day,Friday,Q2,S1,Not Holiday
+599,29122014,29,5,12,2014,Winter,Work Day,Monday,Q4,S2,Not Holiday
+600,17052013,17,3,5,2013,Spring,Work Day,Friday,Q2,S1,Not Holiday
+601,1062018,1,1,6,2018,Summer,Work Day,Friday,Q2,S1,Not Holiday
+602,3022015,3,2,2,2015,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+605,7102016,7,2,10,2016,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+606,20122017,20,4,12,2017,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+608,1062017,1,1,6,2017,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+609,8112016,8,2,11,2016,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+610,5052017,5,1,5,2017,Spring,Work Day,Friday,Q2,S1,Not Holiday
+611,27062017,27,5,6,2017,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+615,27042018,27,5,4,2018,Spring,Work Day,Friday,Q2,S1,Not Holiday
+616,7042014,7,2,4,2014,Spring,Work Day,Monday,Q2,S1,Not Holiday
+617,9122015,9,2,12,2015,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+619,1122015,1,1,12,2015,Winter,Work Day,Tuesday,Q4,S2,Holiday
+621,27062018,27,5,6,2018,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+622,28052015,28,5,5,2015,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+624,9072015,9,2,7,2015,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+625,25012016,25,5,1,2016,Winter,Work Day,Monday,Q1,S1,Not Holiday
+626,16012017,16,4,1,2017,Winter,Work Day,Monday,Q1,S1,Not Holiday
+629,22042015,22,4,4,2015,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+630,15032015,15,3,3,2015,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+633,8082014,8,2,8,2014,Summer,Work Day,Friday,Q3,S2,Not Holiday
+637,23092013,23,5,9,2013,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+638,29102015,29,5,10,2015,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+643,20102018,20,3,10,2018,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+645,14062017,14,3,6,2017,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+646,9092016,9,2,9,2016,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+647,21112014,21,4,11,2014,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+649,12032015,12,3,3,2015,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+650,14102014,14,3,10,2014,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+652,2092015,2,1,9,2015,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+656,26022018,26,5,2,2018,Winter,Work Day,Monday,Q1,S1,Not Holiday
+661,22082018,22,4,8,2018,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+663,5052018,5,1,5,2018,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+664,24042018,24,5,4,2018,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+668,1062016,1,1,6,2016,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+669,26042019,26,4,4,2019,Spring,Work Day,Friday,Q2,S1,Not Holiday
+672,12092014,12,2,9,2014,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+673,12052015,12,3,5,2015,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+676,29052014,29,5,5,2014,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+685,15072019,15,3,7,2019,Summer,Work Day,Monday,Q3,S2,Not Holiday
+687,10052018,10,2,5,2018,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+688,16122014,16,3,12,2014,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+695,27012015,27,5,1,2015,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+696,6022015,6,2,2,2015,Winter,Work Day,Friday,Q1,S1,Not Holiday
+697,11122007,11,3,12,2007,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+698,29052017,29,5,5,2017,Spring,Work Day,Monday,Q2,S1,Not Holiday
+700,11042016,11,3,4,2016,Spring,Work Day,Monday,Q2,S1,Not Holiday
+701,20042018,20,4,4,2018,Spring,Work Day,Friday,Q2,S1,Not Holiday
+702,26052017,26,4,5,2017,Spring,Work Day,Friday,Q2,S1,Not Holiday
+707,17012015,17,3,1,2015,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+709,4052018,4,1,5,2018,Spring,Work Day,Friday,Q2,S1,Not Holiday
+719,5072018,5,2,7,2018,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+720,9062015,9,2,6,2015,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+722,24072017,24,5,7,2017,Summer,Work Day,Monday,Q3,S2,Not Holiday
+723,12102015,12,3,10,2015,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+724,9122014,9,2,12,2014,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+725,16032015,16,4,3,2015,Spring,Work Day,Monday,Q1,S1,Not Holiday
+729,30112017,30,5,11,2017,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+737,20122014,20,3,12,2014,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+739,2102015,2,1,10,2015,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+743,14072015,14,3,7,2015,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+745,2122016,2,1,12,2016,Winter,Work Day,Friday,Q4,S2,Not Holiday
+746,26012010,26,5,1,2010,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+750,5062019,5,2,6,2019,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+755,10092015,10,2,9,2015,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+757,23122014,23,4,12,2014,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+759,20012015,20,4,1,2015,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+760,5022018,5,2,2,2018,Winter,Work Day,Monday,Q1,S1,Not Holiday
+761,1011951,1,1,1,1951,Winter,Work Day,Monday,Q1,S1,Holiday
+763,10112016,10,2,11,2016,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+764,7072015,7,2,7,2015,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+765,10042017,10,3,4,2017,Spring,Work Day,Monday,Q2,S1,Holiday
+767,23102017,23,5,10,2017,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+768,7082014,7,2,8,2014,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+769,2052017,2,1,5,2017,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+772,27032018,27,5,3,2018,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+776,13102016,13,3,10,2016,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+777,22092015,22,4,9,2015,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+779,16052016,16,4,5,2016,Spring,Work Day,Monday,Q2,S1,Not Holiday
+781,12052018,12,2,5,2018,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+782,9032016,9,2,3,2016,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+783,27052014,27,5,5,2014,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+785,6092017,6,2,9,2017,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+787,9052014,9,2,5,2014,Spring,Work Day,Friday,Q2,S1,Not Holiday
+788,28012014,28,5,1,2014,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+789,29022016,29,5,2,2016,Winter,Work Day,Monday,Q1,S1,Not Holiday
+790,23102014,23,4,10,2014,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+791,25022015,25,5,2,2015,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+797,3062014,3,2,6,2014,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+798,23112016,23,4,11,2016,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+800,7092015,7,2,9,2015,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+804,16012018,16,3,1,2018,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+805,8042015,8,2,4,2015,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+806,27112014,27,5,11,2014,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+808,30052012,30,5,5,2012,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+812,18012018,18,3,1,2018,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+813,12062015,12,2,6,2015,Summer,Work Day,Friday,Q2,S1,Not Holiday
+815,3012017,3,2,1,2017,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+817,1042016,1,1,4,2016,Spring,Work Day,Friday,Q2,S1,Not Holiday
+818,17022018,17,3,2,2018,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+820,8052014,8,2,5,2014,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+822,17072017,17,4,7,2017,Summer,Work Day,Monday,Q3,S2,Not Holiday
+823,25082017,25,4,8,2017,Summer,Work Day,Friday,Q3,S2,Not Holiday
+824,26012015,26,5,1,2015,Winter,Work Day,Monday,Q1,S1,Not Holiday
+825,13082013,13,3,8,2013,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+826,1092017,1,1,9,2017,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+827,23092014,23,4,9,2014,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+829,8032010,8,2,3,2010,Spring,Work Day,Monday,Q1,S1,Not Holiday
+831,28042015,28,5,4,2015,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+832,25032015,25,5,3,2015,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+833,24022015,24,5,2,2015,Winter,Work Day,Tuesday,Q1,S1,Holiday
+834,21102015,21,4,10,2015,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+835,14092018,14,3,9,2018,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+836,14102016,14,3,10,2016,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+839,15102018,15,3,10,2018,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+840,4052017,4,1,5,2017,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+845,5072017,5,2,7,2017,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+846,5012016,5,2,1,2016,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+848,29112013,29,5,11,2013,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+849,30122015,30,5,12,2015,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+854,22122014,22,4,12,2014,Winter,Work Day,Monday,Q4,S2,Not Holiday
+856,1042015,1,1,4,2015,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+859,1011970,1,1,1,1970,Winter,Work Day,Thursday,Q1,S1,Holiday
+862,15012015,15,3,1,2015,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+868,19122013,19,4,12,2013,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+869,7042016,7,2,4,2016,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+880,16022018,16,3,2,2018,Winter,Work Day,Friday,Q1,S1,Not Holiday
+882,20012016,20,4,1,2016,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+888,21012011,21,4,1,2011,Winter,Work Day,Friday,Q1,S1,Not Holiday
+889,29082013,29,5,8,2013,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+894,30032019,30,5,3,2019,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+895,3032015,3,2,3,2015,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+897,6122017,6,2,12,2017,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+898,5012015,5,2,1,2015,Winter,Work Day,Monday,Q1,S1,Not Holiday
+903,8112012,8,2,11,2012,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+904,16102015,16,3,10,2015,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+910,10052017,10,2,5,2017,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+911,17032016,17,3,3,2016,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+915,14022014,14,3,2,2014,Winter,Work Day,Friday,Q1,S1,Not Holiday
+917,28122014,28,4,12,2014,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+918,3042016,3,1,4,2016,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+919,17052016,17,4,5,2016,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+920,4082017,4,1,8,2017,Summer,Work Day,Friday,Q3,S2,Not Holiday
+924,16112015,16,4,11,2015,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+925,18072014,18,3,7,2014,Summer,Work Day,Friday,Q3,S2,Not Holiday
+927,11052015,11,3,5,2015,Spring,Work Day,Monday,Q2,S1,Not Holiday
+930,9022018,9,2,2,2018,Winter,Work Day,Friday,Q1,S1,Not Holiday
+931,25052016,25,5,5,2016,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+933,11062002,11,3,6,2002,Summer,Work Day,Tuesday,Q2,S1,Holiday
+935,24112016,24,4,11,2016,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+937,6112015,6,2,11,2015,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+938,7112017,7,2,11,2017,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+939,8102018,8,2,10,2018,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+946,13052016,13,3,5,2016,Spring,Work Day,Friday,Q2,S1,Not Holiday
+948,3032016,3,1,3,2016,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+957,13122014,13,2,12,2014,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+958,11102018,11,2,10,2018,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+961,24042015,24,4,4,2015,Spring,Work Day,Friday,Q2,S1,Not Holiday
+963,18032016,18,3,3,2016,Spring,Work Day,Friday,Q1,S1,Not Holiday
+965,12032017,12,2,3,2017,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+967,14092015,14,3,9,2015,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+979,31072015,31,5,7,2015,Summer,Work Day,Friday,Q3,S2,Not Holiday
+981,10122016,10,2,12,2016,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+982,11022016,11,2,2,2016,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+983,25112009,25,5,11,2009,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+984,24082012,24,4,8,2012,Summer,Work Day,Friday,Q3,S2,Not Holiday
+985,6102015,6,2,10,2015,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+986,21082017,21,4,8,2017,Summer,Work Day,Monday,Q3,S2,Not Holiday
+988,8092015,8,2,9,2015,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+989,30042014,30,5,4,2014,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+999,30012018,30,5,1,2018,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+1005,9032015,9,3,3,2015,Spring,Work Day,Monday,Q1,S1,Not Holiday
+1006,5052015,5,2,5,2015,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1007,10022017,10,2,2,2017,Winter,Work Day,Friday,Q1,S1,Not Holiday
+1008,2052014,2,1,5,2014,Spring,Work Day,Friday,Q2,S1,Not Holiday
+1009,1032015,1,1,3,2015,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+1012,20042015,20,4,4,2015,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1013,17032014,17,4,3,2014,Spring,Work Day,Monday,Q1,S1,Not Holiday
+1015,27022014,27,5,2,2014,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+1017,6052015,6,2,5,2015,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+1019,11032014,11,3,3,2014,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+1021,17122012,17,4,12,2012,Winter,Work Day,Monday,Q4,S2,Not Holiday
+1025,4042018,4,2,4,2018,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+1026,26062015,26,4,6,2015,Summer,Work Day,Friday,Q2,S1,Not Holiday
+1027,19022016,19,3,2,2016,Winter,Work Day,Friday,Q1,S1,Not Holiday
+1028,29012014,29,5,1,2014,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+1030,7052014,7,2,5,2014,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+1032,23052011,23,5,5,2011,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1033,27062013,27,5,6,2013,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+1035,2122014,2,1,12,2014,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+1036,10102014,10,2,10,2014,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+1037,24052017,24,4,5,2017,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+1038,10092009,10,2,9,2009,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+1040,12022014,12,3,2,2014,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+1044,6062014,6,2,6,2014,Summer,Work Day,Friday,Q2,S1,Not Holiday
+1046,29092015,29,5,9,2015,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+1047,1082014,1,1,8,2014,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1053,13032015,13,3,3,2015,Spring,Work Day,Friday,Q1,S1,Not Holiday
+1054,17072018,17,4,7,2018,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1062,14012014,14,3,1,2014,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+1063,28062018,28,5,6,2018,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+1065,30042015,30,5,4,2015,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1066,17012018,17,3,1,2018,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+1068,9022015,9,3,2,2015,Winter,Work Day,Monday,Q1,S1,Not Holiday
+1070,21062016,21,4,6,2016,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+1071,3042007,3,2,4,2007,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1073,1042009,1,1,4,2009,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+1074,20102017,20,4,10,2017,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+1075,2062017,2,1,6,2017,Summer,Work Day,Friday,Q2,S1,Not Holiday
+1076,6062016,6,2,6,2016,Summer,Work Day,Monday,Q2,S1,Not Holiday
+1078,30122016,30,5,12,2016,Winter,Work Day,Friday,Q4,S2,Not Holiday
+1082,15072015,15,3,7,2015,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1089,28042014,28,5,4,2014,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1090,31052015,31,5,5,2015,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+1091,28042020,28,5,4,2020,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1092,21072016,21,4,7,2016,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+1093,3062015,3,1,6,2015,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+1096,4022015,4,2,2,2015,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+1097,14072016,14,3,7,2016,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+1099,6042018,6,2,4,2018,Spring,Work Day,Friday,Q2,S1,Not Holiday
+1100,19072018,19,4,7,2018,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+1101,28102015,28,5,10,2015,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+1103,30122014,30,5,12,2014,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+1104,29092014,29,5,9,2014,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+1105,19072011,19,4,7,2011,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1107,17122015,17,3,12,2015,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+1109,24082015,24,5,8,2015,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1110,31032015,31,6,3,2015,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+1114,25112014,25,5,11,2014,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+1115,9052017,9,2,5,2017,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1116,22022018,22,4,2,2018,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+1117,20052016,20,4,5,2016,Spring,Work Day,Friday,Q2,S1,Not Holiday
+1118,12092017,12,3,9,2017,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+1119,26012016,26,5,1,2016,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+1120,6082014,6,2,8,2014,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1122,13022015,13,3,2,2015,Winter,Work Day,Friday,Q1,S1,Not Holiday
+1125,1062015,1,1,6,2015,Summer,Work Day,Monday,Q2,S1,Not Holiday
+1126,13052017,13,2,5,2017,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+1128,22052015,22,4,5,2015,Spring,Work Day,Friday,Q2,S1,Not Holiday
+1137,24042014,24,4,4,2014,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1140,29042014,29,5,4,2014,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1141,4062014,4,2,6,2014,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+1142,12122016,12,3,12,2016,Winter,Work Day,Monday,Q4,S2,Not Holiday
+1148,18072017,18,4,7,2017,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1149,18042016,18,4,4,2016,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1152,5072016,5,2,7,2016,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1158,12042016,12,3,4,2016,Spring,Work Day,Tuesday,Q2,S1,Holiday
+1170,18012017,18,4,1,2017,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+1176,17052018,17,3,5,2018,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1177,14122015,14,3,12,2015,Winter,Work Day,Monday,Q4,S2,Not Holiday
+1178,3042018,3,2,4,2018,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1180,28092018,28,5,9,2018,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+1184,21032014,21,4,3,2014,Spring,Work Day,Friday,Q1,S1,Not Holiday
+1188,20092016,20,4,9,2016,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+1190,19072012,19,4,7,2012,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+1191,31032017,31,5,3,2017,Spring,Work Day,Friday,Q1,S1,Not Holiday
+1194,29082018,29,5,8,2018,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1195,24052015,24,4,5,2015,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+1196,29072016,29,5,7,2016,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1199,19122018,19,4,12,2018,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+1201,17072015,17,3,7,2015,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1202,22012015,22,4,1,2015,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+1203,28122016,28,5,12,2016,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+1204,22102015,22,4,10,2015,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+1206,29112014,29,5,11,2014,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+1208,21042016,21,4,4,2016,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1210,29072014,29,5,7,2014,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1214,20112015,20,4,11,2015,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+1215,3072015,3,1,7,2015,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1218,11052014,11,2,5,2014,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+1221,14032011,14,3,3,2011,Spring,Work Day,Monday,Q1,S1,Not Holiday
+1222,2032015,2,2,3,2015,Spring,Work Day,Monday,Q1,S1,Not Holiday
+1229,17042013,17,3,4,2013,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+1233,22072016,22,4,7,2016,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1234,13032017,13,3,3,2017,Spring,Work Day,Monday,Q1,S1,Not Holiday
+1237,26052016,26,5,5,2016,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1238,28032014,28,5,3,2014,Spring,Work Day,Friday,Q1,S1,Not Holiday
+1239,16092014,16,3,9,2014,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+1241,9072017,9,2,7,2017,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+1244,29032016,29,5,3,2016,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+1247,25012018,25,4,1,2018,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+1252,2082016,2,1,8,2016,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1255,24112014,24,5,11,2014,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+1258,14052015,14,3,5,2015,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1260,24102016,24,5,10,2016,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+1261,10082015,10,3,8,2015,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1267,12072017,12,3,7,2017,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1271,18082017,18,3,8,2017,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1272,5032019,5,2,3,2019,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+1276,23062014,23,5,6,2014,Summer,Work Day,Monday,Q2,S1,Not Holiday
+1277,6032019,6,2,3,2019,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+1279,23082016,23,4,8,2016,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1285,24052018,24,4,5,2018,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1287,23022017,23,4,2,2017,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+1288,16122016,16,3,12,2016,Winter,Work Day,Friday,Q4,S2,Not Holiday
+1289,8052017,8,2,5,2017,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1291,7072017,7,2,7,2017,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1297,17032017,17,3,3,2017,Spring,Work Day,Friday,Q1,S1,Not Holiday
+1304,23032016,23,4,3,2016,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+1308,23022016,23,4,2,2016,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+1316,13052014,13,3,5,2014,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1319,2102018,2,1,10,2018,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+1322,24042017,24,5,4,2017,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1328,14122012,14,3,12,2012,Winter,Work Day,Friday,Q4,S2,Not Holiday
+1331,12102016,12,3,10,2016,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+1332,13042015,13,3,4,2015,Spring,Work Day,Monday,Q2,S1,Holiday
+1333,12122017,12,3,12,2017,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+1334,21032018,21,4,3,2018,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+1335,10082017,10,2,8,2017,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+1337,31012014,31,5,1,2014,Winter,Work Day,Friday,Q1,S1,Not Holiday
+1338,10102017,10,3,10,2017,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+1349,17052017,17,3,5,2017,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+1363,22082014,22,4,8,2014,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1364,19072016,19,4,7,2016,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1377,15102015,15,3,10,2015,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+1384,21072014,21,4,7,2014,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1386,29012018,29,5,1,2018,Winter,Work Day,Monday,Q1,S1,Not Holiday
+1387,23092017,23,4,9,2017,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+1393,4042016,4,2,4,2016,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1398,7112014,7,2,11,2014,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+1402,12062017,12,3,6,2017,Summer,Work Day,Monday,Q2,S1,Not Holiday
+1403,28092015,28,5,9,2015,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+1407,4012017,4,2,1,2017,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+1409,18022018,18,3,2,2018,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+1421,30062015,30,5,6,2015,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+1422,24102017,24,5,10,2017,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+1429,20102015,20,4,10,2015,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+1430,30042013,30,5,4,2013,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1439,23082017,23,4,8,2017,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1440,26052015,26,5,5,2015,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1441,28112014,28,5,11,2014,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+1445,5122017,5,2,12,2017,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+1446,27082018,27,5,8,2018,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1447,7052015,7,2,5,2015,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1450,13072017,13,3,7,2017,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+1464,21022017,21,4,2,2017,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+1469,8042018,8,2,4,2018,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+1472,12042017,12,3,4,2017,Spring,Work Day,Wednesday,Q2,S1,Holiday
+1474,25072018,25,5,7,2018,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1486,2102014,2,1,10,2014,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+1500,14032017,14,3,3,2017,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+1509,26082015,26,5,8,2015,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1511,15092015,15,3,9,2015,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+1519,23032015,23,5,3,2015,Spring,Work Day,Monday,Q1,S1,Not Holiday
+1521,22072019,22,4,7,2019,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1522,23012018,23,4,1,2018,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+1537,7062017,7,2,6,2017,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+1539,18082014,18,4,8,2014,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1541,1102015,1,1,10,2015,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+1552,12022019,12,3,2,2019,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+1555,19012017,19,4,1,2017,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+1556,24042019,24,4,4,2019,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+1558,21052018,21,4,5,2018,Spring,Work Day,Monday,Q2,S1,Holiday
+1560,5112015,5,2,11,2015,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+1561,6092013,6,2,9,2013,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+1566,5022014,5,2,2,2014,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+1567,3072014,3,1,7,2014,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+1574,4082014,4,2,8,2014,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1584,20032017,20,4,3,2017,Spring,Work Day,Monday,Q1,S1,Not Holiday
+1586,28022018,28,5,2,2018,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+1588,25102017,25,5,10,2017,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+1590,17112014,17,4,11,2014,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+1595,27072016,27,5,7,2016,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1599,3052016,3,2,5,2016,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1600,8062014,8,2,6,2014,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+1601,1032018,1,1,3,2018,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+1604,22022016,22,4,2,2016,Winter,Work Day,Monday,Q1,S1,Not Holiday
+1611,2122013,2,2,12,2013,Winter,Work Day,Monday,Q4,S2,Not Holiday
+1626,14122017,14,3,12,2017,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+1629,5082016,5,1,8,2016,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1636,15072016,15,3,7,2016,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1637,4022016,4,1,2,2016,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+1639,23102015,23,4,10,2015,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+1640,3012018,3,1,1,2018,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+1643,25072017,25,5,7,2017,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1645,23052016,23,5,5,2016,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1650,14102015,14,3,10,2015,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+1653,2042015,2,1,4,2015,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1654,24102014,24,4,10,2014,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+1657,27092015,27,4,9,2015,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+1660,3112015,3,2,11,2015,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+1661,25072014,25,4,7,2014,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1662,26052014,26,5,5,2014,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1666,26062019,26,5,6,2019,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+1677,1082016,1,1,8,2016,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1678,6082018,6,2,8,2018,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1679,29082016,29,5,8,2016,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1680,17052010,17,4,5,2010,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1683,21072015,21,4,7,2015,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1684,5012012,5,2,1,2012,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+1686,5032015,5,2,3,2015,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+1688,25082016,25,4,8,2016,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+1689,1072016,1,1,7,2016,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1690,12102019,12,2,10,2019,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+1696,26122011,26,5,12,2011,Winter,Work Day,Monday,Q4,S2,Not Holiday
+1703,23042014,23,4,4,2014,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+1704,17042017,17,4,4,2017,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1709,23072014,23,4,7,2014,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1717,26092018,26,5,9,2018,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+1723,8042016,8,2,4,2016,Spring,Work Day,Friday,Q2,S1,Not Holiday
+1727,18012016,18,4,1,2016,Winter,Work Day,Monday,Q1,S1,Not Holiday
+1730,24012017,24,5,1,2017,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+1734,29112016,29,5,11,2016,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+1740,3052017,3,1,5,2017,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+1741,26122014,26,4,12,2014,Winter,Work Day,Friday,Q4,S2,Not Holiday
+1746,29122016,29,5,12,2016,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+1756,22032016,22,4,3,2016,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+1777,26062018,26,5,6,2018,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+1781,14062015,14,2,6,2015,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+1786,29082014,29,5,8,2014,Summer,Work Day,Friday,Q3,S2,Not Holiday
+1792,3052018,3,1,5,2018,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1794,2102017,2,2,10,2017,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+1795,5062014,5,2,6,2014,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+1798,9022017,9,2,2,2017,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+1799,7032016,7,2,3,2016,Spring,Work Day,Monday,Q1,S1,Not Holiday
+1805,19062017,19,4,6,2017,Summer,Work Day,Monday,Q2,S1,Not Holiday
+1814,8042014,8,2,4,2014,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1824,18072016,18,4,7,2016,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1834,24062015,24,4,6,2015,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+1836,19092017,19,4,9,2017,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+1839,10102016,10,3,10,2016,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+1840,16042017,16,3,4,2017,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+1847,5102018,5,1,10,2018,Autumn,Work Day,Friday,Q4,S2,Holiday
+1849,20081985,20,4,8,1985,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+1852,23052017,23,4,5,2017,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1860,7062018,7,2,6,2018,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+1868,22022017,22,4,2,2017,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+1872,27092016,27,5,9,2016,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+1888,19042016,19,4,4,2016,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1891,4092017,4,2,9,2017,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+1892,15092016,15,3,9,2016,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+1893,21042015,21,4,4,2015,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1900,16112017,16,3,11,2017,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+1904,25062014,25,5,6,2014,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+1908,21032016,21,4,3,2016,Spring,Work Day,Monday,Q1,S1,Not Holiday
+1910,14042015,14,3,4,2015,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+1913,22062017,22,4,6,2017,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+1922,26072017,26,5,7,2017,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1927,19052017,19,3,5,2017,Spring,Work Day,Friday,Q2,S1,Not Holiday
+1934,8072015,8,2,7,2015,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+1946,7092016,7,2,9,2016,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+1947,16052013,16,3,5,2013,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1950,8012016,8,2,1,2016,Winter,Work Day,Friday,Q1,S1,Not Holiday
+1958,4072016,4,2,7,2016,Summer,Work Day,Monday,Q3,S2,Not Holiday
+1959,19032018,19,4,3,2018,Spring,Work Day,Monday,Q1,S1,Not Holiday
+1962,12122015,12,2,12,2015,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+1967,15052015,15,3,5,2015,Spring,Work Day,Friday,Q2,S1,Not Holiday
+1968,4022017,4,1,2,2017,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+1971,4052015,4,2,5,2015,Spring,Work Day,Monday,Q2,S1,Not Holiday
+1978,28042016,28,5,4,2016,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+1988,11112015,11,3,11,2015,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+1990,24032015,24,5,3,2015,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+1991,17092018,17,4,9,2018,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+1994,7112016,7,2,11,2016,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+1997,18102016,18,4,10,2016,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+1998,28082017,28,5,8,2017,Summer,Work Day,Monday,Q3,S2,Not Holiday
+2005,22112017,22,4,11,2017,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+2007,12112015,12,3,11,2015,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+2012,5062017,5,2,6,2017,Summer,Work Day,Monday,Q2,S1,Not Holiday
+2015,9012018,9,2,1,2018,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+2017,12032014,12,3,3,2014,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+2036,17082015,17,4,8,2015,Summer,Work Day,Monday,Q3,S2,Not Holiday
+2042,27072015,27,5,7,2015,Summer,Work Day,Monday,Q3,S2,Not Holiday
+2045,2072015,2,1,7,2015,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+2047,18122017,18,4,12,2017,Winter,Work Day,Monday,Q4,S2,Not Holiday
+2053,6072015,6,2,7,2015,Summer,Work Day,Monday,Q3,S2,Not Holiday
+2055,13112017,13,3,11,2017,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+2060,16122015,16,3,12,2015,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+2064,9042015,9,2,4,2015,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+2068,12092018,12,3,9,2018,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+2069,26092016,26,5,9,2016,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+2071,28072015,28,5,7,2015,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+2076,1022017,1,1,2,2017,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+2077,23022015,23,5,2,2015,Winter,Work Day,Monday,Q1,S1,Not Holiday
+2083,4122017,4,2,12,2017,Winter,Work Day,Monday,Q4,S2,Not Holiday
+2086,4032016,4,1,3,2016,Spring,Work Day,Friday,Q1,S1,Not Holiday
+2098,19102019,19,3,10,2019,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+2101,16052018,16,3,5,2018,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+2116,31032016,31,5,3,2016,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+2120,18102017,18,4,10,2017,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+2126,14052014,14,3,5,2014,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+2134,17082017,17,3,8,2017,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+2135,15122017,15,3,12,2017,Winter,Work Day,Friday,Q4,S2,Not Holiday
+2136,3112005,3,1,11,2005,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+2140,13062017,13,3,6,2017,Summer,Work Day,Tuesday,Q2,S1,Holiday
+2142,23022018,23,4,2,2018,Winter,Work Day,Friday,Q1,S1,Not Holiday
+2145,8062015,8,2,6,2015,Summer,Work Day,Monday,Q2,S1,Not Holiday
+2147,22102019,22,4,10,2019,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+2151,25062015,25,4,6,2015,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+2153,14072017,14,3,7,2017,Summer,Work Day,Friday,Q3,S2,Not Holiday
+2156,27072017,27,5,7,2017,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+2170,3042015,3,1,4,2015,Spring,Work Day,Friday,Q2,S1,Not Holiday
+2184,27042016,27,5,4,2016,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+2192,29082017,29,5,8,2017,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+2196,18032015,18,4,3,2015,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+2198,31012012,31,6,1,2012,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+2200,2062015,2,1,6,2015,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+2201,17062014,17,4,6,2014,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+2211,26022015,26,5,2,2015,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+2215,28122015,28,5,12,2015,Winter,Work Day,Monday,Q4,S2,Not Holiday
+2216,3102017,3,2,10,2017,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+2217,25022016,25,4,2,2016,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+2218,16022017,16,3,2,2017,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+2219,22032018,22,4,3,2018,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+2222,29032018,29,5,3,2018,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+2241,13102015,13,3,10,2015,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+2242,24072015,24,4,7,2015,Summer,Work Day,Friday,Q3,S2,Not Holiday
+2246,9102017,9,3,10,2017,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+2247,4062015,4,1,6,2015,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+2248,9092015,9,2,9,2015,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+2250,27022018,27,5,2,2018,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+2251,27082015,27,5,8,2015,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+2262,6082017,6,1,8,2017,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+2278,13032018,13,3,3,2018,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+2279,4032015,4,2,3,2015,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+2293,21102016,21,4,10,2016,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+2296,28092017,28,5,9,2017,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+2297,20122018,20,4,12,2018,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+2308,30062016,30,5,6,2016,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+2312,4102017,4,2,10,2017,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+2313,3082017,3,1,8,2017,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+2321,22112016,22,4,11,2016,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+2325,15062016,15,3,6,2016,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+2327,26062017,26,5,6,2017,Summer,Work Day,Monday,Q2,S1,Not Holiday
+2329,14032019,14,3,3,2019,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+2331,7112019,7,2,11,2019,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+2333,6022018,6,2,2,2018,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+2337,5092018,5,2,9,2018,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+2352,5122018,5,2,12,2018,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+2360,1122017,1,1,12,2017,Winter,Work Day,Friday,Q4,S2,Holiday
+2369,14082017,14,3,8,2017,Summer,Work Day,Monday,Q3,S2,Not Holiday
+2375,29072015,29,5,7,2015,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+2386,25112015,25,5,11,2015,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+2404,23062015,23,4,6,2015,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+2405,16072015,16,3,7,2015,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+2409,4072014,4,1,7,2014,Summer,Work Day,Friday,Q3,S2,Not Holiday
+2413,27112009,27,5,11,2009,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+2416,9062016,9,2,6,2016,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+2450,8022017,8,2,2,2017,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+2453,15022016,15,3,2,2016,Winter,Work Day,Monday,Q1,S1,Not Holiday
+2455,14102018,14,2,10,2018,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+2458,5082015,5,2,8,2015,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+2467,6062015,6,1,6,2015,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+2469,4122018,4,2,12,2018,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+2470,19042015,19,3,4,2015,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+2471,14082015,14,3,8,2015,Summer,Work Day,Friday,Q3,S2,Not Holiday
+2473,15082015,15,3,8,2015,Summer,Weekend,Saturday,Q3,S2,Holiday
+2476,21122016,21,4,12,2016,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+2478,17022017,17,3,2,2017,Winter,Work Day,Friday,Q1,S1,Not Holiday
+2481,14042016,14,3,4,2016,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+2482,23072015,23,4,7,2015,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+2497,10122010,10,2,12,2010,Winter,Work Day,Friday,Q4,S2,Not Holiday
+2499,15062015,15,3,6,2015,Summer,Work Day,Monday,Q2,S1,Not Holiday
+2506,11082016,11,2,8,2016,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+2510,29062015,29,5,6,2015,Summer,Work Day,Monday,Q2,S1,Not Holiday
+2511,13062016,13,3,6,2016,Summer,Work Day,Monday,Q2,S1,Holiday
+2513,4092015,4,1,9,2015,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+2514,23092015,23,4,9,2015,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+2515,4042017,4,2,4,2017,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+2518,27032016,27,4,3,2016,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+2522,2122015,2,1,12,2015,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+2525,8032018,8,2,3,2018,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+2526,12012018,12,2,1,2018,Winter,Work Day,Friday,Q1,S1,Not Holiday
+2528,6012016,6,2,1,2016,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+2529,22072015,22,4,7,2015,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+2538,28062017,28,5,6,2017,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+2557,14022017,14,3,2,2017,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+2558,3072009,3,1,7,2009,Summer,Work Day,Friday,Q3,S2,Not Holiday
+2559,12082016,12,2,8,2016,Summer,Work Day,Friday,Q3,S2,Not Holiday
+2566,13092018,13,3,9,2018,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+2568,9032017,9,2,3,2017,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+2572,11062015,11,2,6,2015,Summer,Work Day,Thursday,Q2,S1,Holiday
+2596,8102014,8,2,10,2014,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+2603,12042018,12,3,4,2018,Spring,Work Day,Thursday,Q2,S1,Holiday
+2605,8072016,8,2,7,2016,Summer,Work Day,Friday,Q3,S2,Not Holiday
+2609,10012017,10,3,1,2017,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+2611,19012016,19,4,1,2016,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+2612,2072013,2,1,7,2013,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+2613,3072013,3,1,7,2013,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+2650,23012017,23,5,1,2017,Winter,Work Day,Monday,Q1,S1,Not Holiday
+2663,10122015,10,2,12,2015,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+2664,3092017,3,1,9,2017,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+2682,20072015,20,4,7,2015,Summer,Work Day,Monday,Q3,S2,Not Holiday
+2683,14032016,14,3,3,2016,Spring,Work Day,Monday,Q1,S1,Not Holiday
+2692,26102015,26,5,10,2015,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+2697,18092015,18,3,9,2015,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+2699,7082015,7,2,8,2015,Summer,Work Day,Friday,Q3,S2,Not Holiday
+2701,31052016,31,6,5,2016,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+2702,16082017,16,3,8,2017,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+2720,8082016,8,2,8,2016,Summer,Work Day,Monday,Q3,S2,Not Holiday
+2731,30092018,30,5,9,2018,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+2733,21062018,21,4,6,2018,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+2735,20072017,20,4,7,2017,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+2739,13072015,13,3,7,2015,Summer,Work Day,Monday,Q3,S2,Not Holiday
+2745,19022018,19,4,2,2018,Winter,Work Day,Monday,Q1,S1,Not Holiday
+2755,7112018,7,2,11,2018,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+2764,27102015,27,5,10,2015,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+2766,9092013,9,3,9,2013,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+2773,11062018,11,3,6,2018,Summer,Work Day,Monday,Q2,S1,Holiday
+2792,15082018,15,3,8,2018,Summer,Work Day,Wednesday,Q3,S2,Holiday
+2796,4092018,4,2,9,2018,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+2797,18082015,18,4,8,2015,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+2802,25032018,25,4,3,2018,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+2806,27082019,27,5,8,2019,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+2812,20112014,20,4,11,2014,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+2817,5122016,5,2,12,2016,Winter,Work Day,Monday,Q4,S2,Not Holiday
+2823,21082015,21,4,8,2015,Summer,Work Day,Friday,Q3,S2,Not Holiday
+2833,30112015,30,6,11,2015,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+2836,13022018,13,3,2,2018,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+2840,25012017,25,5,1,2017,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+2845,12082015,12,3,8,2015,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+2869,11082015,11,3,8,2015,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+2873,12112017,12,2,11,2017,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+2874,23032017,23,4,3,2017,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+2875,23112017,23,4,11,2017,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+2885,31082015,31,6,8,2015,Summer,Work Day,Monday,Q3,S2,Not Holiday
+2890,27092018,27,5,9,2018,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+2892,9062017,9,2,6,2017,Summer,Work Day,Friday,Q2,S1,Not Holiday
+2896,30042019,30,5,4,2019,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+2902,7042017,7,2,4,2017,Spring,Work Day,Friday,Q2,S1,Not Holiday
+2903,12032018,12,3,3,2018,Spring,Work Day,Monday,Q1,S1,Not Holiday
+2904,11062017,11,2,6,2017,Summer,Weekend,Sunday,Q2,S1,Holiday
+2905,19102015,19,4,10,2015,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+2909,10082010,10,3,8,2010,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+2911,10032016,10,2,3,2016,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+2917,16092015,16,3,9,2015,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+2918,24112015,24,5,11,2015,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+2920,23062016,23,4,6,2016,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+2921,8022016,8,2,2,2016,Winter,Work Day,Monday,Q1,S1,Not Holiday
+2926,3092015,3,1,9,2015,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+2929,12092016,12,3,9,2016,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+2943,15042016,15,3,4,2016,Spring,Work Day,Friday,Q2,S1,Not Holiday
+2951,22092017,22,4,9,2017,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+2961,24092015,24,4,9,2015,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+2971,7042010,7,2,4,2010,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+2984,19102016,19,4,10,2016,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+2985,11012017,11,3,1,2017,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+2998,16052014,16,3,5,2014,Spring,Work Day,Friday,Q2,S1,Not Holiday
+3003,12062018,12,3,6,2018,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+3005,15052018,15,3,5,2018,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+3011,9012014,9,2,1,2014,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+3013,16022016,16,3,2,2016,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+3018,22012019,22,4,1,2019,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+3019,27022016,27,4,2,2016,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+3021,9112015,9,3,11,2015,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+3031,10092018,10,3,9,2018,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+3037,19072010,19,4,7,2010,Summer,Work Day,Monday,Q3,S2,Not Holiday
+3050,7102015,7,2,10,2015,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+3059,14112014,14,3,11,2014,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+3069,25082015,25,5,8,2015,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+3096,16112018,16,3,11,2018,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+3100,7032017,7,2,3,2017,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+3114,2112015,2,2,11,2015,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+3116,15022018,15,3,2,2018,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+3129,24112017,24,4,11,2017,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+3142,24022017,24,4,2,2017,Winter,Work Day,Friday,Q1,S1,Holiday
+3144,7012016,7,2,1,2016,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+3147,20072016,20,4,7,2016,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+3149,21012016,21,4,1,2016,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+3155,27112015,27,5,11,2015,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+3157,9112016,9,2,11,2016,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+3160,16102009,16,3,10,2009,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+3161,18062009,18,3,6,2009,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+3184,21122018,21,4,12,2018,Winter,Work Day,Friday,Q4,S2,Not Holiday
+3190,9102015,9,2,10,2015,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+3200,10112015,10,3,11,2015,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+3201,30042018,30,6,4,2018,Spring,Work Day,Monday,Q2,S1,Not Holiday
+3206,21092018,21,4,9,2018,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+3207,25092018,25,5,9,2018,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+3212,5092016,5,2,9,2016,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+3214,26072016,26,5,7,2016,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+3215,26092014,26,4,9,2014,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+3221,31072018,31,6,7,2018,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+3230,1032017,1,1,3,2017,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+3233,28012016,28,5,1,2016,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+3248,17082016,17,3,8,2016,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+3259,19052016,19,4,5,2016,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+3273,20122016,20,4,12,2016,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+3277,11012016,11,3,1,2016,Winter,Work Day,Monday,Q1,S1,Not Holiday
+3280,18092017,18,4,9,2017,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+3282,7122015,7,2,12,2015,Winter,Work Day,Monday,Q4,S2,Not Holiday
+3284,25072016,25,5,7,2016,Summer,Work Day,Monday,Q3,S2,Not Holiday
+3285,16062015,16,3,6,2015,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+3290,13022017,13,3,2,2017,Winter,Work Day,Monday,Q1,S1,Not Holiday
+3295,22122015,22,4,12,2015,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+3300,14052017,14,2,5,2017,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+3304,12112014,12,3,11,2014,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+3314,11102016,11,3,10,2016,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+3320,14072014,14,3,7,2014,Summer,Work Day,Monday,Q3,S2,Not Holiday
+3326,2112016,2,1,11,2016,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+3344,30052016,30,6,5,2016,Spring,Work Day,Monday,Q2,S1,Not Holiday
+3346,7082017,7,2,8,2017,Summer,Work Day,Monday,Q3,S2,Not Holiday
+3352,23082018,23,4,8,2018,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+3357,30042004,30,5,4,2004,Spring,Work Day,Friday,Q2,S1,Not Holiday
+3364,13072016,13,3,7,2016,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+3368,18022016,18,3,2,2016,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+3386,18112015,18,4,11,2015,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+3390,13012016,13,3,1,2016,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+3392,25102016,25,5,10,2016,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+3394,13092016,13,3,9,2016,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+3396,17092015,17,3,9,2015,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+3417,29092018,29,5,9,2018,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+3418,8032017,8,2,3,2017,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+3419,5012017,5,2,1,2017,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+3420,28102016,28,5,10,2016,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+3435,14032018,14,3,3,2018,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+3436,4072018,4,2,7,2018,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+3439,23122016,23,4,12,2016,Winter,Work Day,Friday,Q4,S2,Not Holiday
+3442,3112017,3,1,11,2017,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+3447,26022016,26,4,2,2016,Winter,Work Day,Friday,Q1,S1,Not Holiday
+3449,5042016,5,2,4,2016,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+3461,27012016,27,5,1,2016,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+3462,29012016,29,5,1,2016,Winter,Work Day,Friday,Q1,S1,Not Holiday
+3463,28112016,28,5,11,2016,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+3485,30112016,30,5,11,2016,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+3491,6042016,6,2,4,2016,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+3499,11072016,11,3,7,2016,Summer,Work Day,Monday,Q3,S2,Not Holiday
+3500,28032016,28,5,3,2016,Spring,Work Day,Monday,Q1,S1,Not Holiday
+3502,17012017,17,4,1,2017,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+3523,7052018,7,2,5,2018,Spring,Work Day,Monday,Q2,S1,Not Holiday
+3539,24062016,24,4,6,2016,Summer,Work Day,Friday,Q2,S1,Not Holiday
+3546,27042017,27,5,4,2017,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+3563,21032017,21,4,3,2017,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+3580,28092016,28,5,9,2016,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+3586,30082017,30,5,8,2017,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+3606,2082018,2,1,8,2018,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+3607,13042017,13,3,4,2017,Spring,Work Day,Thursday,Q2,S1,Holiday
+3638,22072018,22,4,7,2018,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+3653,30072018,30,6,7,2018,Summer,Work Day,Monday,Q3,S2,Not Holiday
+3658,29032017,29,5,3,2017,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+3662,16092016,16,3,9,2016,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+3663,31082010,31,6,8,2010,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+3670,5042017,5,2,4,2017,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+3672,15112018,15,3,11,2018,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+3692,4102018,4,1,10,2018,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+3693,19032016,19,3,3,2016,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+3697,11022018,11,2,2,2018,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+3699,24032016,24,4,3,2016,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+3707,26042016,26,5,4,2016,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+3717,3112016,3,1,11,2016,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+3721,2032016,2,1,3,2016,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+3726,12072018,12,3,7,2018,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+3742,8092016,8,2,9,2016,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+3745,25052017,25,4,5,2017,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+3754,27082010,27,5,8,2010,Summer,Work Day,Friday,Q3,S2,Not Holiday
+3759,4102016,4,2,10,2016,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+3760,11042014,11,2,4,2014,Spring,Work Day,Friday,Q2,S1,Not Holiday
+3762,28042017,28,5,4,2017,Spring,Work Day,Friday,Q2,S1,Not Holiday
+3774,6022017,6,2,2,2017,Winter,Work Day,Monday,Q1,S1,Not Holiday
+3793,14042011,14,3,4,2011,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+3800,3022016,3,1,2,2016,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+3831,25042016,25,5,4,2016,Spring,Work Day,Monday,Q2,S1,Holiday
+3832,15112012,15,3,11,2012,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+3842,5052016,5,2,5,2016,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+3846,14052010,14,3,5,2010,Spring,Work Day,Friday,Q2,S1,Not Holiday
+3859,24102007,24,4,10,2007,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+3870,3102016,3,2,10,2016,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+3879,2112006,2,1,11,2006,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+3887,23122015,23,4,12,2015,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+3888,20062016,20,4,6,2016,Summer,Work Day,Monday,Q2,S1,Not Holiday
+3896,31102016,31,6,10,2016,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+3904,17102016,17,4,10,2016,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+3926,19102017,19,4,10,2017,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+3948,30102017,30,6,10,2017,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+3968,31072017,31,6,7,2017,Summer,Work Day,Monday,Q3,S2,Not Holiday
+3974,17042019,17,3,4,2019,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+3975,8112018,8,2,11,2018,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+3977,28072017,28,5,7,2017,Summer,Work Day,Friday,Q3,S2,Not Holiday
+3990,26032018,26,5,3,2018,Spring,Work Day,Monday,Q1,S1,Not Holiday
+3991,6122018,6,2,12,2018,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+3994,9052016,9,3,5,2016,Spring,Work Day,Monday,Q2,S1,Not Holiday
+4003,17042018,17,4,4,2018,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+4008,17062016,17,3,6,2016,Summer,Work Day,Friday,Q2,S1,Not Holiday
+4018,25092016,25,4,9,2016,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+4021,21112016,21,4,11,2016,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+4025,27072018,27,5,7,2018,Summer,Work Day,Friday,Q3,S2,Not Holiday
+4033,29092017,29,5,9,2017,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+4052,31012017,31,6,1,2017,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+4053,8022011,8,2,2,2011,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+4057,25052018,25,4,5,2018,Spring,Work Day,Friday,Q2,S1,Not Holiday
+4065,1072017,1,1,7,2017,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+4082,14052018,14,3,5,2018,Spring,Work Day,Monday,Q2,S1,Not Holiday
+4092,12112018,12,3,11,2018,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+4105,28032018,28,5,3,2018,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+4109,13042016,13,3,4,2016,Spring,Work Day,Wednesday,Q2,S1,Holiday
+4126,16072016,16,3,7,2016,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+4138,15052016,15,3,5,2016,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+4150,31032018,31,5,3,2018,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+4153,14042018,14,3,4,2018,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+4157,20052017,20,3,5,2017,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+4172,7052016,7,2,5,2016,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+4179,27102017,27,5,10,2017,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+4189,23052019,23,4,5,2019,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+4197,28072014,28,5,7,2014,Summer,Work Day,Monday,Q3,S2,Not Holiday
+4208,10112017,10,2,11,2017,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+4212,21052016,21,4,5,2016,Spring,Weekend,Saturday,Q2,S1,Holiday
+4219,18062018,18,4,6,2018,Summer,Work Day,Monday,Q2,S1,Not Holiday
+4222,31082016,31,5,8,2016,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+4224,8022018,8,2,2,2018,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+4240,11072018,11,3,7,2018,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+4258,16032017,16,3,3,2017,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+4259,10082016,10,2,8,2016,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+4272,18042019,18,3,4,2019,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+4280,8012018,8,2,1,2018,Winter,Work Day,Monday,Q1,S1,Not Holiday
+4282,14112016,14,3,11,2016,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+4283,11112013,11,3,11,2013,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+4307,2042016,2,1,4,2016,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+4308,15072017,15,3,7,2017,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+4313,11092018,11,3,9,2018,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+4325,29042018,29,5,4,2018,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+4326,26012017,26,5,1,2017,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+4349,26012018,26,4,1,2018,Winter,Work Day,Friday,Q1,S1,Not Holiday
+4351,10062016,10,2,6,2016,Summer,Work Day,Friday,Q2,S1,Holiday
+4355,28052017,28,4,5,2017,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+4367,19082017,19,3,8,2017,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+4395,23052014,23,4,5,2014,Spring,Work Day,Friday,Q2,S1,Not Holiday
+4398,3082016,3,1,8,2016,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+4399,14052016,14,3,5,2016,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+4403,3022017,3,1,2,2017,Winter,Work Day,Friday,Q1,S1,Not Holiday
+4424,16112016,16,3,11,2016,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+4452,1062019,1,1,6,2019,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+4454,30092016,30,5,9,2016,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+4483,22122017,22,4,12,2017,Winter,Work Day,Friday,Q4,S2,Not Holiday
+4495,2092016,2,1,9,2016,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+4507,26102016,26,5,10,2016,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+4534,10022018,10,2,2,2018,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+4542,29072018,29,5,7,2018,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+4561,16082016,16,3,8,2016,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+4567,21092017,21,4,9,2017,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+4585,28052018,28,5,5,2018,Spring,Work Day,Monday,Q2,S1,Not Holiday
+4592,20012017,20,4,1,2017,Winter,Work Day,Friday,Q1,S1,Not Holiday
+4602,2052018,2,1,5,2018,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+4603,9082016,9,2,8,2016,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+4605,9012017,9,3,1,2017,Winter,Work Day,Monday,Q1,S1,Not Holiday
+4612,19082016,19,3,8,2016,Summer,Work Day,Friday,Q3,S2,Not Holiday
+4625,4112016,4,1,11,2016,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+4648,15122016,15,3,12,2016,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+4654,25062019,25,5,6,2019,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+4659,30072016,30,5,7,2016,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+4668,19092016,19,4,9,2016,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+4689,15032017,15,3,3,2017,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+4691,18082016,18,3,8,2016,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+4695,6082016,6,1,8,2016,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+4704,4032017,4,1,3,2017,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+4715,20112017,20,4,11,2017,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+4733,27082016,27,4,8,2016,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+4740,16082018,16,3,8,2018,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+4741,20072018,20,4,7,2018,Summer,Work Day,Friday,Q3,S2,Not Holiday
+4746,2032018,2,1,3,2018,Spring,Work Day,Friday,Q1,S1,Not Holiday
+4757,5072019,5,1,7,2019,Summer,Work Day,Friday,Q3,S2,Not Holiday
+4761,28112017,28,5,11,2017,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+4766,6112017,6,2,11,2017,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+4775,26092017,26,5,9,2017,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+4777,11092019,11,3,9,2019,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+4782,24122017,24,4,12,2017,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+4784,8062018,8,2,6,2018,Summer,Work Day,Friday,Q2,S1,Not Holiday
+4788,8122017,8,2,12,2017,Winter,Work Day,Friday,Q4,S2,Holiday
+4789,15032010,15,3,3,2010,Spring,Work Day,Monday,Q1,S1,Not Holiday
+4805,6102016,6,2,10,2016,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+4828,15082019,15,3,8,2019,Summer,Work Day,Thursday,Q3,S2,Holiday
+4844,2022017,2,1,2,2017,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+4874,27112018,27,5,11,2018,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+4877,19092018,19,4,9,2018,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+4890,16032018,16,3,3,2018,Spring,Work Day,Friday,Q1,S1,Not Holiday
+4891,20082018,20,4,8,2018,Summer,Work Day,Monday,Q3,S2,Not Holiday
+4894,8012019,8,2,1,2019,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+4899,22122016,22,4,12,2016,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+4900,27012017,27,5,1,2017,Winter,Work Day,Friday,Q1,S1,Not Holiday
+4906,6092016,6,2,9,2016,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+4919,12012017,12,3,1,2017,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+4955,26042017,26,5,4,2017,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+4960,28032017,28,5,3,2017,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+4965,19072017,19,4,7,2017,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+4980,27102016,27,5,10,2016,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+4988,9122016,9,2,12,2016,Winter,Work Day,Friday,Q4,S2,Not Holiday
+5002,9092017,9,2,9,2017,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+5003,7082018,7,2,8,2018,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+5018,2062010,2,1,6,2010,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+5026,24061986,24,5,6,1986,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+5027,26072012,26,5,7,2012,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+5088,6042019,6,1,4,2019,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+5105,10021999,10,2,2,1999,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+5113,7122016,7,2,12,2016,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+5119,16102017,16,4,10,2017,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+5122,27092019,27,5,9,2019,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+5154,25112016,25,4,11,2016,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+5165,11082017,11,2,8,2017,Summer,Work Day,Friday,Q3,S2,Not Holiday
+5172,7042009,7,2,4,2009,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+5184,6112016,6,1,11,2016,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+5220,5112017,5,1,11,2017,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+5226,18102019,18,3,10,2019,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+5241,3042017,3,2,4,2017,Spring,Work Day,Monday,Q2,S1,Not Holiday
+5245,17122016,17,3,12,2016,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+5249,11112016,11,2,11,2016,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+5274,27072019,27,4,7,2019,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+5295,19042017,19,4,4,2017,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+5299,27052019,27,5,5,2019,Spring,Work Day,Monday,Q2,S1,Not Holiday
+5300,9052018,9,2,5,2018,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+5304,20022017,20,4,2,2017,Winter,Work Day,Monday,Q1,S1,Not Holiday
+5307,6032017,6,2,3,2017,Spring,Work Day,Monday,Q1,S1,Not Holiday
+5309,7092018,7,2,9,2018,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+5314,6122016,6,2,12,2016,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+5318,15042017,15,3,4,2017,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+5326,27042019,27,4,4,2019,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+5330,20042019,20,3,4,2019,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+5360,17112016,17,3,11,2016,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+5361,15042019,15,3,4,2019,Spring,Work Day,Monday,Q2,S1,Not Holiday
+5363,3122016,3,1,12,2016,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+5365,13102017,13,3,10,2017,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+5384,10032018,10,2,3,2018,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+5390,17092017,17,3,9,2017,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+5420,10042013,10,2,4,2013,Spring,Work Day,Wednesday,Q2,S1,Holiday
+5434,30032017,30,5,3,2017,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+5454,13112012,13,3,11,2012,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+5460,27032017,27,5,3,2017,Spring,Work Day,Monday,Q1,S1,Not Holiday
+5485,27052011,27,5,5,2011,Spring,Work Day,Friday,Q2,S1,Not Holiday
+5539,18052017,18,3,5,2017,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+5550,13062018,13,3,6,2018,Summer,Work Day,Wednesday,Q2,S1,Holiday
+5551,2072018,2,2,7,2018,Summer,Work Day,Monday,Q3,S2,Not Holiday
+5596,18032017,18,3,3,2017,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+5597,6082019,6,2,8,2019,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+5636,12082017,12,2,8,2017,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+5645,23032018,23,4,3,2018,Spring,Work Day,Friday,Q1,S1,Not Holiday
+5649,21042017,21,4,4,2017,Spring,Work Day,Friday,Q2,S1,Not Holiday
+5652,13102018,13,2,10,2018,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+5659,27052017,27,4,5,2017,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+5661,5042018,5,2,4,2018,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+5680,15032018,15,3,3,2018,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+5689,26042018,26,5,4,2018,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+5692,7122018,7,2,12,2018,Winter,Work Day,Friday,Q4,S2,Not Holiday
+5698,12042011,12,3,4,2011,Spring,Work Day,Tuesday,Q2,S1,Holiday
+5710,2022018,2,1,2,2018,Winter,Work Day,Friday,Q1,S1,Not Holiday
+5739,23062018,23,4,6,2018,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+5755,18022017,18,3,2,2017,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+5765,9032018,9,2,3,2018,Spring,Work Day,Friday,Q1,S1,Not Holiday
+5776,24082018,24,4,8,2018,Summer,Work Day,Friday,Q3,S2,Not Holiday
+5806,28022017,28,5,2,2017,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+5862,20022018,20,4,2,2018,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+5864,2072017,2,1,7,2017,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+5872,14022018,14,3,2,2018,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+5928,4022018,4,1,2,2018,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+5934,20042017,20,4,4,2017,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+5937,11092017,11,3,9,2017,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+6028,1052017,1,1,5,2017,Spring,Work Day,Monday,Q2,S1,Holiday
+6031,15042018,15,3,4,2018,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+6038,11102017,11,3,10,2017,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+6046,29092016,29,5,9,2016,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+6056,5032018,5,2,3,2018,Spring,Work Day,Monday,Q1,S1,Not Holiday
+6072,6042017,6,2,4,2017,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+6091,18042017,18,4,4,2017,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+6104,21022018,21,4,2,2018,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+6107,17062017,17,3,6,2017,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+6117,3072018,3,2,7,2018,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+6137,2092018,2,1,9,2018,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+6185,3032017,3,1,3,2017,Spring,Work Day,Friday,Q1,S1,Not Holiday
+6189,1082017,1,1,8,2017,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+6217,21022019,21,4,2,2019,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+6218,23052018,23,4,5,2018,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+6222,11012018,11,2,1,2018,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+6256,16092017,16,3,9,2017,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+6267,11042017,11,3,4,2017,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+6276,6062019,6,2,6,2019,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+6318,8092017,8,2,9,2017,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+6323,21082018,21,4,8,2018,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+6337,21112015,21,4,11,2015,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+6348,23042017,23,4,4,2017,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+6356,22052014,22,4,5,2014,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+6383,6052017,6,1,5,2017,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+6411,24012018,24,4,1,2018,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+6429,19022017,19,3,2,2017,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+6433,11032013,11,3,3,2013,Spring,Work Day,Monday,Q1,S1,Not Holiday
+6455,3082018,3,1,8,2018,Summer,Work Day,Friday,Q3,S2,Not Holiday
+6474,9082017,9,2,8,2017,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+6488,25042017,25,5,4,2017,Spring,Work Day,Tuesday,Q2,S1,Holiday
+6502,17032018,17,3,3,2018,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+6512,26072018,26,5,7,2018,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+6530,12052017,12,2,5,2017,Spring,Work Day,Friday,Q2,S1,Not Holiday
+6534,25092015,25,4,9,2015,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+6543,22052018,22,4,5,2018,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+6550,23072018,23,5,7,2018,Summer,Work Day,Monday,Q3,S2,Not Holiday
+6629,18012019,18,3,1,2019,Winter,Work Day,Friday,Q1,S1,Not Holiday
+6630,10012019,10,2,1,2019,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+6632,2022019,2,1,2,2019,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+6639,29112017,29,5,11,2017,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+6641,25022017,25,4,2,2017,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+6683,25062017,25,4,6,2017,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+6685,5062018,5,2,6,2018,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+6745,22072017,22,4,7,2017,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+6746,11022014,11,3,2,2014,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+6749,24062014,24,5,6,2014,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+6760,7032018,7,2,3,2018,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+6763,3062017,3,1,6,2017,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+6783,16072017,16,3,7,2017,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+6792,10062017,10,2,6,2017,Summer,Weekend,Saturday,Q2,S1,Holiday
+6806,21052017,21,3,5,2017,Spring,Weekend,Sunday,Q2,S1,Holiday
+6823,21112017,21,4,11,2017,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+6875,24062011,24,4,6,2011,Summer,Work Day,Friday,Q2,S1,Not Holiday
+6890,15062018,15,3,6,2018,Summer,Work Day,Friday,Q2,S1,Not Holiday
+6925,25092017,25,5,9,2017,Autumn,Work Day,Monday,Q3,S2,Not Holiday
+6931,5102015,5,2,10,2015,Autumn,Work Day,Monday,Q4,S2,Holiday
+6934,26062006,26,5,6,2006,Summer,Work Day,Monday,Q2,S1,Not Holiday
+6935,24062017,24,4,6,2017,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+6960,14012017,14,3,1,2017,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+6982,14062018,14,3,6,2018,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+6997,5012018,5,1,1,2018,Winter,Work Day,Friday,Q1,S1,Not Holiday
+7042,9122017,9,2,12,2017,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+7065,29072017,29,5,7,2017,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+7075,29062019,29,5,6,2019,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+7091,30042012,30,6,4,2012,Spring,Work Day,Monday,Q2,S1,Not Holiday
+7099,15022019,15,3,2,2019,Winter,Work Day,Friday,Q1,S1,Not Holiday
+7115,12102017,12,3,10,2017,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+7146,29032019,29,5,3,2019,Spring,Work Day,Friday,Q1,S1,Not Holiday
+7191,18042018,18,4,4,2018,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+7271,23072017,23,4,7,2017,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+7294,31012018,31,5,1,2018,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+7297,28102014,28,5,10,2014,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+7327,14102010,14,3,10,2010,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+7390,10052019,10,2,5,2019,Spring,Work Day,Friday,Q2,S1,Not Holiday
+7392,30072017,30,5,7,2017,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+7398,2112017,2,1,11,2017,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+7433,21061995,21,4,6,1995,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+7442,18082009,18,4,8,2009,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+7501,3072012,3,2,7,2012,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+7502,4122016,4,1,12,2016,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+7515,11122017,11,3,12,2017,Winter,Work Day,Monday,Q4,S2,Not Holiday
+7569,7052019,7,2,5,2019,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+7604,9112017,9,2,11,2017,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+7657,15082017,15,3,8,2017,Summer,Work Day,Tuesday,Q3,S2,Holiday
+7676,2122017,2,1,12,2017,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+7776,23122017,23,4,12,2017,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+7814,10092019,10,3,9,2019,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+7835,29122015,29,5,12,2015,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+7856,6112013,6,2,11,2013,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+7863,29032012,29,5,3,2012,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+7877,14082018,14,3,8,2018,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+7892,2062014,2,2,6,2014,Summer,Work Day,Monday,Q2,S1,Not Holiday
+7894,1102017,1,1,10,2017,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+7920,24092017,24,4,9,2017,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+7985,14082002,14,3,8,2002,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+7996,6062018,6,2,6,2018,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+7998,23042018,23,5,4,2018,Spring,Work Day,Monday,Q2,S1,Not Holiday
+8030,3022010,3,1,2,2010,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+8092,29112012,29,5,11,2012,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+8100,1112017,1,1,11,2017,Autumn,Work Day,Wednesday,Q4,S2,Holiday
+8133,3012019,3,1,1,2019,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+8151,2012018,2,1,1,2018,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+8155,14112017,14,3,11,2017,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+8170,4112017,4,1,11,2017,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+8175,22122018,22,4,12,2018,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+8197,8112017,8,2,11,2017,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+8202,21102017,21,4,10,2017,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+8205,22062019,22,4,6,2019,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+8217,11112017,11,2,11,2017,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+8248,17112017,17,3,11,2017,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+8273,5102017,5,2,10,2017,Autumn,Work Day,Thursday,Q4,S2,Holiday
+8319,18112017,18,3,11,2017,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+8345,19051987,19,4,5,1987,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+8355,28102017,28,5,10,2017,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+8377,7102011,7,2,10,2011,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+8393,13082014,13,3,8,2014,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+8402,27032012,27,5,3,2012,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+8412,20092011,20,4,9,2011,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+8429,7072018,7,2,7,2018,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+8430,6012018,6,1,1,2018,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+8472,25122017,25,5,12,2017,Winter,Work Day,Monday,Q4,S2,Holiday
+8478,7022018,7,2,2,2018,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+8504,30092017,30,5,9,2017,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+8553,26042013,26,4,4,2013,Spring,Work Day,Friday,Q2,S1,Not Holiday
+8619,3122017,3,1,12,2017,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+8621,27012018,27,4,1,2018,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+8631,19112010,19,3,11,2010,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+8637,15092018,15,3,9,2018,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+8675,3022018,3,1,2,2018,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+8690,21012018,21,3,1,2018,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+8707,11042018,11,3,4,2018,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+8726,6082013,6,2,8,2013,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+8737,13012018,13,2,1,2018,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+8757,7072011,7,2,7,2011,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+8766,17042015,17,3,4,2015,Spring,Work Day,Friday,Q2,S1,Not Holiday
+8841,11012019,11,2,1,2019,Winter,Work Day,Friday,Q1,S1,Not Holiday
+8887,7032012,7,2,3,2012,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+8947,3032018,3,1,3,2018,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+8953,28042018,28,5,4,2018,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+8974,25042018,25,5,4,2018,Spring,Work Day,Wednesday,Q2,S1,Holiday
+8988,13012014,13,3,1,2014,Winter,Work Day,Monday,Q1,S1,Not Holiday
+9026,10032010,10,2,3,2010,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+9031,13112016,13,2,11,2016,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+9045,25022018,25,4,2,2018,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+9078,13042018,13,3,4,2018,Spring,Work Day,Friday,Q2,S1,Holiday
+9099,28022019,28,5,2,2019,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+9108,11051998,11,3,5,1998,Spring,Work Day,Monday,Q2,S1,Not Holiday
+9140,4032018,4,1,3,2018,Spring,Weekend,Sunday,Q1,S1,Not Holiday
+9194,9042018,9,3,4,2018,Spring,Work Day,Monday,Q2,S1,Not Holiday
+9279,28112008,28,5,11,2008,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+9318,30052018,30,5,5,2018,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+9320,25082014,25,5,8,2014,Summer,Work Day,Monday,Q3,S2,Not Holiday
+9323,23062009,23,4,6,2009,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+9331,21052019,21,4,5,2019,Spring,Work Day,Tuesday,Q2,S1,Holiday
+9341,7042018,7,2,4,2018,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+9349,16042018,16,4,4,2018,Spring,Work Day,Monday,Q2,S1,Not Holiday
+9356,13112015,13,3,11,2015,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+9368,21042018,21,4,4,2018,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+9420,20092018,20,4,9,2018,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+9437,3082011,3,1,8,2011,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+9449,1072018,1,1,7,2018,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+9484,13052013,13,3,5,2013,Spring,Work Day,Monday,Q2,S1,Not Holiday
+9488,1042018,1,1,4,2018,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+9513,23052013,23,4,5,2013,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+9515,19052018,19,3,5,2018,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+9525,29052018,29,5,5,2018,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+9527,8051986,8,2,5,1986,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+9550,4062018,4,2,6,2018,Summer,Work Day,Monday,Q2,S1,Not Holiday
+9594,26032012,26,5,3,2012,Spring,Work Day,Monday,Q1,S1,Not Holiday
+9602,9082018,9,2,8,2018,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+9660,8062010,8,2,6,2010,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+9666,14111989,14,3,11,1989,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+9684,20062018,20,4,6,2018,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+9701,31052018,31,5,5,2018,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+9748,19062018,19,4,6,2018,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+9753,24012013,24,4,1,2013,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+9790,13052018,13,2,5,2018,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+9840,13082018,13,3,8,2018,Summer,Work Day,Monday,Q3,S2,Not Holiday
+9906,20052013,20,4,5,2013,Spring,Work Day,Monday,Q2,S1,Not Holiday
+9931,1052018,1,1,5,2018,Spring,Work Day,Tuesday,Q2,S1,Holiday
+9952,18052018,18,3,5,2018,Spring,Work Day,Friday,Q2,S1,Not Holiday
+9962,26052018,26,4,5,2018,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+9987,16062018,16,3,6,2018,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+10068,9072018,9,3,7,2018,Summer,Work Day,Monday,Q3,S2,Not Holiday
+10084,13072018,13,3,7,2018,Summer,Work Day,Friday,Q3,S2,Not Holiday
+10134,22062018,22,4,6,2018,Summer,Work Day,Friday,Q2,S1,Not Holiday
+10143,10082009,10,3,8,2009,Summer,Work Day,Monday,Q3,S2,Not Holiday
+10157,4122015,4,1,12,2015,Winter,Work Day,Friday,Q4,S2,Not Holiday
+10166,30072013,30,5,7,2013,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+10204,21082014,21,4,8,2014,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+10235,30112018,30,5,11,2018,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+10239,14122016,14,3,12,2016,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+10241,10122012,10,3,12,2012,Winter,Work Day,Monday,Q4,S2,Not Holiday
+10279,3012015,3,1,1,2015,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+10304,26122017,26,5,12,2017,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+10313,2062018,2,1,6,2018,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+10357,10072018,10,3,7,2018,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+10375,3062018,3,1,6,2018,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+10398,9022016,9,2,2,2016,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+10446,17102012,17,3,10,2012,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+10456,22112018,22,4,11,2018,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+10489,9062018,9,2,6,2018,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+10506,11102013,11,2,10,2013,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+10549,17062018,17,3,6,2018,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+10555,29052019,29,5,5,2019,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+10572,25122018,25,5,12,2018,Winter,Work Day,Tuesday,Q4,S2,Holiday
+10590,28122018,28,5,12,2018,Winter,Work Day,Friday,Q4,S2,Not Holiday
+10654,24112018,24,4,11,2018,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+10682,1082018,1,1,8,2018,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+10722,20072019,20,3,7,2019,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+10730,24062018,24,4,6,2018,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+10764,30062018,30,5,6,2018,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+10817,29122018,29,5,12,2018,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+10863,19112018,19,4,11,2018,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+10911,4012019,4,1,1,2019,Winter,Work Day,Friday,Q1,S1,Not Holiday
+10913,15122005,15,3,12,2005,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+10960,14081967,14,3,8,1967,Summer,Work Day,Monday,Q3,S2,Not Holiday
+10982,22082019,22,4,8,2019,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+11002,27022019,27,5,2,2019,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+11009,14072018,14,3,7,2018,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+11072,21072018,21,4,7,2018,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+11245,31052019,31,5,5,2019,Spring,Work Day,Friday,Q2,S1,Not Holiday
+11247,18062012,18,4,6,2012,Summer,Work Day,Monday,Q2,S1,Not Holiday
+11282,15072018,15,3,7,2018,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+11289,28072018,28,5,7,2018,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+11333,4082018,4,1,8,2018,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+11336,28012017,28,5,1,2017,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+11358,10062018,10,2,6,2018,Summer,Weekend,Sunday,Q2,S1,Holiday
+11368,11082018,11,2,8,2018,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+11390,23032019,23,4,3,2019,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+11400,14092004,14,3,9,2004,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+11419,12122019,12,3,12,2019,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+11425,12122011,12,3,12,2011,Winter,Work Day,Monday,Q4,S2,Not Holiday
+11439,12012011,12,3,1,2011,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+11464,29092011,29,5,9,2011,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+11479,14052013,14,3,5,2013,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+11493,5082018,5,1,8,2018,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+11556,25102012,25,4,10,2012,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+11613,16062011,16,3,6,2011,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+11639,16072014,16,3,7,2014,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+11676,6092018,6,2,9,2018,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+11691,24012012,24,5,1,2012,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+11705,8052019,8,2,5,2019,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+11706,19082018,19,3,8,2018,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+11744,28082015,28,5,8,2015,Summer,Work Day,Friday,Q3,S2,Not Holiday
+11768,12062019,12,3,6,2019,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+11770,13032019,13,3,3,2019,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+11794,8092018,8,2,9,2018,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+11845,22052019,22,4,5,2019,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+11872,23092018,23,4,9,2018,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+11883,31012019,31,5,1,2019,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+11897,29052006,29,5,5,2006,Spring,Work Day,Monday,Q2,S1,Not Holiday
+11955,2082019,2,1,8,2019,Summer,Work Day,Friday,Q3,S2,Not Holiday
+11969,11042019,11,2,4,2019,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+11983,16102014,16,3,10,2014,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+12024,15032019,15,3,3,2019,Spring,Work Day,Friday,Q1,S1,Not Holiday
+12076,9112018,9,2,11,2018,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+12090,20112018,20,4,11,2018,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+12100,9092018,9,2,9,2018,Autumn,Weekend,Sunday,Q3,S2,Not Holiday
+12102,6102018,6,1,10,2018,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+12138,4042013,4,1,4,2013,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+12157,22092018,22,4,9,2018,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+12160,25102019,25,4,10,2019,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+12165,2042019,2,1,4,2019,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+12207,12042019,12,2,4,2019,Spring,Work Day,Friday,Q2,S1,Holiday
+12230,9052019,9,2,5,2019,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+12287,3122009,3,1,12,2009,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+12293,9062014,9,3,6,2014,Summer,Work Day,Monday,Q2,S1,Not Holiday
+12314,16052019,16,3,5,2019,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+12328,28022011,28,5,2,2011,Winter,Work Day,Monday,Q1,S1,Not Holiday
+12334,30122010,30,5,12,2010,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+12338,26062013,26,5,6,2013,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+12344,13052009,13,3,5,2009,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+12381,1122018,1,1,12,2018,Winter,Weekend,Saturday,Q4,S2,Holiday
+12408,9012019,9,2,1,2019,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+12417,18082018,18,3,8,2018,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+12438,21112018,21,4,11,2018,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+12444,3102013,3,1,10,2013,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+12471,4032013,4,2,3,2013,Spring,Work Day,Monday,Q1,S1,Not Holiday
+12480,11052010,11,3,5,2010,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+12482,6072012,6,2,7,2012,Summer,Work Day,Friday,Q3,S2,Not Holiday
+12622,1012017,1,1,1,2017,Winter,Weekend,Sunday,Q1,S1,Holiday
+12667,7102018,7,1,10,2018,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+12668,1012019,1,1,1,2019,Winter,Work Day,Tuesday,Q1,S1,Holiday
+12673,1022019,1,1,2,2019,Winter,Work Day,Friday,Q1,S1,Not Holiday
+12679,10122018,10,3,12,2018,Winter,Work Day,Monday,Q4,S2,Not Holiday
+12685,8122018,8,2,12,2018,Winter,Weekend,Saturday,Q4,S2,Holiday
+12704,28032019,28,5,3,2019,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+12712,29112018,29,5,11,2018,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+12718,17012019,17,3,1,2019,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+12719,30082019,30,5,8,2019,Summer,Work Day,Friday,Q3,S2,Not Holiday
+12725,14122018,14,3,12,2018,Winter,Work Day,Friday,Q4,S2,Not Holiday
+12735,3092014,3,1,9,2014,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+12740,5092014,5,1,9,2014,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+12744,20082019,20,4,8,2019,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+12762,28112018,28,5,11,2018,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+12771,5112018,5,2,11,2018,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+12777,23042019,23,4,4,2019,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+12812,14022019,14,3,2,2019,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+12822,2012019,2,1,1,2019,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+12826,4042019,4,1,4,2019,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+12898,13122018,13,3,12,2018,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+12900,28012019,28,5,1,2019,Winter,Work Day,Monday,Q1,S1,Not Holiday
+12902,16032019,16,3,3,2019,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+12912,23022019,23,4,2,2019,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+12923,15122018,15,3,12,2018,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+12932,24012019,24,4,1,2019,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+12939,28052019,28,5,5,2019,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+12949,5012019,5,1,1,2019,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+12989,10072019,10,2,7,2019,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+13016,6112018,6,2,11,2018,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+13029,2052019,2,1,5,2019,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+13033,15062019,15,3,6,2019,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+13038,4092014,4,1,9,2014,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+13048,6022019,6,2,2,2019,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+13055,25012019,25,4,1,2019,Winter,Work Day,Friday,Q1,S1,Not Holiday
+13071,23042012,23,5,4,2012,Spring,Work Day,Monday,Q2,S1,Not Holiday
+13083,20052018,20,3,5,2018,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+13095,27122018,27,5,12,2018,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+13104,20022019,20,4,2,2019,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+13132,2032019,2,1,3,2019,Spring,Weekend,Saturday,Q1,S1,Not Holiday
+13137,26012019,26,4,1,2019,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+13163,8032019,8,2,3,2019,Spring,Work Day,Friday,Q1,S1,Not Holiday
+13168,19042019,19,3,4,2019,Spring,Work Day,Friday,Q2,S1,Not Holiday
+13170,6072019,6,1,7,2019,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+13178,19012019,19,3,1,2019,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+13198,16022019,16,3,2,2019,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+13203,5022019,5,2,2,2019,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+13204,17122018,17,4,12,2018,Winter,Work Day,Monday,Q4,S2,Not Holiday
+13219,13022019,13,3,2,2019,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+13230,12012019,12,2,1,2019,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+13240,1092018,1,1,9,2018,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+13257,21092019,21,4,9,2019,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+13277,26082018,26,4,8,2018,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+13278,3042019,3,1,4,2019,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+13289,23012019,23,4,1,2019,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+13330,7032019,7,2,3,2019,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+13352,8022019,8,2,2,2019,Winter,Work Day,Friday,Q1,S1,Not Holiday
+13354,17072019,17,3,7,2019,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+13405,20032019,20,4,3,2019,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+13410,18122016,18,3,12,2016,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+13426,22022019,22,4,2,2019,Winter,Work Day,Friday,Q1,S1,Not Holiday
+13473,7012018,7,1,1,2018,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+13476,9022019,9,2,2,2019,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+13550,1032019,1,1,3,2019,Spring,Work Day,Friday,Q1,S1,Not Holiday
+13556,19032019,19,4,3,2019,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+13560,20122015,20,3,12,2015,Winter,Weekend,Sunday,Q4,S2,Not Holiday
+13563,28022016,28,4,2,2016,Winter,Weekend,Sunday,Q1,S1,Not Holiday
+13586,19022019,19,4,2,2019,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+13592,7022019,7,2,2,2019,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+13613,19102000,19,4,10,2000,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+13619,30052019,30,5,5,2019,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+13632,12032019,12,3,3,2019,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+13650,20062019,20,4,6,2019,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+13668,21032019,21,4,3,2019,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+13678,9042019,9,2,4,2019,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+13743,8072011,8,2,7,2011,Summer,Work Day,Friday,Q3,S2,Not Holiday
+13773,22032019,22,4,3,2019,Spring,Work Day,Friday,Q1,S1,Not Holiday
+13775,28082019,28,5,8,2019,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+13810,30012019,30,5,1,2019,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+13815,26022019,26,5,2,2019,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+13852,25042019,25,4,4,2019,Spring,Work Day,Thursday,Q2,S1,Holiday
+13857,4112010,4,1,11,2010,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+13867,24092019,24,5,9,2019,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+13873,27032019,27,5,3,2019,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+13889,18042012,18,4,4,2012,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+13919,10042019,10,2,4,2019,Spring,Work Day,Wednesday,Q2,S1,Holiday
+13923,22022013,22,4,2,2013,Winter,Work Day,Friday,Q1,S1,Not Holiday
+13942,29042019,29,5,4,2019,Spring,Work Day,Monday,Q2,S1,Not Holiday
+13968,16042019,16,3,4,2019,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+13973,13062019,13,3,6,2019,Summer,Work Day,Thursday,Q2,S1,Holiday
+13990,31072019,31,5,7,2019,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+13996,29102017,29,5,10,2017,Autumn,Weekend,Sunday,Q4,S2,Not Holiday
+13998,15012019,15,3,1,2019,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+14059,11052019,11,2,5,2019,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+14060,31082011,31,5,8,2011,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+14065,13072010,13,3,7,2010,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+14175,29092010,29,5,9,2010,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+14218,18052019,18,3,5,2019,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+14237,12072019,12,2,7,2019,Summer,Work Day,Friday,Q3,S2,Not Holiday
+14241,7062019,7,2,6,2019,Summer,Work Day,Friday,Q2,S1,Not Holiday
+14271,20052003,20,4,5,2003,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+14408,3062019,3,2,6,2019,Summer,Work Day,Monday,Q2,S1,Not Holiday
+14441,4062019,4,2,6,2019,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+14470,24052019,24,4,5,2019,Spring,Work Day,Friday,Q2,S1,Not Holiday
+14492,15052019,15,3,5,2019,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+14507,17052019,17,3,5,2019,Spring,Work Day,Friday,Q2,S1,Not Holiday
+14514,6052019,6,2,5,2019,Spring,Work Day,Monday,Q2,S1,Not Holiday
+14538,8052016,8,2,5,2016,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+14543,3052019,3,1,5,2019,Spring,Work Day,Friday,Q2,S1,Not Holiday
+14560,18062019,18,4,6,2019,Summer,Work Day,Tuesday,Q2,S1,Not Holiday
+14608,29012019,29,5,1,2019,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+14621,16072019,16,3,7,2019,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+14622,4052019,4,1,5,2019,Spring,Weekend,Saturday,Q2,S1,Not Holiday
+14638,23122009,23,4,12,2009,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+14651,16112019,16,3,11,2019,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+14729,14052019,14,3,5,2019,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+14734,19062019,19,4,6,2019,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+14750,26102018,26,4,10,2018,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+14781,1112019,1,1,11,2019,Autumn,Work Day,Friday,Q4,S2,Holiday
+14788,18072019,18,3,7,2019,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+14868,13042012,13,3,4,2012,Spring,Work Day,Friday,Q2,S1,Holiday
+14877,4112015,4,2,11,2015,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+14882,21012017,21,4,1,2017,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+14886,2072019,2,1,7,2019,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+14888,8072018,8,2,7,2018,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+14897,23072019,23,4,7,2019,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+14905,26072019,26,4,7,2019,Summer,Work Day,Friday,Q3,S2,Not Holiday
+14931,8062019,8,2,6,2019,Summer,Weekend,Saturday,Q2,S1,Not Holiday
+14950,7052013,7,2,5,2013,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+14959,22102018,22,4,10,2018,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+14961,4072019,4,1,7,2019,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+14971,10102019,10,2,10,2019,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+14982,9072019,9,2,7,2019,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+15002,28032012,28,5,3,2012,Spring,Work Day,Wednesday,Q1,S1,Not Holiday
+15026,13082019,13,3,8,2019,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+15037,19032013,19,4,3,2013,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+15054,19112019,19,4,11,2019,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+15082,7081951,7,2,8,1951,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+15094,1052019,1,1,5,2019,Spring,Work Day,Wednesday,Q2,S1,Holiday
+15098,5042011,5,2,4,2011,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+15135,16012020,16,3,1,2020,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+15151,18092014,18,3,9,2014,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+15181,11072019,11,2,7,2019,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+15183,24062009,24,4,6,2009,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+15192,13072019,13,2,7,2019,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+15216,10092014,10,2,9,2014,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+15224,27062019,27,5,6,2019,Summer,Work Day,Thursday,Q2,S1,Not Holiday
+15226,24072019,24,4,7,2019,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+15262,9012012,9,3,1,2012,Winter,Work Day,Monday,Q1,S1,Not Holiday
+15269,25032019,25,5,3,2019,Spring,Work Day,Monday,Q1,S1,Not Holiday
+15292,28062019,28,5,6,2019,Summer,Work Day,Friday,Q2,S1,Not Holiday
+15304,1082019,1,1,8,2019,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+15305,3102019,3,1,10,2019,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+15309,19072019,19,3,7,2019,Summer,Work Day,Friday,Q3,S2,Not Holiday
+15337,29082019,29,5,8,2019,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+15341,9082011,9,2,8,2011,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+15349,17092019,17,4,9,2019,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+15362,3122019,3,2,12,2019,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+15365,23112019,23,4,11,2019,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+15377,26112015,26,5,11,2015,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+15393,10051991,10,2,5,1991,Spring,Work Day,Friday,Q2,S1,Not Holiday
+15406,3072019,3,1,7,2019,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+15444,30072019,30,5,7,2019,Summer,Work Day,Tuesday,Q3,S2,Not Holiday
+15460,10072013,10,2,7,2013,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+15461,28072019,28,4,7,2019,Summer,Weekend,Sunday,Q3,S2,Not Holiday
+15476,2102019,2,1,10,2019,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+15516,3082019,3,1,8,2019,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+15528,11052009,11,3,5,2009,Spring,Work Day,Monday,Q2,S1,Not Holiday
+15534,31082019,31,5,8,2019,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+15540,22062014,22,4,6,2014,Summer,Weekend,Sunday,Q2,S1,Not Holiday
+15568,22072009,22,4,7,2009,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+15570,9082019,9,2,8,2019,Summer,Work Day,Friday,Q3,S2,Not Holiday
+15623,14082019,14,3,8,2019,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+15671,25072019,25,4,7,2019,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+15672,19092019,19,4,9,2019,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+15676,8082019,8,2,8,2019,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+15685,3092019,3,2,9,2019,Autumn,Work Day,Tuesday,Q3,S2,Not Holiday
+15692,6092019,6,2,9,2019,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+15715,5102019,5,1,10,2019,Autumn,Weekend,Saturday,Q4,S2,Holiday
+15758,19032010,19,3,3,2010,Spring,Work Day,Friday,Q1,S1,Not Holiday
+15805,17072013,17,3,7,2013,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+15822,10082019,10,2,8,2019,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+15823,8102019,8,2,10,2019,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+15824,31012011,31,6,1,2011,Winter,Work Day,Monday,Q1,S1,Not Holiday
+15830,3042013,3,1,4,2013,Spring,Work Day,Wednesday,Q2,S1,Not Holiday
+15873,14042019,14,2,4,2019,Spring,Weekend,Sunday,Q2,S1,Not Holiday
+15882,24082019,24,4,8,2019,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+15899,17082019,17,3,8,2019,Summer,Weekend,Saturday,Q3,S2,Not Holiday
+15902,7082019,7,2,8,2019,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+15906,9032010,9,2,3,2010,Spring,Work Day,Tuesday,Q1,S1,Not Holiday
+15926,6101970,6,2,10,1970,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+15946,13092019,13,3,9,2019,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+15950,28021992,28,5,2,1992,Winter,Work Day,Friday,Q1,S1,Not Holiday
+15958,21082019,21,4,8,2019,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+15999,12082019,12,3,8,2019,Summer,Work Day,Monday,Q3,S2,Not Holiday
+16024,5082019,5,2,8,2019,Summer,Work Day,Monday,Q3,S2,Not Holiday
+16057,25092019,25,5,9,2019,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+16086,18122018,18,4,12,2018,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+16088,4092019,4,2,9,2019,Autumn,Work Day,Wednesday,Q3,S2,Not Holiday
+16098,20092019,20,4,9,2019,Autumn,Work Day,Friday,Q3,S2,Not Holiday
+16104,7092019,7,2,9,2019,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+16105,26102019,26,4,10,2019,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+16106,27072011,27,5,7,2011,Summer,Work Day,Wednesday,Q3,S2,Not Holiday
+16117,25052010,25,5,5,2010,Spring,Work Day,Tuesday,Q2,S1,Not Holiday
+16154,14092019,14,3,9,2019,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+16179,28092019,28,5,9,2019,Autumn,Weekend,Saturday,Q3,S2,Not Holiday
+16236,9112019,9,2,11,2019,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+16257,17102019,17,3,10,2019,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+16283,15102019,15,3,10,2019,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+16286,11102019,11,2,10,2019,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+16304,26092019,26,5,9,2019,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+16309,1102019,1,1,10,2019,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+16328,5112019,5,2,11,2019,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+16363,9102019,9,2,10,2019,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+16370,28122019,28,5,12,2019,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+16374,24012020,24,4,1,2020,Winter,Work Day,Friday,Q1,S1,Not Holiday
+16413,27112008,27,5,11,2008,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+16414,4112019,4,2,11,2019,Autumn,Work Day,Monday,Q4,S2,Not Holiday
+16417,6112019,6,2,11,2019,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+16418,23102019,23,4,10,2019,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+16445,22112019,22,4,11,2019,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+16455,16102019,16,3,10,2019,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+16463,7032013,7,2,3,2013,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+16472,7012017,7,2,1,2017,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+16479,12112019,12,3,11,2019,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+16492,8012020,8,2,1,2020,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+16497,7122019,7,2,12,2019,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+16507,30102019,30,5,10,2019,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+16549,4102019,4,1,10,2019,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+16552,14112019,14,3,11,2019,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+16553,12092019,12,3,9,2019,Autumn,Work Day,Thursday,Q3,S2,Not Holiday
+16555,31102019,31,5,10,2019,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+16557,11122019,11,3,12,2019,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+16568,20112019,20,4,11,2019,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+16603,8112019,8,2,11,2019,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+16609,24102019,24,4,10,2019,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+16672,26122019,26,5,12,2019,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+16675,26112019,26,5,11,2019,Autumn,Work Day,Tuesday,Q4,S2,Not Holiday
+16690,1012020,1,1,1,2020,Winter,Work Day,Wednesday,Q1,S1,Holiday
+16727,11022013,11,3,2,2013,Winter,Work Day,Monday,Q1,S1,Not Holiday
+16729,27122019,27,5,12,2019,Winter,Work Day,Friday,Q4,S2,Not Holiday
+16752,20042007,20,4,4,2007,Spring,Work Day,Friday,Q2,S1,Not Holiday
+16756,30112019,30,5,11,2019,Autumn,Weekend,Saturday,Q4,S2,Not Holiday
+16760,17122019,17,4,12,2019,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+16769,27112019,27,5,11,2019,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+16771,20122019,20,4,12,2019,Winter,Work Day,Friday,Q4,S2,Not Holiday
+16780,28112019,28,5,11,2019,Autumn,Work Day,Thursday,Q4,S2,Not Holiday
+16781,13112019,13,3,11,2019,Autumn,Work Day,Wednesday,Q4,S2,Not Holiday
+16802,6122019,6,2,12,2019,Winter,Work Day,Friday,Q4,S2,Not Holiday
+16805,22062015,22,4,6,2015,Summer,Work Day,Monday,Q2,S1,Not Holiday
+16811,19122019,19,4,12,2019,Winter,Work Day,Thursday,Q4,S2,Not Holiday
+16814,6052005,6,2,5,2005,Spring,Work Day,Friday,Q2,S1,Not Holiday
+16840,1082013,1,1,8,2013,Summer,Work Day,Thursday,Q3,S2,Not Holiday
+16848,10122019,10,3,12,2019,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+16859,2012020,2,1,1,2020,Winter,Work Day,Thursday,Q1,S1,Not Holiday
+16887,13122019,13,3,12,2019,Winter,Work Day,Friday,Q4,S2,Not Holiday
+16913,2122019,2,2,12,2019,Winter,Work Day,Monday,Q4,S2,Not Holiday
+16946,14122019,14,3,12,2019,Winter,Weekend,Saturday,Q4,S2,Not Holiday
+16952,15112019,15,3,11,2019,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+16960,24122019,24,5,12,2019,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+16961,7042011,7,2,4,2011,Spring,Work Day,Thursday,Q2,S1,Not Holiday
+16984,15022011,15,3,2,2011,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+16996,8062011,8,2,6,2011,Summer,Work Day,Wednesday,Q2,S1,Not Holiday
+16998,18122019,18,4,12,2019,Winter,Work Day,Wednesday,Q4,S2,Not Holiday
+17003,3012020,3,1,1,2020,Winter,Work Day,Friday,Q1,S1,Not Holiday
+17017,7012020,7,2,1,2020,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+17039,25122019,25,5,12,2019,Winter,Work Day,Wednesday,Q4,S2,Holiday
+17042,29112019,29,5,11,2019,Autumn,Work Day,Friday,Q4,S2,Not Holiday
+17061,4012020,4,1,1,2020,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+17066,13052019,13,3,5,2019,Spring,Work Day,Monday,Q2,S1,Not Holiday
+17068,17012020,17,3,1,2020,Winter,Work Day,Friday,Q1,S1,Not Holiday
+17070,31122019,31,6,12,2019,Winter,Work Day,Tuesday,Q4,S2,Not Holiday
+17095,14012020,14,3,1,2020,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+17147,11012020,11,2,1,2020,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+17150,14032013,14,3,3,2013,Spring,Work Day,Thursday,Q1,S1,Not Holiday
+17153,18012020,18,3,1,2020,Winter,Weekend,Saturday,Q1,S1,Not Holiday
+17155,22012020,22,4,1,2020,Winter,Work Day,Wednesday,Q1,S1,Not Holiday
+17157,21012020,21,4,1,2020,Winter,Work Day,Tuesday,Q1,S1,Not Holiday
+17159,22042019,22,4,4,2019,Spring,Work Day,Monday,Q2,S1,Not Holiday
