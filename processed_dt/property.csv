@@ -1,0 +1,1025 @@
+property_type_category,property_type,room_type,accommodates,bathrooms,bedrooms,beds,bed_type
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,No beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Pull-out Sofa
+Apartment,Apartment,Entire home/apt,Up to 2 guests,2 bathrooms,T1,No beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T0,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T3,3 beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Private room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T4+,1 bed,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Pull-out Sofa
+House,House,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T3,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T3,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 2 guests,1 bathroom,T2,2 beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 2 guests,1 bathroom,T1,3 beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T2,4+ beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T2,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T3,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T0,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T3,4+ beds,Real Bed
+House,House,Shared room,Up to 7 guests or more,4+ bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 7 guests or more,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T0,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T2,1 bed,Real Bed
+House,House,Entire home/apt,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T3,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Futon
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,No bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+House,Cottage,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T0,2 beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+House,Villa,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,1 bathroom,T2,1 bed,Real Bed
+House,House,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T4+,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+House,House,Private room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T2,2 beds,Pull-out Sofa
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Pull-out Sofa
+Apartment,Apartment,Entire home/apt,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T1,4+ beds,Real Bed
+House,Villa,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,3 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Futon
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T0,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T3,4+ beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,No beds,Real Bed
+House,House,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+House,Tiny house,Entire home/apt,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Pull-out Sofa
+House,House,Entire home/apt,Up to 6 guests,1 bathroom,T3,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T1,No beds,Pull-out Sofa
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T1,No beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T0,No beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T2,No beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T2,No beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,1 bathroom,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T3,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T2,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T4+,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,4+ beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 6 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 6 guests,3 bathrooms,T3,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,2 bathrooms,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Shared room,Up to 7 guests or more,3 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T0,3 beds,Futon
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,No beds,Pull-out Sofa
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T2,4+ beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,2 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,2 bathrooms,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 4 guests,3 bathrooms,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T0,1 bed,Pull-out Sofa
+Apartment,Loft,Entire home/apt,Up to 4 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T4+,1 bed,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T0,2 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,1 bed,Real Bed
+Apartment,Loft,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T0,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,2 beds,Couch
+House,House,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T2,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T1,3 beds,Real Bed
+House,Villa,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Pull-out Sofa
+Apartment,Apartment,Entire home/apt,Up to 6 guests,No bathrooms,T2,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 6 guests,3 bathrooms,T3,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,No bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 7 guests or more,No bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 6 guests,No bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 4 guests,No bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 7 guests or more,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 2 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 2 guests,No bathrooms,T1,2 beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 2 guests,No bathrooms,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T2,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T2,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,3 bathrooms,T2,4+ beds,Real Bed
+House,House,Private room,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,2 bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guest suite,Private room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T3,4+ beds,Airbed
+House,Tiny house,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+House,House,Entire home/apt,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,2 bathrooms,T3,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T0,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 6 guests,2 bathrooms,T2,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,No beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 6 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T4+,4+ beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,3 bathrooms,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,2 bathrooms,T3,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,4+ bathrooms,T3,3 beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,2 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T3,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,Tiny house,Entire home/apt,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,3 bathrooms,T3,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+House,Villa,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,4+ bathrooms,T3,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+House,Villa,Entire home/apt,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Pull-out Sofa
+House,Villa,Entire home/apt,Up to 7 guests or more,2 bathrooms,T4+,4+ beds,Real Bed
+House,Villa,Entire home/apt,Up to 7 guests or more,1 bathroom,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Couch
+House,Villa,Entire home/apt,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Couch
+House,Villa,Entire home/apt,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+House,Villa,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+House,Cottage,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T0,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 7 guests or more,2 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T3,No beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,4+ beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,3 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T3,3 beds,Real Bed
+House,Villa,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,No beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,3 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T1,3 beds,Real Bed
+House,House,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,3 bathrooms,T2,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,3 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 7 guests or more,1 bathroom,T1,4+ beds,Real Bed
+House,Townhouse,Shared room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,Townhouse,Shared room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 6 guests,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T2,No beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+House,Farm stay,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+House,Farm stay,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+House,Villa,Entire home/apt,Up to 7 guests or more,2 bathrooms,T3,4+ beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 4 guests,2 bathrooms,T2,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 2 guests,1 bathroom,T0,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T2,1 bed,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,1 bathroom,T3,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,3 bathrooms,T2,2 beds,Real Bed
+House,House,Shared room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,1 bathroom,T3,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,2 beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 4 guests,1 bathroom,T0,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+House,Casa particular (Cuba),Hotel room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T2,No beds,Real Bed
+House,House,Private room,Up to 2 guests,2 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,4+ bathrooms,T3,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,No beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T2,No beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,3 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 7 guests or more,3 bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 7 guests or more,2 bathrooms,T0,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,1 bathroom,T3,3 beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 7 guests or more,3 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 6 guests,3 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 2 guests,3 bathrooms,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,3 bathrooms,T2,3 beds,Real Bed
+House,Farm stay,Entire home/apt,Up to 4 guests,2 bathrooms,T2,4+ beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 4 guests,3 bathrooms,T1,3 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,3 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,3 beds,Real Bed
+House,House,Private room,Up to 2 guests,2 bathrooms,T3,1 bed,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,Tiny house,Shared room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+House,Tiny house,Shared room,Up to 4 guests,3 bathrooms,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,3 bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,3 bathrooms,T3,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,2 bathrooms,T2,3 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,No beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T1,No beds,Real Bed
+House,Cottage,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+House,Townhouse,Entire home/apt,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+House,Villa,Entire home/apt,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T4+,No beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T2,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 2 guests,1 bathroom,T0,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 7 guests or more,2 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T2,2 beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+House,Villa,Entire home/apt,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+House,Villa,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,3 bathrooms,T4+,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,2 bathrooms,T3,3 beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,2 bathrooms,T2,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,1 bathroom,T3,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,2 bathrooms,T2,2 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,3 bathrooms,T2,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T2,2 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Pull-out Sofa
+House,Townhouse,Entire home/apt,Up to 6 guests,2 bathrooms,T2,3 beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,4+ bathrooms,T4+,4+ beds,Real Bed
+House,Villa,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+House,Villa,Private room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 4 guests,4+ bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 4 guests,4+ bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,3 bathrooms,T2,2 beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 4 guests,3 bathrooms,T1,3 beds,Real Bed
+Apartment,Apartment,Shared room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T1,No beds,Real Bed
+House,House,Private room,Up to 2 guests,3 bathrooms,T1,2 beds,Real Bed
+House,House,Private room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+House,House,Private room,Up to 4 guests,3 bathrooms,T1,3 beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,2 bathrooms,T2,3 beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T4+,1 bed,Real Bed
+House,Tiny house,Entire home/apt,Up to 4 guests,1 bathroom,T0,2 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Pull-out Sofa
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Airbed
+Hotel/Hostel,Hostel,Shared room,Up to 7 guests or more,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 6 guests,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Loft,Entire home/apt,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+House,Cottage,Entire home/apt,Up to 4 guests,1 bathroom,T2,No beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 6 guests,2 bathrooms,T1,4+ beds,Real Bed
+House,House,Private room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+House,House,Private room,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,3 bathrooms,T3,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+House,House,Private room,Up to 4 guests,1 bathroom,T1,No beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,1 bathroom,T3,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,3 bathrooms,T1,No beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+Apartment,Loft,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Pull-out Sofa
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 6 guests,1 bathroom,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 7 guests or more,2 bathrooms,T1,4+ beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,2 bathrooms,T2,2 beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,4+ bathrooms,T3,4+ beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,3 bathrooms,T2,3 beds,Real Bed
+House,House,Private room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T4+,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 7 guests or more,2 bathrooms,T3,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 6 guests,4+ bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+House,Townhouse,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guest suite,Private room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+House,House,Private room,Up to 2 guests,1 bathroom,T1,No beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 6 guests,3 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,3 bathrooms,T2,3 beds,Real Bed
+House,Villa,Entire home/apt,Up to 7 guests or more,2 bathrooms,T2,4+ beds,Real Bed
+House,Villa,Private room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,No beds,Pull-out Sofa
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T4+,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T4+,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 6 guests,2 bathrooms,T2,3 beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,3 bathrooms,T4+,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 7 guests or more,2 bathrooms,T4+,4+ beds,Real Bed
+House,Townhouse,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,Townhouse,Shared room,Up to 2 guests,2 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,3 bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 6 guests,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,1 bathroom,T1,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,3 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Futon
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T0,No beds,Couch
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T3,4+ beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+House,Lighthouse,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 7 guests or more,2 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T0,2 beds,Real Bed
+House,Dome house,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Shared room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T2,3 beds,Real Bed
+House,Villa,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T3,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 6 guests,1 bathroom,T2,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 7 guests or more,2 bathrooms,T3,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T1,1 bed,Pull-out Sofa
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T0,2 beds,Pull-out Sofa
+Apartment,Apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,1 bathroom,T1,3 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 2 guests,1 bathroom,T2,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T1,2 beds,Futon
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T1,No beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T2,1 bed,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,Farm stay,Entire home/apt,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T3,3 beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Hotel room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Hotel room,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+House,House,Private room,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,2 bathrooms,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Pull-out Sofa
+Apartment,Apartment,Private room,Up to 2 guests,4+ bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,2 bathrooms,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 6 guests,1 bathroom,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 6 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 6 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,4+ bathrooms,T1,2 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+House,Villa,Entire home/apt,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 6 guests,1 bathroom,T3,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 6 guests,2 bathrooms,T0,3 beds,Pull-out Sofa
+House,Cottage,Entire home/apt,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T4+,4+ beds,Pull-out Sofa
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Couch
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T2,No beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+House,House,Private room,Up to 4 guests,1 bathroom,T1,1 bed,Pull-out Sofa
+Guesthouse,Guest suite,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T0,No beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 6 guests,2 bathrooms,T3,3 beds,Real Bed
+House,House,Private room,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+House,Villa,Private room,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T0,2 beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 2 guests,2 bathrooms,T0,1 bed,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,1 bathroom,T3,3 beds,Real Bed
+Apartment,Apartment,Shared room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 6 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Apartment,Shared room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,2 beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 6 guests,4+ bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 6 guests,3 bathrooms,T1,4+ beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,No bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 4 guests,No bathrooms,T1,2 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 6 guests,1 bathroom,T3,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T4+,3 beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T0,3 beds,Real Bed
+House,House,Private room,Up to 4 guests,2 bathrooms,T2,2 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 6 guests,1 bathroom,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T0,No beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+House,Villa,Private room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 6 guests,2 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,3 bathrooms,T4+,1 bed,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,3 bathrooms,T3,2 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 2 guests,No bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 6 guests,1 bathroom,T1,2 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,2 bathrooms,T1,3 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,3 bathrooms,T2,4+ beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,1 bathroom,T2,2 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 2 guests,No bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,4+ beds,Real Bed
+House,Farm stay,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,2 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T4+,4+ beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,No bathrooms,T4+,1 bed,Real Bed
+House,House,Entire home/apt,Up to 6 guests,3 bathrooms,T2,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T3,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 2 guests,1 bathroom,T1,3 beds,Real Bed
+House,House,Private room,Up to 2 guests,No bathrooms,T1,1 bed,Real Bed
+House,House,Shared room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+House,House,Private room,Up to 4 guests,2 bathrooms,T1,1 bed,Real Bed
+House,House,Shared room,Up to 6 guests,1 bathroom,T1,3 beds,Real Bed
+House,House,Shared room,Up to 6 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Shared room,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+House,House,Private room,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T3,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 7 guests or more,2 bathrooms,T2,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,No bathrooms,T0,2 beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,4+ bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 2 guests,1 bathroom,T2,1 bed,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,3 bathrooms,T3,3 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 7 guests or more,2 bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,1 bathroom,T0,2 beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Airbed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,2 bathrooms,T0,2 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T2,2 beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,1 bathroom,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T3,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 2 guests,1 bathroom,T0,2 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T2,2 beds,Real Bed
+House,Villa,Entire home/apt,Up to 7 guests or more,1 bathroom,T3,4+ beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 6 guests,1 bathroom,T2,2 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,2 bathrooms,T2,No beds,Real Bed
+House,House,Private room,Up to 4 guests,3 bathrooms,T1,2 beds,Real Bed
+House,House,Shared room,Up to 6 guests,3 bathrooms,T1,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,1 bathroom,T3,3 beds,Real Bed
+House,House,Private room,Up to 2 guests,4+ bathrooms,T3,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T0,1 bed,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 6 guests,4+ bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 7 guests or more,4+ bathrooms,T1,4+ beds,Real Bed
+House,Farm stay,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+House,Farm stay,Entire home/apt,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,1 bathroom,T0,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,1 bathroom,T1,No beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,4+ bathrooms,T2,4+ beds,Real Bed
+House,House,Private room,Up to 6 guests,2 bathrooms,T3,3 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 2 guests,4+ bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 4 guests,3 bathrooms,T1,2 beds,Real Bed
+House,Townhouse,Private room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,4+ bathrooms,T1,No beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 6 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T3,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T3,4+ beds,Real Bed
+House,House,Private room,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,1 bathroom,T1,3 beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T3,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T3,2 beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,3 bathrooms,T3,4+ beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 7 guests or more,2 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Shared room,Up to 6 guests,2 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Shared room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Shared room,Up to 2 guests,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,3 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 4 guests,2 bathrooms,T3,3 beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 6 guests,2 bathrooms,T3,3 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T4+,1 bed,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 4 guests,1 bathroom,T0,2 beds,Real Bed
+House,Dome house,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T1,No beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,2 bathrooms,T2,1 bed,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 6 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 6 guests,No bathrooms,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+House,Vacation home,Entire home/apt,Up to 6 guests,1 bathroom,T2,No beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Private room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,3 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T3,1 bed,Real Bed
+House,Villa,Private room,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+House,Villa,Private room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T3,3 beds,Real Bed
+House,Townhouse,Private room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Aparthotel,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,4+ bathrooms,T3,1 bed,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T2,3 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,1 bathroom,T2,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 6 guests,3 bathrooms,T3,3 beds,Real Bed
+Guesthouse,Guesthouse,Hotel room,Up to 4 guests,3 bathrooms,T1,3 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+Guesthouse,Guesthouse,Hotel room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guest suite,Private room,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T3,4+ beds,Real Bed
+Guesthouse,Guesthouse,Hotel room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+Guesthouse,Guesthouse,Hotel room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,Cottage,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T0,2 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 7 guests or more,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T3,3 beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,1 bathroom,T0,No beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,1 bathroom,T4+,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+House,House,Private room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+House,Townhouse,Private room,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,2 bathrooms,T2,3 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,2 bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,2 bathrooms,T3,2 beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+House,Townhouse,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Aparthotel,Hotel room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,3 bathrooms,T2,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 7 guests or more,4+ bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T0,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 2 guests,1 bathroom,T0,No beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 7 guests or more,4+ bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 4 guests,4+ bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 7 guests or more,4+ bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Shared room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,1 bathroom,T0,1 bed,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 6 guests,1 bathroom,T2,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 2 guests,3 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 4 guests,3 bathrooms,T1,3 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+House,House,Private room,Up to 6 guests,1 bathroom,T3,4+ beds,Real Bed
+House,Villa,Private room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,No bathrooms,T1,2 beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,2 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Shared room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 4 guests,4+ bathrooms,T1,2 beds,Real Bed
+House,House,Private room,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T0,3 beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T0,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,3 bathrooms,T2,3 beds,Real Bed
+House,House,Entire home/apt,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 7 guests or more,1 bathroom,T1,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,1 bathroom,T0,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,4+ bathrooms,T2,2 beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 4 guests,3 bathrooms,T1,2 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 7 guests or more,2 bathrooms,T4+,4+ beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 4 guests,2 bathrooms,T2,2 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T3,No beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,1 bathroom,T0,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 7 guests or more,2 bathrooms,T4+,4+ beds,Real Bed
+House,House,Private room,Up to 2 guests,2 bathrooms,T2,2 beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 2 guests,1 bathroom,T1,No beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 6 guests,1 bathroom,T1,3 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 7 guests or more,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Shared room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+House,Villa,Private room,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+House,House,Private room,Up to 2 guests,2 bathrooms,T2,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,1 bathroom,T3,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,3 bathrooms,T1,3 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 4 guests,1 bathroom,T3,3 beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,2 bathrooms,T0,2 beds,Real Bed
+Apartment,Aparthotel,Hotel room,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,No beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,No beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,No bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Shared room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Apartment,Shared room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,3 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,No bathrooms,T2,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 2 guests,No bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,3 beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,1 bed,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,2 bathrooms,T0,1 bed,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T2,3 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+House,Cottage,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T0,1 bed,Real Bed
+House,Villa,Private room,Up to 2 guests,3 bathrooms,T1,2 beds,Real Bed
+House,Villa,Private room,Up to 2 guests,4+ bathrooms,T4+,1 bed,Real Bed
+House,Villa,Private room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 2 guests,1 bathroom,T1,No beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hotel,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Hotel/Hostel,Hotel,Private room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Aparthotel,Private room,Up to 7 guests or more,No bathrooms,T0,No beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 4 guests,1 bathroom,T2,2 beds,Real Bed
+Hotel/Hostel,Hotel,Hotel room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Hotel,Hotel room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Hotel,Hotel room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,2 bathrooms,T0,No beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 6 guests,2 bathrooms,T2,3 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 7 guests or more,1 bathroom,T2,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 7 guests or more,4+ bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 4 guests,4+ bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,4+ bathrooms,T3,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T4+,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,3 bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 4 guests,2 bathrooms,T2,2 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Entire home/apt,Up to 7 guests or more,2 bathrooms,T4+,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,1 bathroom,T0,4+ beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 4 guests,1 bathroom,T0,No beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 6 guests,1 bathroom,T0,No beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 7 guests or more,1 bathroom,T0,No beds,Real Bed
+House,Farm stay,Private room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Shared room,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+House,House,Shared room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,1 bathroom,T3,4+ beds,Real Bed
+House,Villa,Entire home/apt,Up to 7 guests or more,3 bathrooms,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 2 guests,1 bathroom,T1,No beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 7 guests or more,2 bathrooms,T3,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T0,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,2 bathrooms,T2,3 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 4 guests,3 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 6 guests,2 bathrooms,T4+,4+ beds,Real Bed
+House,House,Private room,Up to 7 guests or more,1 bathroom,T4+,4+ beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 6 guests,1 bathroom,T1,2 beds,Real Bed
+House,House,Private room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+House,House,Shared room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Apartment,Shared room,Up to 4 guests,3 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Shared room,Up to 6 guests,3 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,No bathrooms,T1,3 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 7 guests or more,3 bathrooms,T1,4+ beds,Real Bed
+House,Farm stay,Private room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Private room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,2 bathrooms,T1,3 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T4+,2 beds,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 4 guests,2 bathrooms,T1,3 beds,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 2 guests,2 bathrooms,T1,2 beds,Real Bed
+House,Villa,Entire home/apt,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+House,Villa,Entire home/apt,Up to 7 guests or more,1 bathroom,T2,4+ beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,3 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T1,4+ beds,Real Bed
+House,Villa,Private room,Up to 4 guests,2 bathrooms,T2,2 beds,Real Bed
+Apartment,Aparthotel,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Aparthotel,Entire home/apt,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Aparthotel,Entire home/apt,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+House,House,Private room,Up to 2 guests,1 bathroom,T1,3 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 6 guests,No bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,1 bathroom,T4+,1 bed,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 4 guests,No bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Hotel,Hotel room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 6 guests,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 7 guests or more,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 6 guests,2 bathrooms,T1,No beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+House,Villa,Private room,Up to 4 guests,2 bathrooms,T3,3 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,3 bathrooms,T3,3 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,3 bathrooms,T1,3 beds,Real Bed
+House,Villa,Entire home/apt,Up to 6 guests,4+ bathrooms,T3,3 beds,Real Bed
+House,House,Private room,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 7 guests or more,2 bathrooms,T1,No beds,Real Bed
+Hotel/Hostel,Hotel,Hotel room,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+House,Townhouse,Private room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+House,Townhouse,Private room,Up to 4 guests,3 bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 4 guests,No bathrooms,T1,3 beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Hotel room,Up to 4 guests,No bathrooms,T1,2 beds,Real Bed
+Hotel/Hostel,Hotel,Hotel room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Loft,Entire home/apt,Up to 7 guests or more,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,2 bathrooms,T2,3 beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 4 guests,4+ bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 4 guests,2 bathrooms,T2,4+ beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 6 guests,4+ bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Boutique hotel,Hotel room,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T0,1 bed,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,3 bathrooms,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,1 bathroom,T0,2 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 4 guests,1 bathroom,T0,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 4 guests,No bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hotel,Hotel room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 7 guests or more,1 bathroom,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,1 bathroom,T1,No beds,Real Bed
+House,House,Private room,Up to 2 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 4 guests,No bathrooms,T0,No beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,1 bathroom,T1,3 beds,Real Bed
+House,House,Private room,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Guesthouse,Guest suite,Entire home/apt,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+House,Farm stay,Entire home/apt,Up to 6 guests,1 bathroom,T3,3 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T0,2 beds,Real Bed
+House,Townhouse,Private room,Up to 4 guests,2 bathrooms,T1,1 bed,Real Bed
+Apartment,Aparthotel,Hotel room,Up to 2 guests,No bathrooms,T0,No beds,Real Bed
+Apartment,Aparthotel,Hotel room,Up to 4 guests,No bathrooms,T0,No beds,Real Bed
+Apartment,Aparthotel,Hotel room,Up to 6 guests,No bathrooms,T0,No beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 6 guests,1 bathroom,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Private room,Up to 6 guests,4+ bathrooms,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 7 guests or more,4+ bathrooms,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 4 guests,4+ bathrooms,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 2 guests,4+ bathrooms,T1,2 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,3 bathrooms,T2,2 beds,Real Bed
+House,Villa,Private room,Up to 2 guests,2 bathrooms,T1,No beds,Real Bed
+House,Cottage,Private room,Up to 2 guests,1 bathroom,T1,2 beds,Real Bed
+House,Cottage,Private room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+House,Cottage,Private room,Up to 4 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,1 bathroom,T1,No beds,Real Bed
+House,House,Shared room,Up to 2 guests,3 bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 6 guests,1 bathroom,T1,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 7 guests or more,1 bathroom,T4+,4+ beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Aparthotel,Private room,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 4 guests,1 bathroom,T2,3 beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 6 guests,1 bathroom,T2,2 beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 7 guests or more,1 bathroom,T2,3 beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 2 guests,No bathrooms,T0,No beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 2 guests,No bathrooms,T0,1 bed,Real Bed
+Apartment,Aparthotel,Private room,Up to 2 guests,1 bathroom,T0,No beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 6 guests,No bathrooms,T0,No beds,Real Bed
+Apartment,Aparthotel,Hotel room,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+House,Tiny house,Private room,Up to 2 guests,1 bathroom,T1,No beds,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 6 guests,3 bathrooms,T1,4+ beds,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 7 guests or more,3 bathrooms,T1,4+ beds,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 4 guests,3 bathrooms,T1,4+ beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 4 guests,3 bathrooms,T1,4+ beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 7 guests or more,4+ bathrooms,T4+,2 beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,3 bathrooms,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 2 guests,1 bathroom,T0,No beds,Real Bed
+House,Villa,Private room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+House,Villa,Private room,Up to 4 guests,2 bathrooms,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 4 guests,2 bathrooms,T1,No beds,Real Bed
+House,House,Entire home/apt,Up to 6 guests,3 bathrooms,T3,2 beds,Real Bed
+House,House,Shared room,Up to 2 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 6 guests,4+ bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 4 guests,3 bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 4 guests,2 bathrooms,T1,1 bed,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 7 guests or more,3 bathrooms,T4+,4+ beds,Real Bed
+House,House,Entire home/apt,Up to 4 guests,3 bathrooms,T3,3 beds,Real Bed
+Apartment,Loft,Entire home/apt,Up to 4 guests,2 bathrooms,T0,2 beds,Real Bed
+Hotel/Hostel,Hotel,Private room,Up to 2 guests,No bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,2 bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Boutique hotel,Shared room,Up to 6 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Serviced apartment,Private room,Up to 2 guests,4+ bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 2 guests,1 bathroom,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 2 guests,4+ bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Shared room,Up to 2 guests,4+ bathrooms,T1,2 beds,Real Bed
+House,Villa,Entire home/apt,Up to 4 guests,1 bathroom,T1,1 bed,Real Bed
+Apartment,Serviced apartment,Hotel room,Up to 6 guests,2 bathrooms,T3,3 beds,Real Bed
+House,Villa,Private room,Up to 2 guests,4+ bathrooms,T1,1 bed,Real Bed
+House,Villa,Private room,Up to 2 guests,4+ bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 2 guests,1 bathroom,T2,4+ beds,Real Bed
+Hotel/Hostel,Hostel,Hotel room,Up to 2 guests,No bathrooms,T1,2 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 6 guests,2 bathrooms,T2,4+ beds,Real Bed
+House,Townhouse,Entire home/apt,Up to 4 guests,3 bathrooms,T2,2 beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,2 beds,Real Bed
+House,House,Shared room,Up to 4 guests,2 bathrooms,T1,2 beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,2 bathrooms,T2,1 bed,Real Bed
+House,House,Entire home/apt,Up to 4 guests,1 bathroom,T3,3 beds,Real Bed
+Apartment,Apartment,Shared room,Up to 2 guests,2 bathrooms,T1,3 beds,Real Bed
+House,Cottage,Entire home/apt,Up to 6 guests,2 bathrooms,T3,3 beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 2 guests,1 bathroom,T0,2 beds,Real Bed
+Guesthouse,Guest suite,Private room,Up to 2 guests,1 bathroom,T1,No beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 6 guests,No bathrooms,T0,2 beds,Real Bed
+Apartment,Aparthotel,Private room,Up to 7 guests or more,1 bathroom,T3,4+ beds,Real Bed
+Apartment,Apartment,Entire home/apt,Up to 6 guests,1 bathroom,T0,4+ beds,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 2 guests,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,3 bathrooms,T4+,No beds,Real Bed
+Guesthouse,Guesthouse,Private room,Up to 7 guests or more,2 bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,2 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,3 bathrooms,T4+,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,No bathrooms,T0,No beds,Real Bed
+House,Townhouse,Private room,Up to 4 guests,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Serviced apartment,Shared room,Up to 6 guests,2 bathrooms,T1,4+ beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 6 guests,1 bathroom,T3,4+ beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 6 guests,2 bathrooms,T2,3 beds,Real Bed
+House,Tiny house,Entire home/apt,Up to 6 guests,2 bathrooms,T3,4+ beds,Real Bed
+Guesthouse,Guesthouse,Entire home/apt,Up to 6 guests,1 bathroom,T3,3 beds,Real Bed
+Apartment,Serviced apartment,Shared room,Up to 2 guests,1 bathroom,T1,1 bed,Real Bed
+House,Cottage,Entire home/apt,Up to 2 guests,3 bathrooms,T3,2 beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 4 guests,4+ bathrooms,T1,3 beds,Real Bed
+Hotel/Hostel,Hostel,Private room,Up to 4 guests,4+ bathrooms,T1,2 beds,Real Bed
+Guesthouse,Guesthouse,Shared room,Up to 2 guests,3 bathrooms,T1,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,4+ bathrooms,T4+,4+ beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 7 guests or more,2 bathrooms,T2,4+ beds,Real Bed
+Apartment,Aparthotel,Entire home/apt,Up to 4 guests,1 bathroom,T0,2 beds,Real Bed
+Apartment,Aparthotel,Entire home/apt,Up to 4 guests,1 bathroom,T1,2 beds,Real Bed
+Apartment,Aparthotel,Entire home/apt,Up to 2 guests,1 bathroom,T0,1 bed,Real Bed
+House,Villa,Entire home/apt,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+Apartment,Apartment,Private room,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,No bathrooms,T1,1 bed,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 2 guests,No bathrooms,T1,No beds,Real Bed
+Apartment,Apartment,Shared room,Up to 7 guests or more,1 bathroom,T1,4+ beds,Real Bed
+Apartment,Apartment,Private room,Up to 2 guests,No bathrooms,T0,1 bed,Real Bed
+House,Farm stay,Entire home/apt,Up to 7 guests or more,4+ bathrooms,T4+,4+ beds,Real Bed
+House,Farm stay,Private room,Up to 4 guests,1 bathroom,T1,3 beds,Real Bed
+House,Farm stay,Private room,Up to 6 guests,1 bathroom,T1,3 beds,Real Bed
+House,Farm stay,Private room,Up to 6 guests,1 bathroom,T2,3 beds,Real Bed
+House,Farm stay,Private room,Up to 6 guests,1 bathroom,T2,4+ beds,Real Bed
+Apartment,Apartment,Shared room,Up to 4 guests,1 bathroom,T1,No beds,Real Bed
+House,Casa particular (Cuba),Entire home/apt,Up to 4 guests,1 bathroom,T2,4+ beds,Real Bed
+Hotel/Hostel,Bed and breakfast,Private room,Up to 6 guests,2 bathrooms,T1,3 beds,Real Bed
+Apartment,Serviced apartment,Entire home/apt,Up to 4 guests,3 bathrooms,T2,2 beds,Real Bed
