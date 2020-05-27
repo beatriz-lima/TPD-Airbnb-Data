@@ -68,9 +68,10 @@ $$ LANGUAGE plpgsql;
 -- Create View
 DROP MATERIALIZED VIEW IF EXISTS metrics;
 CREATE MATERIALIZED VIEW IF NOT EXISTS metrics AS
-    SELECT normalized_cs.id, normalized_cs as cs, normalized_profit as profit, (normalized_cs + normalized_profit) as score
+    SELECT normalized_cs.id, avg(normalized_cs) as cs, avg(normalized_profit) as profit, avg(normalized_cs + normalized_profit) as score
     FROM normalized_cs(), normalized_profit()
-    WHERE normalized_cs.id = normalized_profit.id;
+    WHERE normalized_cs.id = normalized_profit.id
+    GROUP BY normalized_cs.id;
 
 --TEST
 SELECT * from metrics;
@@ -114,3 +115,8 @@ $$ LANGUAGE plpgsql;
 
 -- TOP 10
 SELECT * FROM topN(10);
+
+--Optimization
+
+CREATE INDEX score ON metrics(score desc);
+drop index score;
