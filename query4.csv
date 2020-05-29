@@ -1,0 +1,728 @@
+,year,parish,count,property_type_category,cp
+0,1967,Queluz,3,Apartment,2745-377
+765,2017,Queluz,1,Apartment,2745-377
+1530,2018,Queluz,4,Apartment,2745-377
+2295,2019,Queluz,3,Apartment,2745-377
+3060,1970,Lisboa,1,Apartment,1700-921
+14533,1985,Lisboa,2,Apartment,1700-921
+26006,2003,Lisboa,1,Apartment,1700-921
+37479,2003,Lisboa,1,Hotel/Hostel,1700-921
+48952,2009,Lisboa,3,Apartment,1700-921
+60425,2010,Lisboa,12,Apartment,1700-921
+71898,2010,Lisboa,2,Guesthouse,1700-921
+83371,2010,Lisboa,6,Hotel/Hostel,1700-921
+94844,2010,Lisboa,2,House,1700-921
+106317,2011,Lisboa,5,Apartment,1700-921
+117790,2012,Lisboa,33,Apartment,1700-921
+129263,2012,Lisboa,1,House,1700-921
+140736,2013,Lisboa,60,Apartment,1700-921
+152209,2013,Lisboa,1,Guesthouse,1700-921
+163682,2013,Lisboa,7,Hotel/Hostel,1700-921
+175155,2013,Lisboa,4,House,1700-921
+186628,2014,Lisboa,273,Apartment,1700-921
+198101,2014,Lisboa,1,Guesthouse,1700-921
+209574,2014,Lisboa,8,Hotel/Hostel,1700-921
+221047,2014,Lisboa,12,House,1700-921
+232520,2015,Lisboa,1140,Apartment,1700-921
+243993,2015,Lisboa,4,Guesthouse,1700-921
+255466,2015,Lisboa,27,Hotel/Hostel,1700-921
+266939,2015,Lisboa,17,House,1700-921
+278412,2016,Lisboa,1469,Apartment,1700-921
+289885,2016,Lisboa,30,Guesthouse,1700-921
+301358,2016,Lisboa,20,Hotel/Hostel,1700-921
+312831,2016,Lisboa,34,House,1700-921
+324304,2017,Lisboa,2604,Apartment,1700-921
+335777,2017,Lisboa,29,Guesthouse,1700-921
+347250,2017,Lisboa,28,Hotel/Hostel,1700-921
+358723,2017,Lisboa,45,House,1700-921
+370196,2018,Lisboa,3305,Apartment,1700-921
+381669,2018,Lisboa,37,Guesthouse,1700-921
+393142,2018,Lisboa,31,Hotel/Hostel,1700-921
+404615,2018,Lisboa,61,House,1700-921
+416088,2019,Lisboa,649,Apartment,1700-921
+427561,2019,Lisboa,10,Guesthouse,1700-921
+439034,2019,Lisboa,6,Hotel/Hostel,1700-921
+450507,2019,Lisboa,14,House,1700-921
+461980,2020,Lisboa,3,Apartment,1700-921
+473453,1986,Praia Grande,1,House,8400-273
+473458,2007,Praia Grande,1,House,8400-273
+473463,2017,Praia Grande,2,House,8400-273
+473468,2018,Praia Grande,1,House,8400-273
+473473,1998,Samarra,3,House,2705-735
+473474,2016,Samarra,1,House,2705-735
+473475,2019,Samarra,1,Apartment,2705-735
+473476,2002,Ericeira,1,Apartment,2655-504
+473916,2005,Ericeira,1,Apartment,2655-504
+474356,2005,Ericeira,1,House,2655-504
+474796,2006,Ericeira,1,House,2655-504
+475236,2009,Ericeira,2,House,2655-504
+475676,2011,Ericeira,1,Hotel/Hostel,2655-504
+476116,2012,Ericeira,5,Hotel/Hostel,2655-504
+476556,2012,Ericeira,1,House,2655-504
+476996,2013,Ericeira,3,House,2655-504
+477436,2014,Ericeira,6,Apartment,2655-504
+477876,2014,Ericeira,6,House,2655-504
+478316,2015,Ericeira,15,Apartment,2655-504
+478756,2015,Ericeira,2,Guesthouse,2655-504
+479196,2015,Ericeira,1,Hotel/Hostel,2655-504
+479636,2015,Ericeira,17,House,2655-504
+480076,2016,Ericeira,27,Apartment,2655-504
+480516,2016,Ericeira,3,Hotel/Hostel,2655-504
+480956,2016,Ericeira,16,House,2655-504
+481396,2017,Ericeira,48,Apartment,2655-504
+481836,2017,Ericeira,1,Guesthouse,2655-504
+482276,2017,Ericeira,5,Hotel/Hostel,2655-504
+482716,2017,Ericeira,21,House,2655-504
+483156,2018,Ericeira,46,Apartment,2655-504
+483596,2018,Ericeira,1,Guesthouse,2655-504
+484036,2018,Ericeira,25,House,2655-504
+484476,2019,Ericeira,15,Apartment,2655-504
+484916,2019,Ericeira,6,House,2655-504
+485356,2005,Ribeira de Ilhas,2,Hotel/Hostel,2640-51
+485357,2007,Mata Pequena,1,House,2640-366
+485358,2010,Almoçageme,1,Guesthouse,2705-335
+485457,2014,Almoçageme,1,Apartment,2705-335
+485556,2016,Almoçageme,2,House,2705-335
+485655,2017,Almoçageme,1,Hotel/Hostel,2705-335
+485754,2017,Almoçageme,8,House,2705-335
+485853,2018,Almoçageme,1,Apartment,2705-335
+485952,2018,Almoçageme,4,House,2705-335
+486051,2019,Almoçageme,2,House,2705-335
+486150,2010,Cascais,1,Apartment,2750-298
+486813,2010,Cascais,1,Hotel/Hostel,2750-298
+487476,2014,Cascais,6,Apartment,2750-298
+488139,2014,Cascais,2,Hotel/Hostel,2750-298
+488802,2014,Cascais,1,House,2750-298
+489465,2015,Cascais,36,Apartment,2750-298
+490128,2015,Cascais,6,House,2750-298
+490791,2016,Cascais,39,Apartment,2750-298
+491454,2016,Cascais,2,House,2750-298
+492117,2017,Cascais,69,Apartment,2750-298
+492780,2017,Cascais,1,Hotel/Hostel,2750-298
+493443,2017,Cascais,8,House,2750-298
+494106,2018,Cascais,81,Apartment,2750-298
+494769,2018,Cascais,9,Hotel/Hostel,2750-298
+495432,2018,Cascais,12,House,2750-298
+496095,2019,Cascais,47,Apartment,2750-298
+496758,2019,Cascais,3,Hotel/Hostel,2750-298
+497421,2019,Cascais,5,House,2750-298
+498084,2010,Colares,1,House,2705-347
+498153,2015,Colares,1,House,2705-347
+498222,2016,Colares,1,Hotel/Hostel,2705-347
+498291,2016,Colares,3,House,2705-347
+498360,2017,Colares,3,Apartment,2705-347
+498429,2017,Colares,1,House,2705-347
+498498,2018,Colares,1,Guesthouse,2705-347
+498567,2018,Colares,2,House,2705-347
+498636,2019,Colares,2,House,2705-347
+498705,2010,Galamares,1,House,2710-227
+498768,2015,Galamares,1,Apartment,2710-227
+498831,2015,Galamares,1,House,2710-227
+498894,2016,Galamares,1,House,2710-227
+498957,2017,Galamares,2,House,2710-227
+499020,2018,Galamares,3,House,2710-227
+499083,2010,Gouveia,1,House,5350-262
+499251,2014,Gouveia,2,House,5350-262
+499419,2016,Gouveia,1,House,5350-262
+499587,2018,Gouveia,1,House,5350-262
+499755,2010,Malveira da Serra,1,Apartment,2755-148
+499856,2015,Malveira da Serra,2,House,2755-148
+499957,2018,Malveira da Serra,1,Apartment,2755-148
+500058,2018,Malveira da Serra,5,House,2755-148
+500159,2019,Malveira da Serra,1,House,2755-148
+500260,2010,Praia da Areia Branca,1,House,2530-241
+500313,2012,Praia da Areia Branca,1,Apartment,2530-241
+500366,2012,Praia da Areia Branca,1,House,2530-241
+500419,2013,Praia da Areia Branca,2,Hotel/Hostel,2530-241
+500472,2014,Praia da Areia Branca,1,House,2530-241
+500525,2015,Praia da Areia Branca,1,Apartment,2530-241
+500578,2016,Praia da Areia Branca,3,Apartment,2530-241
+500631,2017,Praia da Areia Branca,1,Apartment,2530-241
+500684,2017,Praia da Areia Branca,1,House,2530-241
+500737,2018,Praia da Areia Branca,6,Apartment,2530-241
+500790,2018,Praia da Areia Branca,2,Hotel/Hostel,2530-241
+500843,2018,Praia da Areia Branca,4,House,2530-241
+500896,2019,Praia da Areia Branca,1,Apartment,2530-241
+500949,2019,Praia da Areia Branca,1,House,2530-241
+501002,2010,Praia das Maçãs,1,Apartment,2705-128
+501097,2012,Praia das Maçãs,3,Apartment,2705-128
+501192,2012,Praia das Maçãs,3,House,2705-128
+501287,2014,Praia das Maçãs,1,House,2705-128
+501382,2015,Praia das Maçãs,1,Apartment,2705-128
+501477,2015,Praia das Maçãs,2,House,2705-128
+501572,2016,Praia das Maçãs,1,Guesthouse,2705-128
+501667,2016,Praia das Maçãs,1,House,2705-128
+501762,2017,Praia das Maçãs,2,Apartment,2705-128
+501857,2017,Praia das Maçãs,3,House,2705-128
+501952,2018,Praia das Maçãs,4,Apartment,2705-128
+502047,2018,Praia das Maçãs,1,House,2705-128
+502142,2019,Praia das Maçãs,2,Apartment,2705-128
+502237,2019,Praia das Maçãs,4,House,2705-128
+502332,2010,Sintra,1,Guesthouse,4820-635
+502813,2012,Sintra,1,House,4820-635
+503294,2013,Sintra,1,Apartment,4820-635
+503775,2014,Sintra,7,Apartment,4820-635
+504256,2014,Sintra,1,Guesthouse,4820-635
+504737,2014,Sintra,1,Hotel/Hostel,4820-635
+505218,2014,Sintra,1,House,4820-635
+505699,2015,Sintra,9,Apartment,4820-635
+506180,2015,Sintra,1,Hotel/Hostel,4820-635
+506661,2015,Sintra,3,House,4820-635
+507142,2016,Sintra,6,Apartment,4820-635
+507623,2016,Sintra,4,Guesthouse,4820-635
+508104,2016,Sintra,4,Hotel/Hostel,4820-635
+508585,2016,Sintra,14,House,4820-635
+509066,2017,Sintra,40,Apartment,4820-635
+509547,2017,Sintra,5,Guesthouse,4820-635
+510028,2017,Sintra,3,Hotel/Hostel,4820-635
+510509,2017,Sintra,19,House,4820-635
+510990,2018,Sintra,17,Apartment,4820-635
+511471,2018,Sintra,2,Guesthouse,4820-635
+511952,2018,Sintra,14,House,4820-635
+512433,2019,Sintra,8,Apartment,4820-635
+512914,2011,Montoito,2,House,7200-53
+512916,2016,Montoito,1,House,7200-53
+512918,2018,Montoito,1,House,7200-53
+512920,2011,Penedo,1,Guesthouse,4550-876
+513078,2014,Penedo,3,House,4550-876
+513236,2016,Penedo,3,House,4550-876
+513394,2017,Penedo,1,Guesthouse,4550-876
+513552,2017,Penedo,3,House,4550-876
+513710,2011,Terrugem,1,Guesthouse,2770-184
+514005,2016,Terrugem,1,Apartment,2770-184
+514300,2017,Terrugem,2,House,2770-184
+514595,2018,Terrugem,2,House,2770-184
+514890,2019,Terrugem,2,Apartment,2770-184
+515185,2019,Terrugem,1,House,2770-184
+515480,2012,Fontanelas,1,House,2705-629
+515591,2017,Fontanelas,1,House,2705-629
+515702,2018,Fontanelas,1,House,2705-629
+515813,2019,Fontanelas,1,House,2705-629
+515924,2012,Pinhal da Nazaré,1,House,2705-235
+515955,2016,Pinhal da Nazaré,1,Apartment,2705-235
+515986,2017,Pinhal da Nazaré,3,House,2705-235
+516017,2018,Pinhal da Nazaré,1,Guesthouse,2705-235
+516048,2018,Pinhal da Nazaré,4,House,2705-235
+516079,2012,Ribamar,1,Apartment,2530-645
+516262,2015,Ribamar,2,House,2530-645
+516445,2016,Ribamar,5,House,2530-645
+516628,2017,Ribamar,5,Apartment,2530-645
+516811,2017,Ribamar,1,Guesthouse,2530-645
+516994,2017,Ribamar,4,Hotel/Hostel,2530-645
+517177,2017,Ribamar,6,House,2530-645
+517360,2018,Ribamar,2,Apartment,2530-645
+517543,2018,Ribamar,2,House,2530-645
+517726,2019,Ribamar,2,House,2530-645
+517909,2013,Areia Branca,1,Apartment,2530-70
+517951,2019,Areia Branca,1,House,2530-70
+517993,2013,Casal da Serra,2,House,6005-261
+518003,2016,Casal da Serra,2,House,6005-261
+518013,2013,Seixal,1,House,4540-497
+518184,2015,Seixal,1,House,4540-497
+518355,2017,Seixal,2,House,4540-497
+518526,2019,Seixal,1,Apartment,4540-497
+518697,2014,Arneiro,1,House,3040-752
+518798,2017,Arneiro,1,House,3040-752
+518899,2019,Arneiro,1,Apartment,3040-752
+519000,2014,Assafora,2,House,2705-495
+519150,2017,Assafora,3,House,2705-495
+519300,2018,Assafora,1,Apartment,2705-495
+519450,2018,Assafora,3,House,2705-495
+519600,2019,Assafora,1,Apartment,2705-495
+519750,2019,Assafora,2,Guesthouse,2705-495
+519900,2014,Atalaia,1,House,4520-804
+520183,2015,Atalaia,5,House,4520-804
+520466,2016,Atalaia,2,House,4520-804
+520749,2017,Atalaia,1,House,4520-804
+521032,2014,Belas,1,House,2605-198
+521208,2016,Belas,2,House,2605-198
+521384,2019,Belas,1,Apartment,2605-198
+521560,2014,Encarnação,1,House,2640-217
+521893,2015,Encarnação,1,Apartment,2640-217
+522226,2015,Encarnação,2,House,2640-217
+522559,2016,Encarnação,1,Apartment,2640-217
+522892,2016,Encarnação,1,Guesthouse,2640-217
+523225,2016,Encarnação,1,House,2640-217
+523558,2017,Encarnação,3,Apartment,2640-217
+523891,2017,Encarnação,3,House,2640-217
+524224,2018,Encarnação,1,Apartment,2640-217
+524557,2018,Encarnação,3,House,2640-217
+524890,2019,Encarnação,1,House,2640-217
+525223,2014,Estoril,3,House,2765-190
+525393,2015,Estoril,5,Apartment,2765-190
+525563,2016,Estoril,3,Apartment,2765-190
+525733,2016,Estoril,1,Guesthouse,2765-190
+525903,2016,Estoril,5,House,2765-190
+526073,2017,Estoril,13,Apartment,2765-190
+526243,2017,Estoril,2,Hotel/Hostel,2765-190
+526413,2017,Estoril,2,House,2765-190
+526583,2018,Estoril,10,Apartment,2765-190
+526753,2018,Estoril,4,House,2765-190
+526923,2019,Estoril,7,Apartment,2765-190
+527093,2019,Estoril,6,Hotel/Hostel,2765-190
+527263,2014,São João das Lampas,1,House,2705-737
+527340,2015,São João das Lampas,1,House,2705-737
+527417,2017,São João das Lampas,1,House,2705-737
+527494,2014,São João do Estoril,1,Apartment,2765-461
+527578,2015,São João do Estoril,5,Apartment,2765-461
+527662,2015,São João do Estoril,3,House,2765-461
+527746,2016,São João do Estoril,3,Apartment,2765-461
+527830,2017,São João do Estoril,11,Apartment,2765-461
+527914,2017,São João do Estoril,1,Guesthouse,2765-461
+527998,2017,São João do Estoril,1,House,2765-461
+528082,2018,São João do Estoril,5,Apartment,2765-461
+528166,2018,São João do Estoril,12,House,2765-461
+528250,2019,São João do Estoril,3,Apartment,2765-461
+528334,2014,Ulgueira,1,House,2705-349
+528335,2015,Ulgueira,2,House,2705-349
+528336,2015,A dos Cunhados,1,House,2560-6
+528418,2017,A dos Cunhados,1,Apartment,2560-6
+528500,2018,A dos Cunhados,1,House,2560-6
+528582,2015,Alcabideche,1,Apartment,2755-17
+528970,2015,Alcabideche,1,House,2755-17
+529358,2016,Alcabideche,1,House,2755-17
+529746,2017,Alcabideche,2,House,2755-17
+530134,2018,Alcabideche,4,Apartment,2755-17
+530522,2018,Alcabideche,1,House,2755-17
+530910,2019,Alcabideche,1,House,2755-17
+531298,2015,Alcoitão,1,House,2645-270
+531460,2015,Algés,1,Apartment,1495-66
+531629,2016,Algés,1,Apartment,1495-66
+531798,2016,Algés,2,Hotel/Hostel,1495-66
+531967,2017,Algés,2,Apartment,1495-66
+532136,2018,Algés,9,Apartment,1495-66
+532305,2019,Algés,1,Apartment,1495-66
+532474,2015,Amadora,1,Apartment,2720-515
+534528,2016,Amadora,6,Apartment,2720-515
+536582,2017,Amadora,9,Apartment,2720-515
+538636,2018,Amadora,12,Apartment,2720-515
+540690,2018,Amadora,1,House,2720-515
+542744,2019,Amadora,8,Apartment,2720-515
+544798,2019,Amadora,1,House,2720-515
+546852,2015,Areia,1,House,4740-77
+546995,2018,Areia,2,Apartment,4740-77
+547138,2018,Areia,1,House,4740-77
+547281,2015,Bairro de Santo António,1,Apartment,2765-596
+547331,2015,Bairro de Santo António,2,Guesthouse,2765-596
+547381,2016,Bairro de Santo António,1,Apartment,2765-596
+547431,2018,Bairro de Santo António,1,Apartment,2765-596
+547481,2018,Bairro de Santo António,1,House,2765-596
+547531,2015,Beira,1,House,4525-302
+547534,2015,Birre,4,House,2750-53
+547625,2018,Birre,1,Hotel/Hostel,2750-53
+547716,2018,Birre,9,House,2750-53
+547807,2019,Birre,3,House,2750-53
+547898,2015,Carcavelos,4,Apartment,3720-504
+548096,2015,Carcavelos,3,House,3720-504
+548294,2016,Carcavelos,3,Apartment,3720-504
+548492,2016,Carcavelos,1,Hotel/Hostel,3720-504
+548690,2016,Carcavelos,3,House,3720-504
+548888,2017,Carcavelos,3,Apartment,3720-504
+549086,2017,Carcavelos,3,Hotel/Hostel,3720-504
+549284,2017,Carcavelos,4,House,3720-504
+549482,2018,Carcavelos,7,Apartment,3720-504
+549680,2019,Carcavelos,2,Apartment,3720-504
+549878,2019,Carcavelos,1,House,3720-504
+550076,2015,Carnaxide,1,Apartment,2790-260
+550464,2015,Carnaxide,1,House,2790-260
+550852,2017,Carnaxide,2,Apartment,2790-260
+551240,2018,Carnaxide,1,Apartment,2790-260
+551628,2018,Carnaxide,1,Guesthouse,2790-260
+552016,2019,Carnaxide,1,Apartment,2790-260
+552404,2015,Carrascal,7,Hotel/Hostel,7665-891
+552471,2017,Carrascal,1,House,7665-891
+552538,2018,Carrascal,1,House,7665-891
+552605,2019,Carrascal,1,House,7665-891
+552672,2015,Carvoeira,1,House,3360-179
+552754,2017,Carvoeira,1,House,3360-179
+552836,2018,Carvoeira,1,House,3360-179
+552918,2015,Casais de Cabrela,1,House,2715-774
+552929,2015,Casais de Monte Bom,1,House,2640-59
+552930,2016,Casais de Monte Bom,1,House,2640-59
+552931,2019,Casais de Monte Bom,1,House,2640-59
+552932,2015,Casal da Granja,4,House,2500-334
+552956,2016,Casal da Granja,2,Apartment,2500-334
+552980,2017,Casal da Granja,1,Hotel/Hostel,2500-334
+553004,2018,Casal da Granja,1,House,2500-334
+553028,2015,Casal Ventoso,1,House,2560-42
+553031,2016,Casal Ventoso,2,Apartment,2560-42
+553034,2017,Casal Ventoso,2,Apartment,2560-42
+553037,2019,Casal Ventoso,1,Apartment,2560-42
+553040,2015,Cobre,1,House,2750-552
+553142,2016,Cobre,1,Apartment,2750-552
+553244,2016,Cobre,2,House,2750-552
+553346,2017,Cobre,2,Apartment,2750-552
+553448,2017,Cobre,1,House,2750-552
+553550,2018,Cobre,1,Apartment,2750-552
+553652,2019,Cobre,3,Hotel/Hostel,2750-552
+553754,2019,Cobre,1,House,2750-552
+553856,2015,Fonte Boa da Brincosa,2,Apartment,2655-9
+553920,2016,Fonte Boa da Brincosa,3,Apartment,2655-9
+553984,2017,Fonte Boa da Brincosa,2,Apartment,2655-9
+554048,2018,Fonte Boa da Brincosa,2,Apartment,2655-9
+554112,2018,Fonte Boa da Brincosa,2,House,2655-9
+554176,2019,Fonte Boa da Brincosa,2,Apartment,2655-9
+554240,2019,Fonte Boa da Brincosa,2,House,2655-9
+554304,2015,Lapas Grandes,1,House,2565-517
+554305,2015,Linda-a-Pastora,1,House,2790-417
+554375,2017,Linda-a-Pastora,1,House,2790-417
+554445,2015,Mafra,1,House,2640-431
+554952,2016,Mafra,1,Guesthouse,2640-431
+555459,2016,Mafra,1,House,2640-431
+555966,2017,Mafra,3,House,2640-431
+556473,2018,Mafra,3,Apartment,2640-431
+556980,2018,Mafra,2,House,2640-431
+557487,2019,Mafra,1,House,2640-431
+557994,2015,Manique de Baixo,1,House,2645-321
+558027,2015,Marvão,1,Apartment,4540-708
+558077,2015,Marvão,1,House,4540-708
+558127,2016,Marvão,1,House,4540-708
+558177,2018,Marvão,1,House,4540-708
+558227,2015,Monte Estoril,4,Apartment,7050-670
+558367,2015,Monte Estoril,2,House,7050-670
+558507,2016,Monte Estoril,3,Apartment,7050-670
+558647,2017,Monte Estoril,6,Apartment,7050-670
+558787,2017,Monte Estoril,3,Guesthouse,7050-670
+558927,2017,Monte Estoril,2,House,7050-670
+559067,2018,Monte Estoril,12,Apartment,7050-670
+559207,2018,Monte Estoril,2,House,7050-670
+559347,2019,Monte Estoril,6,Apartment,7050-670
+559487,2019,Monte Estoril,1,Guesthouse,7050-670
+559627,2019,Monte Estoril,1,House,7050-670
+559767,2015,Montejunto,2,House,2550-367
+559768,2018,Montejunto,1,House,2550-367
+559769,2015,Odrinhas,1,House,2705-739
+559810,2015,Paço de Arcos,1,Apartment,2770-228
+560047,2016,Paço de Arcos,2,Apartment,2770-228
+560284,2017,Paço de Arcos,6,Apartment,2770-228
+560521,2017,Paço de Arcos,2,House,2770-228
+560758,2018,Paço de Arcos,8,Apartment,2770-228
+560995,2019,Paço de Arcos,1,Apartment,2770-228
+561232,2015,Parede,3,Apartment,2775-21
+561512,2016,Parede,1,Apartment,2775-21
+561792,2017,Parede,9,Apartment,2775-21
+562072,2017,Parede,1,House,2775-21
+562352,2018,Parede,17,Apartment,2775-21
+562632,2018,Parede,1,Guesthouse,2775-21
+562912,2018,Parede,10,Hotel/Hostel,2775-21
+563192,2019,Parede,5,Apartment,2775-21
+563472,2019,Parede,4,House,2775-21
+563752,2015,Praia do Navio,2,House,2560-51
+563753,2015,Quinta da Marinha,3,House,6100-688
+563798,2017,Quinta da Marinha,2,House,6100-688
+563843,2018,Quinta da Marinha,1,Apartment,6100-688
+563888,2018,Quinta da Marinha,1,Guesthouse,6100-688
+563933,2018,Quinta da Marinha,3,House,6100-688
+563978,2015,Rebelva,1,House,2775-700
+564049,2016,Rebelva,1,Guesthouse,2775-700
+564120,2017,Rebelva,1,Apartment,2775-700
+564191,2017,Rebelva,1,House,2775-700
+564262,2018,Rebelva,1,Apartment,2775-700
+564333,2018,Rebelva,2,Guesthouse,2775-700
+564404,2019,Rebelva,2,Apartment,2775-700
+564475,2015,Relva,1,House,4520-510
+564571,2015,Rodízio,2,Guesthouse,2705-352
+564594,2015,Rodízio,3,House,2705-352
+564617,2017,Rodízio,3,House,2705-352
+564640,2018,Rodízio,1,Guesthouse,2705-352
+564663,2015,Santa Cruz,1,House,3730-702
+565127,2016,Santa Cruz,1,Apartment,3730-702
+565591,2017,Santa Cruz,4,Apartment,3730-702
+566055,2018,Santa Cruz,2,Apartment,3730-702
+566519,2015,São Pedro do Estoril,3,Apartment,2765-530
+566583,2015,São Pedro do Estoril,1,House,2765-530
+566647,2016,São Pedro do Estoril,3,Apartment,2765-530
+566711,2017,São Pedro do Estoril,4,Apartment,2765-530
+566775,2018,São Pedro do Estoril,10,Apartment,2765-530
+566839,2018,São Pedro do Estoril,1,House,2765-530
+566903,2019,São Pedro do Estoril,1,Apartment,2765-530
+566967,2019,São Pedro do Estoril,1,Hotel/Hostel,2765-530
+567031,2015,Tojeira,1,House,4860-212
+567134,2019,Tojeira,1,House,4860-212
+567237,2015,Vale do Paraiso,1,House,2050-451
+567308,2016,Agualva-Cacém,1,Apartment,2735-412
+568076,2017,Agualva-Cacém,1,Apartment,2735-412
+568844,2018,Agualva-Cacém,1,Apartment,2735-412
+569612,2019,Agualva-Cacém,1,Apartment,2735-412
+570380,2016,Aldeia de Juzo,2,House,2750-45
+570453,2017,Aldeia de Juzo,5,House,2750-45
+570526,2018,Aldeia de Juzo,1,Guesthouse,2750-45
+570599,2019,Aldeia de Juzo,1,House,2750-45
+570672,2016,Aldeia Galega,2,House,2580-81
+570721,2016,Alto dos Gaios,1,House,2765-61
+570748,2018,Alto dos Gaios,1,House,2765-61
+570775,2016,Areias,1,Apartment,4520-803
+570948,2016,Areias,2,House,4520-803
+571121,2017,Areias,2,House,4520-803
+571294,2018,Areias,2,Apartment,4520-803
+571467,2018,Areias,4,House,4520-803
+571640,2019,Areias,2,Apartment,4520-803
+571813,2019,Areias,1,House,4520-803
+571986,2016,Assenta,1,House,2560-191
+571988,2018,Assenta,1,House,2560-191
+571990,2016,Azenhas do Mar,2,House,2705-102
+572061,2017,Azenhas do Mar,2,House,2705-102
+572132,2018,Azenhas do Mar,1,Apartment,2705-102
+572203,2018,Azenhas do Mar,2,House,2705-102
+572274,2019,Azenhas do Mar,1,House,2705-102
+572345,2016,Azoia,1,Apartment,8600-12
+572349,2017,Azoia,1,House,8600-12
+572353,2018,Azoia,1,House,8600-12
+572357,2016,Banzão,1,House,2705-143
+572408,2017,Banzão,1,Guesthouse,2705-143
+572459,2017,Banzão,4,House,2705-143
+572510,2018,Banzão,1,House,2705-143
+572561,2016,Cachoeiras,1,House,2600-581
+572562,2016,Casal Cabeça Ruiva,1,House,2560-409
+572564,2016,Casal Cochim,1,House,2560-405
+572565,2017,Casal Cochim,1,House,2560-405
+572566,2016,Casal da Galharda,1,Apartment,2530-685
+572567,2016,Casal da Murta,2,House,2500-341
+572570,2018,Casal da Murta,2,Apartment,2500-341
+572573,2016,Casal da Serpigeira Nova,1,House,2560-58
+572574,2016,Caxias,1,Apartment,2760-59
+572650,2017,Caxias,1,Apartment,2760-59
+572726,2018,Caxias,1,Apartment,2760-59
+572802,2019,Caxias,1,Apartment,2760-59
+572878,2016,Galiza,1,Apartment,2765-325
+572950,2017,Galiza,5,Hotel/Hostel,2765-325
+573022,2017,Galiza,3,House,2765-325
+573094,2018,Galiza,1,Apartment,2765-325
+573166,2018,Galiza,4,House,2765-325
+573238,2016,Junqueiro,2,Apartment,3750-676
+573274,2017,Junqueiro,1,Apartment,3750-676
+573310,2018,Junqueiro,5,Apartment,3750-676
+573346,2016,Linda a Velha,1,Apartment,2795-248
+573621,2017,Linda a Velha,4,Apartment,2795-248
+573896,2018,Linda a Velha,1,Apartment,2795-248
+574171,2016,Linhó,1,House,2645-2
+574328,2017,Linhó,1,House,2645-2
+574485,2019,Linhó,1,Guesthouse,2645-2
+574642,2019,Linhó,1,House,2645-2
+574799,2016,Lourel,1,House,2725-200
+574804,2017,Lourel,1,House,2725-200
+574809,2018,Lourel,1,Guesthouse,2725-200
+574814,2016,Magoito,1,Apartment,8950-332
+574894,2017,Magoito,1,Apartment,8950-332
+574974,2017,Magoito,6,House,8950-332
+575054,2018,Magoito,1,Apartment,8950-332
+575134,2018,Magoito,1,House,8950-332
+575214,2019,Magoito,1,Apartment,8950-332
+575294,2019,Magoito,1,House,8950-332
+575374,2016,Miraflores,1,Apartment,1495-192
+575455,2017,Miraflores,1,Apartment,1495-192
+575536,2018,Miraflores,1,Apartment,1495-192
+575617,2016,Moscavide,2,Apartment,1885-26
+575727,2017,Moscavide,3,Apartment,1885-26
+575837,2018,Moscavide,16,Apartment,1885-26
+575947,2019,Moscavide,1,Apartment,1885-26
+576057,2016,Murches,2,House,2755-252
+576145,2017,Murches,4,House,2755-252
+576233,2018,Murches,1,House,2755-252
+576321,2019,Murches,1,Apartment,2755-252
+576409,2019,Murches,1,House,2755-252
+576497,2016,Oeiras,2,Apartment,2780-495
+576939,2017,Oeiras,12,Apartment,2780-495
+577381,2017,Oeiras,1,House,2780-495
+577823,2018,Oeiras,13,Apartment,2780-495
+578265,2018,Oeiras,3,House,2780-495
+578707,2019,Oeiras,2,Apartment,2780-495
+579149,2016,Paço D'Ilhas,1,Guesthouse,2640-825
+579150,2016,Palhais,1,House,3130-123
+579210,2017,Palhais,1,House,3130-123
+579270,2018,Palhais,1,Hotel/Hostel,3130-123
+579330,2016,Paúl,1,Apartment,3730-658
+579343,2016,Porto Novo,1,Apartment,3730-301
+579351,2018,Porto Novo,2,Apartment,3730-301
+579359,2016,Ramalhal,1,House,4550-401
+579425,2016,Sabugo,1,House,2715-472
+579500,2016,São Pedro,1,Apartment,3780-415
+579621,2017,São Pedro,9,Apartment,3780-415
+579742,2017,São Pedro,6,House,3780-415
+579863,2018,São Pedro,4,Apartment,3780-415
+579984,2018,São Pedro,1,Hotel/Hostel,3780-415
+580105,2018,São Pedro,4,House,3780-415
+580226,2019,São Pedro,2,Apartment,3780-415
+580347,2019,São Pedro,2,House,3780-415
+580468,2016,Torre,3,Hotel/Hostel,4550-553
+580779,2017,Torre,2,House,4550-553
+581090,2018,Torre,1,Apartment,4550-553
+581401,2018,Torre,1,Guesthouse,4550-553
+581712,2018,Torre,3,House,4550-553
+582023,2016,Torres Vedras,1,Apartment,2560-375
+582826,2017,Torres Vedras,1,Apartment,2560-375
+583629,2016,Vermelha,1,House,3280-105
+583689,2016,Vila Nova,1,House,4540-55
+583815,2018,Vila Nova,1,House,4540-55
+583941,2017,Abelheira,1,House,4540-291
+583994,2018,Abelheira,1,House,4540-291
+584047,2017,Abrunheira,1,Apartment,3300-351
+584227,2018,Abrunheira,7,House,3300-351
+584407,2017,Achada,3,House,2640-544
+584493,2017,Adão Lobo,2,House,2550-101
+584494,2017,Algueirão,3,House,2725-40
+584963,2018,Algueirão,2,Apartment,2725-40
+585432,2018,Algueirão,3,Guesthouse,2725-40
+585901,2018,Algueirão,2,House,2725-40
+586370,2017,Almeirinhos de Baixo,1,House,2565-778
+586371,2017,Alverca do Ribatejo,1,Apartment,2615-187
+586858,2019,Alverca do Ribatejo,1,Apartment,2615-187
+587345,2017,Azenha Velha,1,House,2560-192
+587347,2017,Bairro da Martinha,1,House,2645-536
+587361,2017,Barreira,1,Apartment,3770-12
+587383,2017,Barril,4,House,2655-20
+587467,2018,Barril,1,Apartment,2655-20
+587551,2018,Barril,2,House,2655-20
+587635,2017,Boavista,1,House,3850-480
+587852,2017,Bombardeira,1,Apartment,2560-49
+587853,2017,Bombardeira,1,House,2560-49
+587854,2017,Cabeça Gorda,1,House,7800-631
+587994,2017,Cabriz,1,House,6300-245
+588043,2018,Cabriz,2,House,6300-245
+588092,2019,Cabriz,1,House,6300-245
+588141,2017,Camarate,1,Apartment,8670-416
+588653,2017,Casal Arneiro da Vinha,1,House,2560-57
+588654,2017,Casal Casica,1,Hotel/Hostel,2560-46
+588655,2017,Casal Marcelino,2,House,2565-589
+588656,2017,Cesaredas,1,House,2530-573
+588692,2019,Cesaredas,1,House,2530-573
+588728,2017,Charneca,1,Apartment,4550-362
+588822,2017,Charneca,1,Hotel/Hostel,4550-362
+588916,2017,Charneca,3,House,4550-362
+589010,2019,Charneca,1,Apartment,4550-362
+589104,2019,Charneca,2,House,4550-362
+589198,2017,Codiceira,1,House,6100-637
+589201,2017,Cruz Quebrada,1,Apartment,1495-709
+589258,2018,Cruz Quebrada,2,Apartment,1495-709
+589315,2017,Estalagem,1,House,3090-414
+589322,2018,Estalagem,1,House,3090-414
+589329,2017,Eugaria,1,House,2705-200
+589340,2017,Igreja Nova,1,House,4750-505
+589579,2018,Igreja Nova,1,Guesthouse,4750-505
+589818,2018,Igreja Nova,4,House,4750-505
+590057,2017,Janas,6,House,2710-285
+590131,2018,Janas,3,House,2710-285
+590205,2019,Janas,1,Guesthouse,2710-285
+590279,2017,Lagoa,1,House,7630-348
+590771,2018,Lagoa,1,Apartment,7630-348
+591263,2019,Lagoa,1,House,7630-348
+591755,2017,Lapa da Serra,1,Guesthouse,2655-116
+591770,2017,Laveiras,1,Apartment,2760-9
+591850,2019,Laveiras,3,Apartment,2760-9
+591930,2017,Lombos,2,Apartment,8400-411
+591972,2018,Lombos,3,Apartment,8400-411
+592014,2018,Lombos,1,House,8400-411
+592056,2019,Lombos,7,Apartment,8400-411
+592098,2019,Lombos,1,House,8400-411
+592140,2017,Loures,1,House,2670-331
+592692,2019,Loures,1,Apartment,2670-331
+593244,2017,Lourinhã,1,Apartment,2530-128
+593426,2017,Lourinhã,1,House,2530-128
+593608,2018,Lourinhã,1,House,2530-128
+593790,2019,Lourinhã,1,House,2530-128
+593972,2017,Lousa,1,House,3750-22
+594253,2019,Lousa,1,House,3750-22
+594534,2017,Maxial,1,House,3320-54
+594593,2017,Mucifal,5,House,2705-355
+594679,2018,Mucifal,4,House,2705-355
+594765,2019,Mucifal,1,House,2705-355
+594851,2017,Olhalvo,1,Apartment,2580-233
+594894,2017,Pontinha,2,Apartment,6160-460
+595472,2018,Pontinha,5,Apartment,6160-460
+596050,2017,Portela,1,Apartment,4540-236
+596520,2018,Portela,3,Apartment,4540-236
+596990,2019,Portela,1,Apartment,4540-236
+597460,2017,Porto Salvo,1,House,2740-315
+597701,2018,Porto Salvo,1,Apartment,2740-315
+597942,2017,Póvoa de Santo Adrião,4,Apartment,2620-139
+598083,2019,Póvoa de Santo Adrião,1,Apartment,2620-139
+598224,2017,Pragança,1,House,2550-371
+598225,2018,Pragança,1,House,2550-371
+598226,2017,Praia Azul,1,House,2560-396
+598227,2018,Praia Azul,1,House,2560-396
+598228,2017,Prior Velho,1,Apartment,2685-384
+598400,2017,Rinchoa,1,Apartment,2635-593
+598545,2018,Rinchoa,1,Apartment,2635-593
+598690,2017,Rio de Mouro,1,Apartment,2635-177
+598966,2017,Rio de Mouro,3,Guesthouse,2635-177
+599242,2018,Rio de Mouro,1,Apartment,2635-177
+599518,2019,Rio de Mouro,1,Apartment,2635-177
+599794,2019,Rio de Mouro,1,House,2635-177
+600070,2017,Sacavém,6,Apartment,2685-14
+600308,2018,Sacavém,2,Apartment,2685-14
+600546,2017,Santo Isidoro,1,House,2640-48
+600698,2018,Santo Isidoro,3,House,2640-48
+600850,2019,Santo Isidoro,1,House,2640-48
+601002,2017,São Marcos,1,Apartment,3850-240
+601090,2019,São Marcos,1,Apartment,3850-240
+601178,2017,Sobral de Monte Agraço,1,House,2590-54
+601343,2017,Sobrena,1,House,2550-458
+601344,2017,Soupo,1,House,2580-157
+601345,2017,Tagarro,2,House,2065-201
+601405,2017,Toxofal de Cima,1,House,2530-319
+601406,2017,Valbom,1,House,7750-54
+601672,2017,Varge Mondar,1,House,2635-530
+601711,2017,Várzea de Sintra,1,House,2710-664
+601787,2018,Várzea de Sintra,4,House,2710-664
+601863,2019,Várzea de Sintra,1,House,2710-664
+601939,2017,Zambujal,1,House,7750-228
+602054,2018,Almorquim,2,House,2705-834
+602055,2018,Amoreira,1,Apartment,6150-313
+602306,2018,Amoreira,1,Guesthouse,6150-313
+602557,2018,Apelação,1,Apartment,2680-325
+602647,2018,Arneiro de Arreganha,1,House,2705-408
+602654,2018,Arruda dos Vinhos,1,House,2630-192
+602901,2018,Baleia,1,House,2655-129
+602942,2018,Barcarena,1,Apartment,2730-305
+603045,2018,Bracial,1,House,3060-584
+603047,2018,Bucelas,2,House,2674-508
+603183,2018,Cardosas,1,House,2630-433
+603246,2018,Casal de Cambra,5,House,2605-895
+603506,2018,Casal do Labrusque,1,House,2530-56
+603507,2018,Chã,2,House,4540-30
+603576,2018,Coutada,1,House,4850-288
+603639,2018,Fontelas,2,House,4860-280
+603745,2018,Freiria,1,House,4740-437
+603829,2018,Gradil,1,House,2665-142
+603899,2018,Lameiras,1,House,3740-41
+603955,2018,Livramento,1,House,2480-162
+604087,2018,Maceira,1,Apartment,5335-135
+604234,2018,Madorna,1,House,2785-760
+604283,2018,Manique,1,House,2645-458
+604385,2018,Mercês,3,Apartment,7160-15
+604463,2018,Monte Leite,1,Apartment,2765-281
+604479,2018,Murtal,1,Guesthouse,3250-417
+604577,2019,Murtal,1,Guesthouse,3250-417
+604675,2019,Murtal,2,House,3250-417
+604773,2018,Odivelas,7,Apartment,7900-374
+605436,2018,Odivelas,1,House,7900-374
+606099,2019,Odivelas,3,Apartment,7900-374
+606762,2018,Outeiro de Polima,1,Apartment,2785-513
+606834,2018,Pai do Vento,2,Apartment,2755-273
+606864,2019,Pai do Vento,5,Apartment,2755-273
+606894,2018,Picanceira,1,House,2640-71
+606895,2018,Queijas,1,Apartment,2790-388
+607040,2018,Ramada,1,House,4520-158
+607495,2018,Rana,1,Apartment,2785-563
+607578,2018,Reguengo Pequeno,1,Apartment,2530-694
+607605,2018,Reguengo Pequeno,1,House,2530-694
+607632,2018,Sobral,1,House,3880-101
+607746,2018,Tires,1,House,2785-244
+608032,2019,Tires,1,Apartment,2785-244
+608318,2018,Venda do Pinheiro,1,Hotel/Hostel,2665-496
+608563,2018,Venda do Pinheiro,1,House,2665-496
+608808,2018,Vimeiro,1,House,7630-366
+608865,2018,Zambujeira,2,House,7700-221
+608915,2019,Amoeiras,1,House,2560-449
+608916,2019,Bicesse,5,House,2645-528
+609049,2019,Casal das Curtinhas,1,House,2530-564
+609052,2019,Casalinhos de Alfaiata,2,House,2560-428
+609149,2019,Dafundo,1,Apartment,1495-724
+609204,2019,Foz do Lizandro,1,House,2655-130
+609212,2019,Freixial,1,House,6230-771
+609223,2019,Monte Arroio,1,House,2705-701
+609224,2019,Póvoa,1,House,3850-829
+609378,2019,Póvoa de Santa Iria,2,Apartment,2625-39
+609688,2019,Quinta de São José,1,Apartment,2600-710
+609694,2019,Quinta de São José,1,House,2600-710
+609700,2019,Sassoeiros,1,Apartment,2775-530
