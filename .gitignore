@@ -3,7 +3,7 @@
 .ipynb_checkpoints
 data
 docker
-
+volumes
 .idea/
 Notebooks/__pycache__
 db_connection.py
